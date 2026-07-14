@@ -30,6 +30,14 @@ export default async function ShopLayout({
               {user.storeName}
             </span>
             <nav className="ml-auto flex items-center gap-3 sm:gap-4 text-sm">
+              {user.role === "ADMIN" && (
+                <Link
+                  href="/admin/orders"
+                  className="text-neutral-600 hover:text-neutral-900 whitespace-nowrap"
+                >
+                  ← {t(lang, "adminBack")}
+                </Link>
+              )}
               <Link
                 href="/orders"
                 className="text-neutral-600 hover:text-neutral-900 whitespace-nowrap"
