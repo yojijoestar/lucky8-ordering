@@ -1,0 +1,5992 @@
+[
+ {
+  "sku": "LZZL01",
+  "nameEn": "LJJ-Cheese Soft Bread Stick",
+  "nameZh": "樂錦記 (寶寶餓了) 乳酪軟心棒麵包",
+  "brand": "樂錦記 LJJ",
+  "category": "",
+  "packSize": "380g x 10bags/cs",
+  "imagePath": "/products/LZZL01.jpg",
+  "sortOrder": 0
+ },
+ {
+  "sku": "LZZL02",
+  "nameEn": "LJJ-Bread Stick (Milk Flavor)",
+  "nameZh": "樂錦記 撕棒麵包 (奶香原味)",
+  "brand": "樂錦記 LJJ",
+  "category": "",
+  "packSize": "380g x 10bags/cs",
+  "imagePath": "/products/LZZL02.jpg",
+  "sortOrder": 1
+ },
+ {
+  "sku": "LZZL03",
+  "nameEn": "LJJ-Bread Stick (Cranberry Flavor)",
+  "nameZh": "樂錦記 撕棒麵包 (蔓越莓味)",
+  "brand": "樂錦記 LJJ",
+  "category": "",
+  "packSize": "380g x 10bags/cs",
+  "imagePath": "/products/LZZL03.jpg",
+  "sortOrder": 2
+ },
+ {
+  "sku": "LZZL04",
+  "nameEn": "LJJ-Butter Tear Bread",
+  "nameZh": "樂錦記 黃油年輪手撕麵包",
+  "brand": "樂錦記 LJJ",
+  "category": "",
+  "packSize": "320g x 10bags/cs",
+  "imagePath": "/products/LZZL04.jpg",
+  "sortOrder": 3
+ },
+ {
+  "sku": "LZZL05",
+  "nameEn": "LJJ-Butter Bread (Cheese Flavor)",
+  "nameZh": "樂錦記 黃油注心麵包",
+  "brand": "樂錦記 LJJ",
+  "category": "",
+  "packSize": "320g x 10bags/cs",
+  "imagePath": "/products/LZZL05.jpg",
+  "sortOrder": 4
+ },
+ {
+  "sku": "LZZL06",
+  "nameEn": "LJJ-Cube Raw Toast (Original Flavor)",
+  "nameZh": "樂錦記 魔方生吐司(四連裝)",
+  "brand": "樂錦記 LJJ",
+  "category": "",
+  "packSize": "320g x 10bags/cs",
+  "imagePath": "/products/LZZL06.jpg",
+  "sortOrder": 5
+ },
+ {
+  "sku": "LZZL08",
+  "nameEn": "LJJ-Bread Stick (Rock Grilled Cheese Flavor)",
+  "nameZh": "樂錦記 岩燒乳酪棒麵包",
+  "brand": "樂錦記 LJJ",
+  "category": "",
+  "packSize": "320g x 10bags/cs",
+  "imagePath": "/products/LZZL08.jpg",
+  "sortOrder": 6
+ },
+ {
+  "sku": "LZZL09",
+  "nameEn": "LJJ-Sweetheart Pastry",
+  "nameZh": "樂錦記 廣州風味老婆餅",
+  "brand": "樂錦記 LJJ",
+  "category": "",
+  "packSize": "370g x 10bags/cs",
+  "imagePath": "/products/LZZL09.jpg",
+  "sortOrder": 7
+ },
+ {
+  "sku": "LZZL15",
+  "nameEn": "LJJ-Banana Bread",
+  "nameZh": "樂錦記 香蕉包",
+  "brand": "樂錦記 LJJ",
+  "category": "",
+  "packSize": "380g x 10bags/cs",
+  "imagePath": "/products/LZZL15.jpg",
+  "sortOrder": 8
+ },
+ {
+  "sku": "LZZL18",
+  "nameEn": "LJJ-Bread Stick (Mango Flavor)",
+  "nameZh": "樂錦記 撕棒麵包(芒果味)",
+  "brand": "樂錦記 LJJ",
+  "category": "",
+  "packSize": "380g x 10bags/cs",
+  "imagePath": "/products/LZZL18.jpg",
+  "sortOrder": 9
+ },
+ {
+  "sku": "LZZL30",
+  "nameEn": "LJJ-Oriental Cookies (Black Sesame Flavor)",
+  "nameZh": "樂錦記 宮廷桃酥(黑芝麻味)",
+  "brand": "樂錦記 LJJ",
+  "category": "",
+  "packSize": "500g x 12boxes/cs",
+  "imagePath": "/products/LZZL30.jpg",
+  "sortOrder": 10
+ },
+ {
+  "sku": "LZZL32",
+  "nameEn": "LJJ-Light Cheesecake",
+  "nameZh": "樂錦記 輕芝士蛋糕",
+  "brand": "樂錦記 LJJ",
+  "category": "",
+  "packSize": "300g x 10bags/cs",
+  "imagePath": "/products/LZZL32.jpg",
+  "sortOrder": 11
+ },
+ {
+  "sku": "LZZL33",
+  "nameEn": "LJJ-Mille-Feuille Toast",
+  "nameZh": "樂錦記 千層魔方麵包",
+  "brand": "樂錦記 LJJ",
+  "category": "",
+  "packSize": "320g x 10bags/cs",
+  "imagePath": "/products/LZZL33.jpg",
+  "sortOrder": 12
+ },
+ {
+  "sku": "LZZL34",
+  "nameEn": "LJJ-Rock Grilled Bread (Durian Flavor)",
+  "nameZh": "樂錦記 榴蓮岩燒麵包",
+  "brand": "樂錦記 LJJ",
+  "category": "",
+  "packSize": "320g x 10bags/cs",
+  "imagePath": "/products/LZZL34.jpg",
+  "sortOrder": 13
+ },
+ {
+  "sku": "DLYB01",
+  "nameEn": "DLY-Breakfast Bread",
+  "nameZh": "達利園 早餐麵包",
+  "brand": "達利園 DLY",
+  "category": "",
+  "packSize": "400g x 16bags/cs",
+  "imagePath": "/products/DLYB01.jpg",
+  "sortOrder": 14
+ },
+ {
+  "sku": "DLYB05",
+  "nameEn": "DLY-Nagasaki Cake",
+  "nameZh": "達利園 長崎蛋糕",
+  "brand": "達利園 DLY",
+  "category": "",
+  "packSize": "400g x 9bags/cs",
+  "imagePath": "/products/DLYB05.jpg",
+  "sortOrder": 15
+ },
+ {
+  "sku": "DLYR01",
+  "nameEn": "DLY-Soft Bread (Cream)",
+  "nameZh": "達利園 軟麵包(奶香)",
+  "brand": "達利園 DLY",
+  "category": "",
+  "packSize": "360g x 12bags/cs",
+  "imagePath": "/products/DLYR01.jpg",
+  "sortOrder": 16
+ },
+ {
+  "sku": "DLYR02",
+  "nameEn": "DLY-Soft Bread (Orange)",
+  "nameZh": "達利園 軟麵包(香橙)",
+  "brand": "達利園 DLY",
+  "category": "",
+  "packSize": "360g x 12bags/cs",
+  "imagePath": "/products/DLYR02.jpg",
+  "sortOrder": 17
+ },
+ {
+  "sku": "DLYX01",
+  "nameEn": "DLY-Mini French Bread",
+  "nameZh": "達利園 小麵包",
+  "brand": "達利園 DLY",
+  "category": "",
+  "packSize": "400g x 12bags/cs",
+  "imagePath": "/products/DLYX01.jpg",
+  "sortOrder": 18
+ },
+ {
+  "sku": "LUCK801",
+  "nameEn": "Lucky Bunny-Bursting Bread (Mango Flavor)",
+  "nameZh": "Lucky Bunny 爆漿麵包(芒果味)",
+  "brand": "Lucky Bunny",
+  "category": "",
+  "packSize": "320g x 16bags/cs",
+  "imagePath": "/products/LUCK801.jpg",
+  "sortOrder": 19
+ },
+ {
+  "sku": "ACCQ01",
+  "nameEn": "Hokkaido-Nagasaki Cake (Fresh Milk)",
+  "nameZh": "北海道 長崎蛋糕(鮮乳味)",
+  "brand": "北海道 Hokkaido",
+  "category": "",
+  "packSize": "330g x 12bags/cs",
+  "imagePath": "/products/ACCQ01.jpg",
+  "sortOrder": 20
+ },
+ {
+  "sku": "ACCQ02",
+  "nameEn": "Hokkaido-Nagasaki Cake (Lactobacillus)",
+  "nameZh": "北海道 長崎蛋糕(乳酸菌味)",
+  "brand": "北海道 Hokkaido",
+  "category": "",
+  "packSize": "330g x 12bags/cs",
+  "imagePath": "/products/ACCQ02.jpg",
+  "sortOrder": 21
+ },
+ {
+  "sku": "ACCQ03",
+  "nameEn": "Hokkaido-Nagasaki Cake (Original)",
+  "nameZh": "北海道 長崎蛋糕(原味)",
+  "brand": "北海道 Hokkaido",
+  "category": "",
+  "packSize": "330g x 12bags/cs",
+  "imagePath": "/products/ACCQ03.jpg",
+  "sortOrder": 22
+ },
+ {
+  "sku": "BBH09",
+  "nameEn": "Donut",
+  "nameZh": "甜甜圈",
+  "brand": "甜甜圈",
+  "category": "",
+  "packSize": "330g x 20boxes/cs",
+  "imagePath": "/products/BBH09.jpg",
+  "sortOrder": 23
+ },
+ {
+  "sku": "GZDR02",
+  "nameEn": "GZD-Swiss Cake (Cream Flavor)",
+  "nameZh": "菓子町園道 瑞士卷 (奶油味)",
+  "brand": "菓子町園道 GZD",
+  "category": "",
+  "packSize": "360g x 8boxes/cs",
+  "imagePath": "/products/GZDR02.jpg",
+  "sortOrder": 24
+ },
+ {
+  "sku": "DLYP01",
+  "nameEn": "DLY-Custard Pie",
+  "nameZh": "達利園 蛋黃派",
+  "brand": "達利園 DLY",
+  "category": "",
+  "packSize": "460g x 8bags/cs",
+  "imagePath": "/products/DLYP01.jpg",
+  "sortOrder": 25
+ },
+ {
+  "sku": "DLYP02",
+  "nameEn": "DLY-Strawberry Pie",
+  "nameZh": "達利園 草莓派",
+  "brand": "達利園 DLY",
+  "category": "",
+  "packSize": "460g x 8bags/cs",
+  "imagePath": "/products/DLYP02.jpg",
+  "sortOrder": 26
+ },
+ {
+  "sku": "62112",
+  "nameEn": "Shoeido-White Roll Cake",
+  "nameZh": "日本正榮堂 白蛋糕卷",
+  "brand": "日本正榮堂 Shoeido",
+  "category": "",
+  "packSize": "7.05oz x 10bags/cs",
+  "imagePath": "/products/62112.jpg",
+  "sortOrder": 27
+ },
+ {
+  "sku": "62113",
+  "nameEn": "Shoeido-Coffee Roll Cake",
+  "nameZh": "日本正榮堂 咖啡蛋糕卷",
+  "brand": "日本正榮堂 Shoeido",
+  "category": "",
+  "packSize": "7.05oz x 10bags/cs",
+  "imagePath": "/products/62113.jpg",
+  "sortOrder": 28
+ },
+ {
+  "sku": "62114",
+  "nameEn": "Shoeido-Baked Roll Cake",
+  "nameZh": "日本正榮堂 焗蛋糕卷",
+  "brand": "日本正榮堂 Shoeido",
+  "category": "",
+  "packSize": "7.05oz x 10bags/cs",
+  "imagePath": "/products/62114.jpg",
+  "sortOrder": 29
+ },
+ {
+  "sku": "62115",
+  "nameEn": "Shoeido-Tiger Roll Cake",
+  "nameZh": "日本正榮堂 雙色蛋糕卷",
+  "brand": "日本正榮堂 Shoeido",
+  "category": "",
+  "packSize": "7.05oz x 10bags/cs",
+  "imagePath": "/products/62115.jpg",
+  "sortOrder": 30
+ },
+ {
+  "sku": "LUCK901",
+  "nameEn": "Lucky Panda-Pre-cooked Sweet Corn (1ct)",
+  "nameZh": "Lucky Panda 即食彩糯玉米 根)",
+  "brand": "Lucky Panda",
+  "category": "",
+  "packSize": "270g x 24bags/cs",
+  "imagePath": "/products/LUCK901.jpg",
+  "sortOrder": 31
+ },
+ {
+  "sku": "LUCK902",
+  "nameEn": "Lucky Panda-Pre-cooked Sweet Corn (2ct)",
+  "nameZh": "Lucky Panda 即食彩糯玉米 根)",
+  "brand": "Lucky Panda",
+  "category": "",
+  "packSize": "540g x 12bags/cs",
+  "imagePath": "/products/LUCK902.jpg",
+  "sortOrder": 32
+ },
+ {
+  "sku": "LUCK903",
+  "nameEn": "Lucky Panda-Pre-cooked Golden Sweet Corn (2ct)",
+  "nameZh": "Lucky Panda 即食黃金糯玉米 根)",
+  "brand": "Lucky Panda",
+  "category": "",
+  "packSize": "540g x 12bags/cs",
+  "imagePath": "/products/LUCK903.jpg",
+  "sortOrder": 33
+ },
+ {
+  "sku": "LUCK860",
+  "nameEn": "Lucky Panda-Mini Mooncake (Mung Bean Paste)",
+  "nameZh": "Lucky Panda 綠豆蓉迷你月餅",
+  "brand": "Lucky Panda",
+  "category": "",
+  "packSize": "180g x 36bags/cs",
+  "imagePath": "/products/LUCK860.jpg",
+  "sortOrder": 34
+ },
+ {
+  "sku": "LUCK861",
+  "nameEn": "Lucky Panda-Mini Mooncake (Red Bean Paste)",
+  "nameZh": "Lucky Panda 紅豆沙迷你月餅",
+  "brand": "Lucky Panda",
+  "category": "",
+  "packSize": "180g x 36bags/cs",
+  "imagePath": "/products/LUCK861.jpg",
+  "sortOrder": 35
+ },
+ {
+  "sku": "LUCK862",
+  "nameEn": "Lucky Panda-Mini Mooncake (Coconut Paste)",
+  "nameZh": "Lucky Panda 椰蓉迷你月餅",
+  "brand": "Lucky Panda",
+  "category": "",
+  "packSize": "180g x 36bags/cs",
+  "imagePath": "/products/LUCK862.jpg",
+  "sortOrder": 36
+ },
+ {
+  "sku": "LUCK863",
+  "nameEn": "Lucky Panda-Mini Mooncake (Pineapple Flavor)",
+  "nameZh": "Lucky Panda 鳳梨迷你月餅",
+  "brand": "Lucky Panda",
+  "category": "",
+  "packSize": "180g x 36bags/cs",
+  "imagePath": "/products/LUCK863.jpg",
+  "sortOrder": 37
+ },
+ {
+  "sku": "LUCK864",
+  "nameEn": "Lucky Panda-Mini Mooncake (Matcha Flavor)",
+  "nameZh": "Lucky Panda 抹茶迷你月餅",
+  "brand": "Lucky Panda",
+  "category": "",
+  "packSize": "180g x 36bags/cs",
+  "imagePath": "/products/LUCK864.jpg",
+  "sortOrder": 38
+ },
+ {
+  "sku": "LUCK865",
+  "nameEn": "Lucky Panda-Mini Mooncake (Strawberry Flavor)",
+  "nameZh": "Lucky Panda 草莓迷你月餅",
+  "brand": "Lucky Panda",
+  "category": "",
+  "packSize": "180g x 36bags/cs",
+  "imagePath": "/products/LUCK865.jpg",
+  "sortOrder": 39
+ },
+ {
+  "sku": "ACSB02",
+  "nameEn": "AC-Puff Pastry Biscuits (Sesame Flavor)",
+  "nameZh": "AC 千層酥餅(芝麻味)",
+  "brand": "AC",
+  "category": "",
+  "packSize": "250g x 24boxes/cs",
+  "imagePath": "/products/ACSB02.jpg",
+  "sortOrder": 40
+ },
+ {
+  "sku": "ACSB04",
+  "nameEn": "AC-Puff Pastry Biscuits (Red Bean Flavor)",
+  "nameZh": "AC 千層酥餅(紅豆味)",
+  "brand": "AC",
+  "category": "",
+  "packSize": "250g x 24boxes/cs",
+  "imagePath": "/products/ACSB04.jpg",
+  "sortOrder": 41
+ },
+ {
+  "sku": "ACSB05",
+  "nameEn": "AC Eagle-Chestnut Crisp",
+  "nameZh": "AC Eagle 板栗夾心酥",
+  "brand": "AC Eagle",
+  "category": "",
+  "packSize": "450g x 15boxes/cs",
+  "imagePath": "/products/ACSB05.jpg",
+  "sortOrder": 42
+ },
+ {
+  "sku": "ACSB06",
+  "nameEn": "AC Eagle-Red Bean Crisp",
+  "nameZh": "AC Eagle 紅豆夾心酥",
+  "brand": "AC Eagle",
+  "category": "",
+  "packSize": "450g x 15boxes/cs",
+  "imagePath": "/products/ACSB06.jpg",
+  "sortOrder": 43
+ },
+ {
+  "sku": "HLTB01",
+  "nameEn": "Kanzaki-Pumpkin Cake",
+  "nameZh": "Kanzaki 南瓜酥",
+  "brand": "Kanzaki",
+  "category": "",
+  "packSize": "450g x 15boxes/cs",
+  "imagePath": "/products/HLTB01.jpg",
+  "sortOrder": 44
+ },
+ {
+  "sku": "HLTB02",
+  "nameEn": "Kanzaki-Chestnut Cake",
+  "nameZh": "Kanzaki 板栗酥",
+  "brand": "Kanzaki",
+  "category": "",
+  "packSize": "450g x 15boxes/cs",
+  "imagePath": "/products/HLTB02.jpg",
+  "sortOrder": 45
+ },
+ {
+  "sku": "HLTB03",
+  "nameEn": "Kanzaki-Mung Bean Cake",
+  "nameZh": "Kanzaki 綠豆酥",
+  "brand": "Kanzaki",
+  "category": "",
+  "packSize": "450g x 15boxes/cs",
+  "imagePath": "/products/HLTB03.jpg",
+  "sortOrder": 46
+ },
+ {
+  "sku": "HLTB04",
+  "nameEn": "Kanzaki-Red Bean Cake",
+  "nameZh": "Kanzak i 紅豆酥",
+  "brand": "Kanzaki",
+  "category": "",
+  "packSize": "450g x 15boxes/cs",
+  "imagePath": "/products/HLTB04.jpg",
+  "sortOrder": 47
+ },
+ {
+  "sku": "HLTB05",
+  "nameEn": "Kanzaki Kanzaki-Black Sesame Cake",
+  "nameZh": "黑芝麻酥",
+  "brand": "黑芝麻酥 Kanzaki Kanzaki",
+  "category": "",
+  "packSize": "450g x 15boxes/cs",
+  "imagePath": "/products/HLTB05.jpg",
+  "sortOrder": 48
+ },
+ {
+  "sku": "NSN237",
+  "nameEn": "Royal Family-Pineapple Cake",
+  "nameZh": "皇族 鳳梨酥",
+  "brand": "皇族 Royal Family",
+  "category": "",
+  "packSize": "6.5oz x 12boxes/cs",
+  "imagePath": "/products/NSN237.jpg",
+  "sortOrder": 49
+ },
+ {
+  "sku": "NSN239",
+  "nameEn": "Royal Family-Strawberry Cake",
+  "nameZh": "皇族 草莓酥",
+  "brand": "皇族 Royal Family",
+  "category": "",
+  "packSize": "6.5oz x 12boxes/cs",
+  "imagePath": "/products/NSN239.jpg",
+  "sortOrder": 50
+ },
+ {
+  "sku": "NSN976",
+  "nameEn": "Umaibo-Corn Snack (Cheese)",
+  "nameZh": "小叮噹 玉米棒 (濃香奶酪味)",
+  "brand": "小叮噹 Umaibo",
+  "category": "",
+  "packSize": "0.2oz x 30pcs/bag; 20bags/cs",
+  "imagePath": "/products/NSN976.jpg",
+  "sortOrder": 51
+ },
+ {
+  "sku": "NSN977",
+  "nameEn": "Umaibo-Corn Snack (Potage)",
+  "nameZh": "小叮噹 玉米棒 (玉米濃湯味)",
+  "brand": "小叮噹 Umaibo",
+  "category": "",
+  "packSize": "0.2oz x 30pcs/bag; 20bags/cs",
+  "imagePath": "/products/NSN977.jpg",
+  "sortOrder": 52
+ },
+ {
+  "sku": "LUCK806",
+  "nameEn": "Want Want-Senbei Rice Crackers (Original Flavor)",
+  "nameZh": "旺旺 仙貝 105g",
+  "brand": "旺旺 Want Want",
+  "category": "",
+  "packSize": "105g x 20bags/cs",
+  "imagePath": "/products/LUCK806.jpg",
+  "sortOrder": 53
+ },
+ {
+  "sku": "LUCK807",
+  "nameEn": "Want Want-Senbei Rice Crackers (Original Flavor)",
+  "nameZh": "旺旺 仙貝 150g",
+  "brand": "旺旺 Want Want",
+  "category": "",
+  "packSize": "150g x 20bags/cs",
+  "imagePath": "/products/LUCK807.jpg",
+  "sortOrder": 54
+ },
+ {
+  "sku": "LUCK808",
+  "nameEn": "Want Want-Shelly Senbei Rice Crackers (Original Flavor)",
+  "nameZh": "旺旺 雪餅 150g",
+  "brand": "旺旺 Want Want",
+  "category": "",
+  "packSize": "150g x 20bags/cs",
+  "imagePath": "/products/LUCK808.jpg",
+  "sortOrder": 55
+ },
+ {
+  "sku": "LUCK809",
+  "nameEn": "Want Want-Seaweed Rice Crackers",
+  "nameZh": "旺旺 雪餅(海苔味)",
+  "brand": "旺旺 Want Want",
+  "category": "",
+  "packSize": "118g x 12bags/cs",
+  "imagePath": "/products/LUCK809.jpg",
+  "sortOrder": 56
+ },
+ {
+  "sku": "LUCK810",
+  "nameEn": "WW-Snowy Rice Crackers (Sweet Chili Flavor)",
+  "nameZh": "旺旺 厚雪燒(甜辣味)",
+  "brand": "旺旺 WW",
+  "category": "",
+  "packSize": "110g x 12bags/cs",
+  "imagePath": "/products/LUCK810.jpg",
+  "sortOrder": 57
+ },
+ {
+  "sku": "LUCK850",
+  "nameEn": "WW-Senbei Rice Cracker",
+  "nameZh": "旺旺 仙貝 520g",
+  "brand": "旺旺 WW",
+  "category": "",
+  "packSize": "520g x 5bags/cs",
+  "imagePath": "/products/LUCK850.jpg",
+  "sortOrder": 58
+ },
+ {
+  "sku": "LUCK851",
+  "nameEn": "WW-Shelly Senbei Rice Cracker",
+  "nameZh": "旺旺 雪餅 520g",
+  "brand": "旺旺 WW",
+  "category": "",
+  "packSize": "520g x 6bags/cs",
+  "imagePath": "/products/LUCK851.jpg",
+  "sortOrder": 59
+ },
+ {
+  "sku": "LUCK818",
+  "nameEn": "Want Want-Rice Cream Roll (Sweet Corn Flavor)",
+  "nameZh": "旺旺 夾心米果卷(甜玉米味)",
+  "brand": "旺旺 Want Want",
+  "category": "",
+  "packSize": "170g x 20bags/cs",
+  "imagePath": "/products/LUCK818.jpg",
+  "sortOrder": 60
+ },
+ {
+  "sku": "LUCK820",
+  "nameEn": "Want Want-Mochi Rice Cracker Bites (Artificial Chicken Flavor)",
+  "nameZh": "旺旺 小小酥(蔥香雞肉味)",
+  "brand": "旺旺 Want Want",
+  "category": "",
+  "packSize": "160g x 10bags/cs",
+  "imagePath": "/products/LUCK820.jpg",
+  "sortOrder": 61
+ },
+ {
+  "sku": "LUCK824",
+  "nameEn": "Hot Kid Milk Chewy Candy (Original Flavor)",
+  "nameZh": "旺仔 牛奶糖(原味)",
+  "brand": "旺仔",
+  "category": "",
+  "packSize": "126g x 20bags/cs",
+  "imagePath": "/products/LUCK824.jpg",
+  "sortOrder": 62
+ },
+ {
+  "sku": "LUCK825",
+  "nameEn": "Hot Kid Milk Chewy Candy (Strawberry Flavor)",
+  "nameZh": "旺仔 牛奶糖(草莓牛乳味)",
+  "brand": "旺仔",
+  "category": "",
+  "packSize": "126g x 20bags/cs",
+  "imagePath": "/products/LUCK825.jpg",
+  "sortOrder": 63
+ },
+ {
+  "sku": "LUCK826",
+  "nameEn": "Hot Kid Milk Chewy Candy (Original Flavor) (can)",
+  "nameZh": "旺仔 牛奶糖(原味) (罐裝)",
+  "brand": "旺仔",
+  "category": "",
+  "packSize": "220g x 12cans/cs",
+  "imagePath": "/products/LUCK826.jpg",
+  "sortOrder": 64
+ },
+ {
+  "sku": "LUCK827",
+  "nameEn": "Hot Kid QQ Gummy Candy (Cola Flavor)",
+  "nameZh": "旺仔QQ 軟糖(可樂味)",
+  "brand": "旺仔QQ",
+  "category": "",
+  "packSize": "70g x 10bags/pk; 6pks/cs",
+  "imagePath": "/products/LUCK827.jpg",
+  "sortOrder": 65
+ },
+ {
+  "sku": "LUCK828",
+  "nameEn": "Hot Kid QQ Gummy Candy (Peach Flavor)",
+  "nameZh": "旺仔QQ 軟糖(水蜜桃味)",
+  "brand": "旺仔QQ",
+  "category": "",
+  "packSize": "70g x 10bags/pk; 6pks/cs",
+  "imagePath": "/products/LUCK828.jpg",
+  "sortOrder": 66
+ },
+ {
+  "sku": "LUCK829",
+  "nameEn": "Hot Kid QQ Gummy Candy (Strawberry Flavor)",
+  "nameZh": "旺仔QQ 軟糖(草莓味)",
+  "brand": "旺仔QQ",
+  "category": "",
+  "packSize": "70g x 10bags/pk; 6pks/cs",
+  "imagePath": "/products/LUCK829.jpg",
+  "sortOrder": 67
+ },
+ {
+  "sku": "LUCK830",
+  "nameEn": "Want Want-Cat Paw Gummy Candy (Strawberry Yogurt Flavor)",
+  "nameZh": "旺仔QQ 肉墊糖 (草莓酸奶味)",
+  "brand": "旺仔QQ Want Want",
+  "category": "",
+  "packSize": "45g x 10bags/pk; 6pks/cs",
+  "imagePath": "/products/LUCK830.jpg",
+  "sortOrder": 68
+ },
+ {
+  "sku": "LUCK831",
+  "nameEn": "Want Want-Cat Paw Gummy Candy (Grape Yogurt Flavor)",
+  "nameZh": "旺仔QQ 肉墊糖 (葡萄酸奶味)",
+  "brand": "旺仔QQ Want Want",
+  "category": "",
+  "packSize": "45g x 10bags/pk; 6pks/cs",
+  "imagePath": "/products/LUCK831.jpg",
+  "sortOrder": 69
+ },
+ {
+  "sku": "LUCK832",
+  "nameEn": "Want Want-Cat Paw Gummy Candy (Orange Yogurt Flavor)",
+  "nameZh": "旺仔QQ 肉墊糖 (香橙酸奶味)",
+  "brand": "旺仔QQ Want Want",
+  "category": "",
+  "packSize": "45g x 10bags/pk; 6pks/cs",
+  "imagePath": "/products/LUCK832.jpg",
+  "sortOrder": 70
+ },
+ {
+  "sku": "LUCK833",
+  "nameEn": "QQ Want Want-QQ Gummy (Lychee Yogurt Flavor)",
+  "nameZh": "旺仔 軟糖 (酸奶荔枝味)",
+  "brand": "旺仔 QQ Want Want",
+  "category": "",
+  "packSize": "66g x 10bags/pk; 6pks/cs",
+  "imagePath": "/products/LUCK833.jpg",
+  "sortOrder": 71
+ },
+ {
+  "sku": "LUCK834",
+  "nameEn": "QQ Want Want-QQ Gummy (Peach Yogurt Flavor)",
+  "nameZh": "旺仔 軟糖 (酸奶水蜜桃味)",
+  "brand": "旺仔 QQ Want Want",
+  "category": "",
+  "packSize": "66g x 10bags/pk; 6pks/cs",
+  "imagePath": "/products/LUCK834.jpg",
+  "sortOrder": 72
+ },
+ {
+  "sku": "LUCK835",
+  "nameEn": "QQ Want Want-QQ Gummy (Cola Yogurt Flavor)",
+  "nameZh": "旺仔 軟糖 (酸奶可樂味)",
+  "brand": "旺仔 QQ Want Want",
+  "category": "",
+  "packSize": "66g x 10bags/pk; 6pks/cs",
+  "imagePath": "/products/LUCK835.jpg",
+  "sortOrder": 73
+ },
+ {
+  "sku": "LUCK836",
+  "nameEn": "Want Want-Jellly Drink (Mixed Flavor)",
+  "nameZh": "旺旺 維多粒果凍爽 (混合味)",
+  "brand": "旺旺 Want Want",
+  "category": "",
+  "packSize": "750g x 8bags/cs",
+  "imagePath": "/products/LUCK836.jpg",
+  "sortOrder": 74
+ },
+ {
+  "sku": "LUCK811",
+  "nameEn": "Want Want-Ice Pop (Assorted Flavored)",
+  "nameZh": "旺旺 碎冰冰 (综合口味)",
+  "brand": "旺旺 Want Want",
+  "category": "",
+  "packSize": "78ml x 8bars/pk; 10pks/cs",
+  "imagePath": "/products/LUCK811.jpg",
+  "sortOrder": 75
+ },
+ {
+  "sku": "OR125",
+  "nameEn": "Oreo-Cocoa Crisp Rolls (Chocolate Flavor)",
+  "nameZh": "奧利奧 可可脆卷 (濃鬱巧克力味)",
+  "brand": "奧利奧 Oreo",
+  "category": "",
+  "packSize": "50g x 24boxes/cs",
+  "imagePath": "/products/OR125.jpg",
+  "sortOrder": 76
+ },
+ {
+  "sku": "OR126",
+  "nameEn": "Oreo-Cocoa Crisp Rolls (Vanilla Flavor)",
+  "nameZh": "奧利奧 可可脆卷 (香草慕斯味)",
+  "brand": "奧利奧 Oreo",
+  "category": "",
+  "packSize": "50g x 24boxes/cs",
+  "imagePath": "/products/OR126.jpg",
+  "sortOrder": 77
+ },
+ {
+  "sku": "OR127",
+  "nameEn": "Oreo-Cocoa Crisp Rolls (Japanese Matcha Flavor)",
+  "nameZh": "奧利奧 可可脆卷 (日式抹茶味)",
+  "brand": "奧利奧 Oreo",
+  "category": "",
+  "packSize": "50g x 24boxes/cs",
+  "imagePath": "/products/OR127.jpg",
+  "sortOrder": 78
+ },
+ {
+  "sku": "OR128",
+  "nameEn": "Oreo-Cocoa Crisp Rolls (Strawberry Milkshake Flavor)",
+  "nameZh": "奧利奧 可可脆卷 (草莓奶昔味)",
+  "brand": "奧利奧 Oreo",
+  "category": "",
+  "packSize": "50g x 24boxes/cs",
+  "imagePath": "/products/OR128.jpg",
+  "sortOrder": 79
+ },
+ {
+  "sku": "OR112",
+  "nameEn": "Oreo-Mini Biscuits (Original Flavor)",
+  "nameZh": "奧利奧 小餅乾(經典原味)",
+  "brand": "奧利奧 Oreo",
+  "category": "",
+  "packSize": "55g x 24cups/cs",
+  "imagePath": "/products/OR112.jpg",
+  "sortOrder": 80
+ },
+ {
+  "sku": "OR113",
+  "nameEn": "Oreo-Mini Biscuits (Chocolate Flavor)",
+  "nameZh": "奧利奧 小餅乾(巧克力味)",
+  "brand": "奧利奧 Oreo",
+  "category": "",
+  "packSize": "55g x 24cups/cs",
+  "imagePath": "/products/OR113.png",
+  "sortOrder": 81
+ },
+ {
+  "sku": "OR130",
+  "nameEn": "Oreo-Mini Biscuits (Strawberry Flavor)",
+  "nameZh": "奧利奧 小餅乾(草莓味)",
+  "brand": "奧利奧 Oreo",
+  "category": "",
+  "packSize": "55g x 24cups/cs",
+  "imagePath": "/products/OR130.png",
+  "sortOrder": 82
+ },
+ {
+  "sku": "OR111",
+  "nameEn": "Oreo-Sandwich Cookies (Birthday Cake Flavor)",
+  "nameZh": "奧利奧 夾心餅乾 (生日蛋糕味)",
+  "brand": "奧利奧 Oreo",
+  "category": "",
+  "packSize": "97g x 24boxes/cs",
+  "imagePath": "/products/OR111.png",
+  "sortOrder": 83
+ },
+ {
+  "sku": "OR115",
+  "nameEn": "Oreo-Double Fruit Sandwich Cookies (Blueberry&Raspberry Flavor)",
+  "nameZh": "奧利奧 雙重水果夾心餅乾 (藍莓味&樹莓味)",
+  "brand": "奧利奧 Oreo",
+  "category": "",
+  "packSize": "97g x 24boxes/cs",
+  "imagePath": "/products/OR115.jpg",
+  "sortOrder": 84
+ },
+ {
+  "sku": "OR116",
+  "nameEn": "Oreo-Double Fruit Sandwich Cookies (Grape&Peach Flavor)",
+  "nameZh": "奧利奧 雙重水果夾心餅乾 (葡萄味&水蜜桃味)",
+  "brand": "奧利奧 Oreo",
+  "category": "",
+  "packSize": "97g x 24boxes/cs",
+  "imagePath": "/products/OR116.jpg",
+  "sortOrder": 85
+ },
+ {
+  "sku": "OR117",
+  "nameEn": "Oreo-Sandwich Cookies (Peach Oolong Flavor)",
+  "nameZh": "奧利奧 夾心餅乾 (白蜜烏龍味)",
+  "brand": "奧利奧 Oreo",
+  "category": "",
+  "packSize": "97g x 24boxes/cs",
+  "imagePath": "/products/OR117.jpg",
+  "sortOrder": 86
+ },
+ {
+  "sku": "OR108",
+  "nameEn": "Oreo-Sandwich Cookies (Strawberry Flavor)",
+  "nameZh": "奧利奧 夾心餅乾 (草莓味)",
+  "brand": "奧利奧 Oreo",
+  "category": "",
+  "packSize": "97g x 24boxes/cs",
+  "imagePath": "/products/OR108.jpg",
+  "sortOrder": 87
+ },
+ {
+  "sku": "OR109",
+  "nameEn": "Oreo-Sandwich Cookies (Ice Cream Matcha)",
+  "nameZh": "奧利奧 夾心餅乾 (冰淇淋抹茶味)",
+  "brand": "奧利奧 Oreo",
+  "category": "",
+  "packSize": "97g x 24boxes/cs",
+  "imagePath": "/products/OR109.jpg",
+  "sortOrder": 88
+ },
+ {
+  "sku": "OR136",
+  "nameEn": "Oreo-Sandwich Cookies (Chocolate Flavor)",
+  "nameZh": "奧利奧 夾心餅乾 (濃醇巧克力味)",
+  "brand": "奧利奧 Oreo",
+  "category": "",
+  "packSize": "97g x 24boxes/cs",
+  "imagePath": "/products/OR136.jpg",
+  "sortOrder": 89
+ },
+ {
+  "sku": "OR101",
+  "nameEn": "Oreo-Sandwich Cookies (Ice Cream Matcha Flavor)",
+  "nameZh": "奧利奧 夾心餅乾 (冰淇淋抹茶味)",
+  "brand": "奧利奧 Oreo",
+  "category": "",
+  "packSize": "194g x 24boxes/cs",
+  "imagePath": "/products/OR101.jpg",
+  "sortOrder": 90
+ },
+ {
+  "sku": "OR102",
+  "nameEn": "Oreo-Sandwich Cookies (White Peach Oolong Flavor)",
+  "nameZh": "奧利奧 夾心餅乾 (白桃烏龍味)",
+  "brand": "奧利奧 Oreo",
+  "category": "",
+  "packSize": "194g x 24boxes/cs",
+  "imagePath": "/products/OR102.jpg",
+  "sortOrder": 91
+ },
+ {
+  "sku": "OR118",
+  "nameEn": "Oreo-Sandwich Cookies (Chocolate Flavor)",
+  "nameZh": "奧利奧 夾心餅乾 (濃醇巧克力味)",
+  "brand": "奧利奧 Oreo",
+  "category": "",
+  "packSize": "194g x 24boxes/cs",
+  "imagePath": "/products/OR118.jpg",
+  "sortOrder": 92
+ },
+ {
+  "sku": "OR119",
+  "nameEn": "Oreo-Sandwich Cookies (Strawberry Flavor)",
+  "nameZh": "奧利奧 夾心餅乾 (草莓味)",
+  "brand": "奧利奧 Oreo",
+  "category": "",
+  "packSize": "194g x 24boxes/cs",
+  "imagePath": "/products/OR119.jpg",
+  "sortOrder": 93
+ },
+ {
+  "sku": "OR120",
+  "nameEn": "Oreo-Sandwich Cookies (Birthday Cake Flavor)",
+  "nameZh": "奧利奧 夾心餅乾 (生日蛋糕味)",
+  "brand": "奧利奧 Oreo",
+  "category": "",
+  "packSize": "194g x 24boxes/cs",
+  "imagePath": "/products/OR120.jpg",
+  "sortOrder": 94
+ },
+ {
+  "sku": "OR121",
+  "nameEn": "Oreo-Thin Crackers (Vanilla Flavor)",
+  "nameZh": "奧利奧 薄脆 (香草味)",
+  "brand": "奧利奧 Oreo",
+  "category": "",
+  "packSize": "190g x 24boxes/cs",
+  "imagePath": "/products/OR121.jpg",
+  "sortOrder": 95
+ },
+ {
+  "sku": "OR131",
+  "nameEn": "Oreo-Thin Crackers (Sweet & Sour Strawberry)",
+  "nameZh": "奧利奧 薄脆 (酸甜草莓味)",
+  "brand": "奧利奧 Oreo",
+  "category": "",
+  "packSize": "190g x 24boxes/cs",
+  "imagePath": "/products/OR131.jpg",
+  "sortOrder": 96
+ },
+ {
+  "sku": "OR103",
+  "nameEn": "Oreo-Sandwich Cookies (Mixed Flavor)",
+  "nameZh": "奧利奧 夾心餅乾 (繽紛口味)(禮盒)",
+  "brand": "奧利奧 Oreo",
+  "category": "",
+  "packSize": "388g x 12boxes/cs",
+  "imagePath": "/products/OR103.jpg",
+  "sortOrder": 97
+ },
+ {
+  "sku": "OR122",
+  "nameEn": "Oreo-Sandwich Cookies (Chocolate Flavor)(Family Pack)",
+  "nameZh": "奧利奧 夾心餅乾 (濃醇巧克力味)(家庭裝)",
+  "brand": "奧利奧 Oreo",
+  "category": "",
+  "packSize": "388g x 12boxes/cs",
+  "imagePath": "/products/OR122.jpg",
+  "sortOrder": 98
+ },
+ {
+  "sku": "OR138",
+  "nameEn": "Oreo-Sandwich Cookies (Original Classic)(Family Pack)",
+  "nameZh": "奧利奧 夾心餅乾 (經典原味)(家庭裝)",
+  "brand": "奧利奧 Oreo",
+  "category": "",
+  "packSize": "388g x 12boxes/cs",
+  "imagePath": "/products/OR138.jpg",
+  "sortOrder": 99
+ },
+ {
+  "sku": "OR123",
+  "nameEn": "Oreo-Sandwich Cookies (Fun Gift Box)",
+  "nameZh": "奧利奧 夾心餅乾 (玩心禮盒)",
+  "brand": "奧利奧 Oreo",
+  "category": "",
+  "packSize": "388g x 12boxes/cs",
+  "imagePath": "/products/OR123.jpg",
+  "sortOrder": 100
+ },
+ {
+  "sku": "OR139",
+  "nameEn": "Oreo-Sandwich Cookies (Birthday Cake Flavor)(Family Pack",
+  "nameZh": "奧利奧 夾心餅乾 (生日蛋糕味)(家庭裝)",
+  "brand": "奧利奧 Oreo",
+  "category": "",
+  "packSize": "388g x 12boxes/cs",
+  "imagePath": "/products/OR139.jpg",
+  "sortOrder": 101
+ },
+ {
+  "sku": "13065",
+  "nameEn": "SHJ-French Cookies Egg Roll (Tin)",
+  "nameZh": "盛香珍 法國酥禮盒 (罐裝)",
+  "brand": "盛香珍 SHJ",
+  "category": "",
+  "packSize": "24.6oz x 6tins/cs",
+  "imagePath": "/products/13065.jpg",
+  "sortOrder": 102
+ },
+ {
+  "sku": "13220",
+  "nameEn": "JSL-Breakfast Biscuits (Original)",
+  "nameZh": "嘉士利 原味早餐餅乾(盒裝)",
+  "brand": "嘉士利 JSL",
+  "category": "",
+  "packSize": "800g x 12boxes/cs",
+  "imagePath": "/products/13220.jpg",
+  "sortOrder": 103
+ },
+ {
+  "sku": "13222",
+  "nameEn": "JSL-Breakfast Biscuits (Milk)",
+  "nameZh": "嘉士利 牛奶早餐餅乾(盒裝)",
+  "brand": "嘉士利 JSL",
+  "category": "",
+  "packSize": "800g x 12boxes/cs",
+  "imagePath": "/products/13222.jpg",
+  "sortOrder": 104
+ },
+ {
+  "sku": "13226",
+  "nameEn": "JSL-Walnut Cookies (Original)",
+  "nameZh": "嘉士利 原味桃酥王餅乾(盒裝)",
+  "brand": "嘉士利 JSL",
+  "category": "",
+  "packSize": "800g x 12boxes/cs",
+  "imagePath": "/products/13226.jpg",
+  "sortOrder": 105
+ },
+ {
+  "sku": "13227",
+  "nameEn": "JSL-Walnut Cookies (Red Date)",
+  "nameZh": "嘉士利 紅棗桃酥王餅乾(盒裝)",
+  "brand": "嘉士利 JSL",
+  "category": "",
+  "packSize": "800g x 12boxes/cs",
+  "imagePath": "/products/13227.jpg",
+  "sortOrder": 106
+ },
+ {
+  "sku": "13160",
+  "nameEn": "Mico-Japan Style Milk Egg Roll",
+  "nameZh": "美可 奶油日式蛋卷",
+  "brand": "美可 Mico",
+  "category": "",
+  "packSize": "4.2oz x 24bags/cs",
+  "imagePath": "/products/13160.jpg",
+  "sortOrder": 107
+ },
+ {
+  "sku": "13161",
+  "nameEn": "Mico-Japan Style Sesame Egg Roll",
+  "nameZh": "美可 芝麻日式蛋卷",
+  "brand": "美可 Mico",
+  "category": "",
+  "packSize": "4.2oz x 24bags/cs",
+  "imagePath": "/products/13161.jpg",
+  "sortOrder": 108
+ },
+ {
+  "sku": "YY101",
+  "nameEn": "YH-Handmade Egg Cookie Roll (Original)",
+  "nameZh": "楊航 手工蛋捲(原味)",
+  "brand": "楊航 YH",
+  "category": "",
+  "packSize": "168g x 14bags/cs",
+  "imagePath": "/products/YY101.jpg",
+  "sortOrder": 109
+ },
+ {
+  "sku": "YY102",
+  "nameEn": "YH-Handmade Egg Cookie Roll (Seaweed)",
+  "nameZh": "楊航 手工蛋捲(海苔味)",
+  "brand": "楊航 YH",
+  "category": "",
+  "packSize": "168g x 14bags/cs",
+  "imagePath": "/products/YY102.jpg",
+  "sortOrder": 110
+ },
+ {
+  "sku": "KSFC01",
+  "nameEn": "KSF-3+2 Soda Sandwich Cracker (Caramel Milk)",
+  "nameZh": "康師傅 3+2 蘇打夾心餅乾 (焦糖牛奶)",
+  "brand": "康師傅 KSF",
+  "category": "",
+  "packSize": "125g x 24bags/cs",
+  "imagePath": "/products/KSFC01.png",
+  "sortOrder": 111
+ },
+ {
+  "sku": "KSFC02",
+  "nameEn": "KSF-3+2 Soda Sandwich Cracker (Rich Cream)",
+  "nameZh": "康師傅 3+2 蘇打夾心餅乾 (香濃奶油)",
+  "brand": "康師傅 KSF",
+  "category": "",
+  "packSize": "125g x 24bags/cs",
+  "imagePath": "/products/KSFC02.jpg",
+  "sortOrder": 112
+ },
+ {
+  "sku": "KSFC03",
+  "nameEn": "KSF-3+2 Soda Sandwich Cracker (Vanilla Chocolate)",
+  "nameZh": "康師傅 3+2 蘇打夾心餅乾 (香草巧克力)",
+  "brand": "康師傅 KSF",
+  "category": "",
+  "packSize": "125g x 24bags/cs",
+  "imagePath": "/products/KSFC03.jpg",
+  "sortOrder": 113
+ },
+ {
+  "sku": "KSFC04",
+  "nameEn": "KSF-3+2 Soda Sandwich Cracker (Rich Cream)",
+  "nameZh": "康師傅 3+2 蘇打夾心餅乾 (香濃奶油)(三連包)",
+  "brand": "康師傅 KSF",
+  "category": "",
+  "packSize": "375g x 16bags/cs",
+  "imagePath": "/products/KSFC04.jpg",
+  "sortOrder": 114
+ },
+ {
+  "sku": "KSFC05",
+  "nameEn": "KSF-3+2 Soda Sandwich Cracker (Vanilla Chocolate)",
+  "nameZh": "康師傅 3+2 蘇打夾心餅乾 (香草巧克力)(三連包)",
+  "brand": "康師傅 KSF",
+  "category": "",
+  "packSize": "375g x 16bags/cs",
+  "imagePath": "/products/KSFC05.jpg",
+  "sortOrder": 115
+ },
+ {
+  "sku": "KSFC06",
+  "nameEn": "KSF-3+2 Soda Sandwich Cracker (Lemon)",
+  "nameZh": "康師傅 3+2 蘇打夾心餅乾 (清新檸檬味)(三連包)",
+  "brand": "康師傅 KSF",
+  "category": "",
+  "packSize": "375g x 16bags/cs",
+  "imagePath": "/products/KSFC06.jpg",
+  "sortOrder": 116
+ },
+ {
+  "sku": "QY101",
+  "nameEn": "Qiao Yi-Low Salt Soda Crackers",
+  "nameZh": "巧益 薄鹽蘇打餅",
+  "brand": "巧益 Qiao Yi",
+  "category": "",
+  "packSize": "234g x 12bags/cs",
+  "imagePath": "/products/QY101.jpg",
+  "sortOrder": 117
+ },
+ {
+  "sku": "QY102",
+  "nameEn": "Qiao Yi-Sansing Scallion Soda Crackers",
+  "nameZh": "巧益 三星蔥蘇打餅",
+  "brand": "巧益 Qiao Yi",
+  "category": "",
+  "packSize": "234g x 12bags/cs",
+  "imagePath": "/products/QY102.jpg",
+  "sortOrder": 118
+ },
+ {
+  "sku": "QCCC01",
+  "nameEn": "Nestlé-Milk Wafer",
+  "nameZh": "雀巢 脆脆鯊牛奶威化",
+  "brand": "雀巢 Nestlé",
+  "category": "",
+  "packSize": "595.2g x 24boxes/cs",
+  "imagePath": "/products/QCCC01.jpg",
+  "sortOrder": 119
+ },
+ {
+  "sku": "QCCC02",
+  "nameEn": "Nestlé-Chocolate Wafer",
+  "nameZh": "雀巢 脆脆鯊巧克力威化",
+  "brand": "雀巢 Nestlé",
+  "category": "",
+  "packSize": "595.2g x 24boxes/cs",
+  "imagePath": "/products/QCCC02.jpg",
+  "sortOrder": 120
+ },
+ {
+  "sku": "13195",
+  "nameEn": "JSL-Orange Sandwich Biscuits",
+  "nameZh": "嘉士利 香橙果醬餅乾",
+  "brand": "嘉士利 JSL",
+  "category": "",
+  "packSize": "443g x 20bags/cs",
+  "imagePath": "/products/13195.jpg",
+  "sortOrder": 121
+ },
+ {
+  "sku": "13196",
+  "nameEn": "JSL-Blueberry Sandwich Biscuits",
+  "nameZh": "嘉士利 藍莓果醬餅乾",
+  "brand": "嘉士利 JSL",
+  "category": "",
+  "packSize": "443g x 20bags/cs",
+  "imagePath": "/products/13196.jpg",
+  "sortOrder": 122
+ },
+ {
+  "sku": "13197",
+  "nameEn": "JSL-Lime Sandwich Biscuits",
+  "nameZh": "嘉士利 青檸果醬餅乾",
+  "brand": "嘉士利 JSL",
+  "category": "",
+  "packSize": "443g x 20bags/cs",
+  "imagePath": "/products/13197.jpg",
+  "sortOrder": 123
+ },
+ {
+  "sku": "13198",
+  "nameEn": "JSL-Strawberry Sandwich Biscuits",
+  "nameZh": "嘉士利 草莓果醬餅乾",
+  "brand": "嘉士利 JSL",
+  "category": "",
+  "packSize": "443g x 20bags/cs",
+  "imagePath": "/products/13198.jpg",
+  "sortOrder": 124
+ },
+ {
+  "sku": "13199",
+  "nameEn": "JSL-Pineapple Sandwich Biscuits",
+  "nameZh": "嘉士利 鳳梨果醬餅乾",
+  "brand": "嘉士利 JSL",
+  "category": "",
+  "packSize": "443g x 20bags/cs",
+  "imagePath": "/products/13199.jpg",
+  "sortOrder": 125
+ },
+ {
+  "sku": "S065",
+  "nameEn": "SN-Wannianqing Onion Cracker",
+  "nameZh": "三牛牌 上海萬年青蘇性餅乾 (獨立包裝)",
+  "brand": "三牛牌 SN",
+  "category": "",
+  "packSize": "400g x 20bags/cs",
+  "imagePath": "/products/S065.jpg",
+  "sortOrder": 127
+ },
+ {
+  "sku": "S066",
+  "nameEn": "SN-Wannianqing Onion Cracker",
+  "nameZh": "三牛牌 上海萬年青酥性餅乾 (傳統包裝)",
+  "brand": "三牛牌 SN",
+  "category": "",
+  "packSize": "400g x 20bags/cs",
+  "imagePath": "/products/S066.jpg",
+  "sortOrder": 128
+ },
+ {
+  "sku": "DY02",
+  "nameEn": "DY-Sachima Soft Flour Cake (Sesame Flavor)",
+  "nameZh": "大宇 芝麻味沙琪瑪",
+  "brand": "大宇 DY",
+  "category": "",
+  "packSize": "620g x 10bags/cs",
+  "imagePath": "/products/DY02.jpg",
+  "sortOrder": 129
+ },
+ {
+  "sku": "DY04",
+  "nameEn": "DY-Sachima Soft Flour Cake (Purple Potato Flavor)",
+  "nameZh": "大宇 紫薯沙琪瑪",
+  "brand": "大宇 DY",
+  "category": "",
+  "packSize": "408g x 10bags/cs",
+  "imagePath": "/products/DY04.jpg",
+  "sortOrder": 130
+ },
+ {
+  "sku": "DY07",
+  "nameEn": "DY-Sachima Soft Flour Cake (Original Flavor)",
+  "nameZh": "大宇 原味沙琪瑪",
+  "brand": "大宇 DY",
+  "category": "",
+  "packSize": "408g x 10bags/cs",
+  "imagePath": "/products/DY07.jpg",
+  "sortOrder": 131
+ },
+ {
+  "sku": "LQQ02",
+  "nameEn": "DY-Waffle Crisp (Brown Sugar Flavor)",
+  "nameZh": "大宇 華夫烤馬仔(醇香黑糖)",
+  "brand": "大宇 DY",
+  "category": "",
+  "packSize": "360g x 18bags/cs",
+  "imagePath": "/products/LQQ02.jpg",
+  "sortOrder": 132
+ },
+ {
+  "sku": "X2019",
+  "nameEn": "YMQ-HongKong Crisp Cookies",
+  "nameZh": "粵米琪 香港風味桃酥",
+  "brand": "粵米琪 YMQ",
+  "category": "",
+  "packSize": "586g x 10bags/cs",
+  "imagePath": "/products/X2019.jpg",
+  "sortOrder": 133
+ },
+ {
+  "sku": "X2021",
+  "nameEn": "YMQ-Macau Crisp Cookies",
+  "nameZh": "粵米琪 澳門風味桃酥",
+  "brand": "粵米琪 YMQ",
+  "category": "",
+  "packSize": "400g x 12bags/cs",
+  "imagePath": "/products/X2021.jpg",
+  "sortOrder": 134
+ },
+ {
+  "sku": "X2161",
+  "nameEn": "Kaqile-Musang King Durian Egg Rolls",
+  "nameZh": "卡耳樂 貓山王榴蓮蛋捲",
+  "brand": "卡耳樂 Kaqile",
+  "category": "",
+  "packSize": "228g x 16bags/cs",
+  "imagePath": "/products/X2161.jpg",
+  "sortOrder": 135
+ },
+ {
+  "sku": "13506",
+  "nameEn": "NC- White Sesame Cake",
+  "nameZh": "九福 白芝麻糖",
+  "brand": "九福 NC",
+  "category": "",
+  "packSize": "3oz x 100bags/cs",
+  "imagePath": "/products/13506.jpg",
+  "sortOrder": 136
+ },
+ {
+  "sku": "13507",
+  "nameEn": "NC- Black Sesame Cake",
+  "nameZh": "九福 黑芝麻糖",
+  "brand": "九福 NC",
+  "category": "",
+  "packSize": "3oz x 100bags/cs",
+  "imagePath": "/products/13507.jpg",
+  "sortOrder": 137
+ },
+ {
+  "sku": "13509N",
+  "nameEn": "NC-Peanut Cake",
+  "nameZh": "九福 花生糖",
+  "brand": "九福 NC",
+  "category": "",
+  "packSize": "3oz x 100bags/cs",
+  "imagePath": "/products/13509N.jpg",
+  "sortOrder": 138
+ },
+ {
+  "sku": "13508",
+  "nameEn": "NC-Peanut Cake (Mix)",
+  "nameZh": "九福 綜合花生糖",
+  "brand": "九福 NC",
+  "category": "",
+  "packSize": "6oz x 48bags/cs",
+  "imagePath": "/products/13508.jpg",
+  "sortOrder": 139
+ },
+ {
+  "sku": "NSN220",
+  "nameEn": "TD-Mochi (Taro)",
+  "nameZh": "寶島Q 點子 和風麻糬 (芋頭味)",
+  "brand": "寶島Q TD",
+  "category": "",
+  "packSize": "7.4oz x 12boxes/cs",
+  "imagePath": "/products/NSN220.jpg",
+  "sortOrder": 140
+ },
+ {
+  "sku": "NSN221",
+  "nameEn": "TD-Mochi (Red Bean)",
+  "nameZh": "寶島Q 點子 和風麻糬 (紅豆味)",
+  "brand": "寶島Q TD",
+  "category": "",
+  "packSize": "7.4oz x 12boxes/cs",
+  "imagePath": "/products/NSN221.jpg",
+  "sortOrder": 141
+ },
+ {
+  "sku": "NSN223",
+  "nameEn": "TD-Mochi (Sesame)",
+  "nameZh": "寶島Q 點子 和風麻糬 (芝麻味)",
+  "brand": "寶島Q TD",
+  "category": "",
+  "packSize": "7.4oz x 12boxes/cs",
+  "imagePath": "/products/NSN223.jpg",
+  "sortOrder": 142
+ },
+ {
+  "sku": "NSN224",
+  "nameEn": "TD-Mochi (Green Tea)",
+  "nameZh": "寶島Q 點子 和風麻糬 (綠茶味)",
+  "brand": "寶島Q TD",
+  "category": "",
+  "packSize": "7.4oz x 12boxes/cs",
+  "imagePath": "/products/NSN224.jpg",
+  "sortOrder": 143
+ },
+ {
+  "sku": "NSN225",
+  "nameEn": "TD-Mochi (Ube)",
+  "nameZh": "寶島Q 點子 和風麻糬 (紫芋味)",
+  "brand": "寶島Q TD",
+  "category": "",
+  "packSize": "7.4oz x 12boxes/cs",
+  "imagePath": "/products/NSN225.jpg",
+  "sortOrder": 144
+ },
+ {
+  "sku": "NSN228",
+  "nameEn": "TD-Mochi (Bubble Milk Tea)",
+  "nameZh": "寶島Q 點子 和風麻糬 (珍珠奶茶味)",
+  "brand": "寶島Q TD",
+  "category": "",
+  "packSize": "7.4oz x 12boxes/cs",
+  "imagePath": "/products/NSN228.jpg",
+  "sortOrder": 145
+ },
+ {
+  "sku": "NSN267",
+  "nameEn": "Royal Family-Fruit Mochi Royal (Orange Honeydew Strawberry)",
+  "nameZh": "皇族 水果麻糬 (柳橙 哈蜜瓜 草莓)",
+  "brand": "皇族 Royal Family",
+  "category": "",
+  "packSize": "4.2oz x 12bags/cs",
+  "imagePath": "/products/NSN267.jpg",
+  "sortOrder": 146
+ },
+ {
+  "sku": "NSN268",
+  "nameEn": "Family-Tropical Fruity Mochi (Passion Fruit Mango Lychee)",
+  "nameZh": "皇族 熱帶水果麻糬 (百香果 芒果 荔枝)",
+  "brand": "皇族 Family",
+  "category": "",
+  "packSize": "4.2oz x 12bags/cs",
+  "imagePath": "/products/NSN268.jpg",
+  "sortOrder": 147
+ },
+ {
+  "sku": "BBH03",
+  "nameEn": "Bamboo House-Gluten Free Rice Cake (Matcha)",
+  "nameZh": "竹葉堂 無麩質麻糬 (抹茶)",
+  "brand": "竹葉堂 Bamboo House",
+  "category": "",
+  "packSize": "210g x 24boxes/cs",
+  "imagePath": "/products/BBH03.jpg",
+  "sortOrder": 148
+ },
+ {
+  "sku": "BBH14",
+  "nameEn": "Bamboo House-Japanese Mochi (Mix)",
+  "nameZh": "竹葉堂 日式麻糬 (綜合味)",
+  "brand": "竹葉堂 Bamboo House",
+  "category": "",
+  "packSize": "450g x 24boxes/cs",
+  "imagePath": "/products/BBH14.jpg",
+  "sortOrder": 149
+ },
+ {
+  "sku": "BBH05",
+  "nameEn": "Bamboo House-Mixed Mochi",
+  "nameZh": "竹葉堂 綜合麻糬",
+  "brand": "竹葉堂 Bamboo House",
+  "category": "",
+  "packSize": "250g x 20bags/cs",
+  "imagePath": "/products/BBH05.jpg",
+  "sortOrder": 150
+ },
+ {
+  "sku": "BBH15",
+  "nameEn": "Bamboo House-Bubble Milk Tea Mochi",
+  "nameZh": "竹葉堂 珍珠奶茶⻛味麻糬",
+  "brand": "竹葉堂 Bamboo House",
+  "category": "",
+  "packSize": "240g x 15boxes/cs",
+  "imagePath": "/products/BBH15.jpg",
+  "sortOrder": 151
+ },
+ {
+  "sku": "81430",
+  "nameEn": "Markenburg-Mallows Bomb (Chocolate)",
+  "nameZh": "馬肯堡 棉花糖炸彈 (巧克力味)",
+  "brand": "馬肯堡 Markenburg",
+  "category": "",
+  "packSize": "100g x 24bags/cs",
+  "imagePath": "/products/81430.jpg",
+  "sortOrder": 152
+ },
+ {
+  "sku": "81431",
+  "nameEn": "Markenburg-Mallows Bomb (Mango)",
+  "nameZh": "馬肯堡 棉花糖炸彈 (芒果味)",
+  "brand": "馬肯堡 Markenburg",
+  "category": "",
+  "packSize": "100g x 24bags/cs",
+  "imagePath": "/products/81431.jpg",
+  "sortOrder": 153
+ },
+ {
+  "sku": "81432",
+  "nameEn": "Markenburg-Mallows Bomb (Ube)",
+  "nameZh": "馬肯堡 棉花糖炸彈 (紫薯味)",
+  "brand": "馬肯堡 Markenburg",
+  "category": "",
+  "packSize": "100g x 24bags/cs",
+  "imagePath": "/products/81432.png",
+  "sortOrder": 154
+ },
+ {
+  "sku": "TOM03",
+  "nameEn": "Tommy's Pig-Marshmallow (Strawberry Flavor)",
+  "nameZh": "糖米小豬 棉花糖 (草莓味夾心)",
+  "brand": "糖米小豬 Tommy's Pig",
+  "category": "",
+  "packSize": "100g x 30bags/cs",
+  "imagePath": "/products/TOM03.jpg",
+  "sortOrder": 155
+ },
+ {
+  "sku": "TOM04",
+  "nameEn": "Tommy's Pig-Marshmallow (Heart Shape)",
+  "nameZh": "糖米小豬 棉花糖 (心型)",
+  "brand": "糖米小豬 Tommy's Pig",
+  "category": "",
+  "packSize": "138g x 30bags/cs",
+  "imagePath": "/products/TOM04.jpg",
+  "sortOrder": 156
+ },
+ {
+  "sku": "TOM05",
+  "nameEn": "Tommy's Pig-Marshmallow (Sakura Shape)",
+  "nameZh": "糖米小豬 棉花糖 (櫻花形)",
+  "brand": "糖米小豬 Tommy's Pig",
+  "category": "",
+  "packSize": "138g x 30bags/cs",
+  "imagePath": "/products/TOM05.jpg",
+  "sortOrder": 157
+ },
+ {
+  "sku": "DOB01",
+  "nameEn": "Dobby-Peelable Fruit Gummy Candy (Passion Fruit Flavor)",
+  "nameZh": "哆比 剝皮果汁軟糖 (百香果味)",
+  "brand": "哆比 Dobby",
+  "category": "",
+  "packSize": "103g x 24bags/cs",
+  "imagePath": "/products/DOB01.jpg",
+  "sortOrder": 158
+ },
+ {
+  "sku": "DOB02",
+  "nameEn": "Dobby-Peelable Fruit Gummy Candy (Mango Flavor)",
+  "nameZh": "哆比 剝皮果汁軟糖 (芒果味)",
+  "brand": "哆比 Dobby",
+  "category": "",
+  "packSize": "103g x 24bags/cs",
+  "imagePath": "/products/DOB02.jpg",
+  "sortOrder": 159
+ },
+ {
+  "sku": "DOB03",
+  "nameEn": "Dobby-Peelable Fruit Gummy Candy (Peach Flavor)",
+  "nameZh": "哆比 剝皮果汁軟糖 (水蜜桃味)",
+  "brand": "哆比 Dobby",
+  "category": "",
+  "packSize": "103g x 24bags/cs",
+  "imagePath": "/products/DOB03.jpg",
+  "sortOrder": 160
+ },
+ {
+  "sku": "DOB05",
+  "nameEn": "Dobby-Popping Gummy (Mango Flavor)",
+  "nameZh": "哆比 爆漿軟糖(芒果味)",
+  "brand": "哆比 Dobby",
+  "category": "",
+  "packSize": "110g x 24bags/cs",
+  "imagePath": "/products/DOB05.jpg",
+  "sortOrder": 161
+ },
+ {
+  "sku": "DOB06",
+  "nameEn": "Dobby-Popping Gummy (Strawberry Flavor)",
+  "nameZh": "哆比 爆漿軟糖(草莓味)",
+  "brand": "哆比 Dobby",
+  "category": "",
+  "packSize": "100g x 24bags/cs",
+  "imagePath": "/products/DOB06.jpg",
+  "sortOrder": 162
+ },
+ {
+  "sku": "DOB07",
+  "nameEn": "Dobby-Popping Gummy (Passion Fruit Flavor)",
+  "nameZh": "哆比 爆漿軟糖(百香果味)",
+  "brand": "哆比 Dobby",
+  "category": "",
+  "packSize": "100g x 24bags/cs",
+  "imagePath": "/products/DOB07.jpg",
+  "sortOrder": 163
+ },
+ {
+  "sku": "CG101",
+  "nameEn": "ChungGuang-Ginger Coconut Candy",
+  "nameZh": "春光 薑汁椰子糖",
+  "brand": "春光 ChungGuang",
+  "category": "",
+  "packSize": "160g x 40bags/cs",
+  "imagePath": "/products/CG101.jpg",
+  "sortOrder": 164
+ },
+ {
+  "sku": "CG102",
+  "nameEn": "ChungGuang-Coconut Candy",
+  "nameZh": "春光 椰子糖",
+  "brand": "春光 ChungGuang",
+  "category": "",
+  "packSize": "160g x 40bags/cs",
+  "imagePath": "/products/CG102.jpg",
+  "sortOrder": 165
+ },
+ {
+  "sku": "CG104",
+  "nameEn": "ChungGuang-Coffee Candy",
+  "nameZh": "春光 咖啡糖",
+  "brand": "春光 ChungGuang",
+  "category": "",
+  "packSize": "160g x 40bags/cs",
+  "imagePath": "/products/CG104.jpg",
+  "sortOrder": 166
+ },
+ {
+  "sku": "CG108",
+  "nameEn": "ChungGuang-Coconut Sticky Jelly",
+  "nameZh": "春光 椰糯糕果凍",
+  "brand": "春光 ChungGuang",
+  "category": "",
+  "packSize": "160g x 40bags/cs",
+  "imagePath": "/products/CG108.jpg",
+  "sortOrder": 167
+ },
+ {
+  "sku": "CG109",
+  "nameEn": "ChungGuang-Ginger Soft Bites",
+  "nameZh": "春光 薑汁軟糖",
+  "brand": "春光 ChungGuang",
+  "category": "",
+  "packSize": "160g x 40bags/cs",
+  "imagePath": "/products/CG109.jpg",
+  "sortOrder": 168
+ },
+ {
+  "sku": "CG111",
+  "nameEn": "ChungGuang-Classic Coconut Candy Bonbon",
+  "nameZh": "春光 傳統椰子糖",
+  "brand": "春光 ChungGuang",
+  "category": "",
+  "packSize": "250g x 18bags/cs",
+  "imagePath": "/products/CG111.jpg",
+  "sortOrder": 169
+ },
+ {
+  "sku": "CG112",
+  "nameEn": "ChungGuang-Assorted Bonbon Candy",
+  "nameZh": "春光 什錦夾心糖",
+  "brand": "春光 ChungGuang",
+  "category": "",
+  "packSize": "250g x 18bags/cs",
+  "imagePath": "/products/CG112.jpg",
+  "sortOrder": 170
+ },
+ {
+  "sku": "CG113",
+  "nameEn": "ChungGuang-Coffee Candy Bonbon",
+  "nameZh": "春光 咖啡夾心糖",
+  "brand": "春光 ChungGuang",
+  "category": "",
+  "packSize": "250g x 18bags/cs",
+  "imagePath": "/products/CG113.jpg",
+  "sortOrder": 171
+ },
+ {
+  "sku": "CG114",
+  "nameEn": "ChungGuang-Classic Coconut Candy",
+  "nameZh": "春光 傳統椰子糖",
+  "brand": "春光 ChungGuang",
+  "category": "",
+  "packSize": "250g x 30bags/cs",
+  "imagePath": "/products/CG114.jpg",
+  "sortOrder": 172
+ },
+ {
+  "sku": "CG116",
+  "nameEn": "ChungGuang-Sumiyaki Coffee Candy",
+  "nameZh": "春光 炭燒咖啡糖",
+  "brand": "春光 ChungGuang",
+  "category": "",
+  "packSize": "228g x 30bags/cs",
+  "imagePath": "/products/CG116.jpg",
+  "sortOrder": 173
+ },
+ {
+  "sku": "CG117",
+  "nameEn": "ChungGuang-Ginger Coconut Candy",
+  "nameZh": "春光 薑汁椰奶糖",
+  "brand": "春光 ChungGuang",
+  "category": "",
+  "packSize": "200g x 30bags/cs",
+  "imagePath": "/products/CG117.jpg",
+  "sortOrder": 174
+ },
+ {
+  "sku": "CG119",
+  "nameEn": "ChungGuang-Mango Soft Candy",
+  "nameZh": "春光 芒果軟糖",
+  "brand": "春光 ChungGuang",
+  "category": "",
+  "packSize": "200g x 30bags/cs",
+  "imagePath": "/products/CG119.jpg",
+  "sortOrder": 175
+ },
+ {
+  "sku": "X2187",
+  "nameEn": "FTF-Peanut Candy",
+  "nameZh": "奉天府 牛軋糖",
+  "brand": "奉天府 FTF",
+  "category": "",
+  "packSize": "248g x 20bags/cs",
+  "imagePath": "/products/X2187.jpg",
+  "sortOrder": 176
+ },
+ {
+  "sku": "P387",
+  "nameEn": "Twin Rabbit-Plum Candy",
+  "nameZh": "雙兔 黃心梅糖",
+  "brand": "雙兔 Twin Rabbit",
+  "category": "",
+  "packSize": "7oz x 24bags/cs",
+  "imagePath": "/products/P387.jpg",
+  "sortOrder": 177
+ },
+ {
+  "sku": "KOP106",
+  "nameEn": "Kopiko-Coffee Candy",
+  "nameZh": "Kopiko 咖啡糖",
+  "brand": "Kopiko",
+  "category": "",
+  "packSize": "4.23oz x 24bags/cs",
+  "imagePath": "/products/KOP106.jpg",
+  "sortOrder": 178
+ },
+ {
+  "sku": "HY101",
+  "nameEn": "HY-Hard Candy (Guava Fruit Flavor) (Large)",
+  "nameZh": "宏源 番石榴果味糖 (大包裝)",
+  "brand": "宏源 HY",
+  "category": "",
+  "packSize": "350g x 30bags/cs",
+  "imagePath": "/products/HY101.jpg",
+  "sortOrder": 179
+ },
+ {
+  "sku": "HY104",
+  "nameEn": "HY-Hard Candy (Green Plum Green Tea Flavor)",
+  "nameZh": "宏源 青梅綠茶風味果汁硬糖",
+  "brand": "宏源 HY",
+  "category": "",
+  "packSize": "300g x 24bags/cs",
+  "imagePath": "/products/HY104.jpg",
+  "sortOrder": 180
+ },
+ {
+  "sku": "56770",
+  "nameEn": "Corniche-Ginger Drop (Original)",
+  "nameZh": "可尼斯 原味薑糖",
+  "brand": "可尼斯 Corniche",
+  "category": "",
+  "packSize": "3.5oz x 12bags/pk; 2pks/cs",
+  "imagePath": "/products/56770.jpg",
+  "sortOrder": 181
+ },
+ {
+  "sku": "56772",
+  "nameEn": "Corniche-Ginger Drop (Lemon)",
+  "nameZh": "可尼斯 檸檬味薑糖",
+  "brand": "可尼斯 Corniche",
+  "category": "",
+  "packSize": "3.5oz x 12bags/pk; 2pks/cs",
+  "imagePath": "/products/56772.jpg",
+  "sortOrder": 182
+ },
+ {
+  "sku": "56774",
+  "nameEn": "Corniche-Ginger Drop (Mango)",
+  "nameZh": "可尼斯 芒果味薑糖",
+  "brand": "可尼斯 Corniche",
+  "category": "",
+  "packSize": "3.5oz x 12bags/pk; 2pks/cs",
+  "imagePath": "/products/56774.jpg",
+  "sortOrder": 183
+ },
+ {
+  "sku": "77589N",
+  "nameEn": "Meiji Gummy Choco (Green Grape Flavor) New",
+  "nameZh": "明治朱古力橡皮糖 (青提味)",
+  "brand": "明治朱古力橡皮糖",
+  "category": "",
+  "packSize": "81g x 6tubes/cs",
+  "imagePath": "/products/77589N.jpg",
+  "sortOrder": 184
+ },
+ {
+  "sku": "77590N",
+  "nameEn": "Meiji Gummy Choco (Fruits Mix Flavor) New",
+  "nameZh": "明治朱古力橡皮糖 (雜果味)",
+  "brand": "明治朱古力橡皮糖",
+  "category": "",
+  "packSize": "81g x 6tubes/cs",
+  "imagePath": null,
+  "sortOrder": 185
+ },
+ {
+  "sku": "77591N",
+  "nameEn": "Meiji Gummy Choco (Strawberry Flavor) New",
+  "nameZh": "明治朱古力橡皮糖 (草莓味)",
+  "brand": "明治朱古力橡皮糖",
+  "category": "",
+  "packSize": "81g x 6tubes/cs",
+  "imagePath": null,
+  "sortOrder": 186
+ },
+ {
+  "sku": "R11500",
+  "nameEn": "Raindrops-Gummy Taco",
+  "nameZh": "Raindrops 炸玉米餅軟糖",
+  "brand": "Raindrops",
+  "category": "",
+  "packSize": "4.06oz x 14pks/cs",
+  "imagePath": "/products/R11500.jpg",
+  "sortOrder": 187
+ },
+ {
+  "sku": "R16052",
+  "nameEn": "Raindrops-Gummy Liquid Filled Strawberry",
+  "nameZh": "Raindrops 草莓爆漿軟糖",
+  "brand": "Raindrops",
+  "category": "",
+  "packSize": "3.8oz x 8pks/cs",
+  "imagePath": "/products/R16052.jpg",
+  "sortOrder": 188
+ },
+ {
+  "sku": "R16056",
+  "nameEn": "Raindrops-Gummy Liquid Filled Grape",
+  "nameZh": "Raindrops 葡萄爆漿軟糖",
+  "brand": "Raindrops",
+  "category": "",
+  "packSize": "3.8oz x 8pks/cs",
+  "imagePath": "/products/R16056.jpg",
+  "sortOrder": 189
+ },
+ {
+  "sku": "R16078",
+  "nameEn": "Raindrops-Gummy Liquid Filled Sour Apple",
+  "nameZh": "Raindrops 酸蘋果爆漿軟糖",
+  "brand": "Raindrops",
+  "category": "",
+  "packSize": "3.17oz x 8pks/cs",
+  "imagePath": "/products/R16078.jpg",
+  "sortOrder": 190
+ },
+ {
+  "sku": "R16084",
+  "nameEn": "Raindrops-Gummy Liquid Filled Lychee",
+  "nameZh": "Raindrops 荔枝爆漿軟糖",
+  "brand": "Raindrops",
+  "category": "",
+  "packSize": "3.17oz x 8pks/cs",
+  "imagePath": "/products/R16084.jpg",
+  "sortOrder": 191
+ },
+ {
+  "sku": "FC92000",
+  "nameEn": "BOP Pop Ups Lollipop",
+  "nameZh": "BOP 彈出棒棒糖",
+  "brand": "",
+  "category": "",
+  "packSize": "6cts/cs",
+  "imagePath": "/products/FC92000.jpg",
+  "sortOrder": 192
+ },
+ {
+  "sku": "YF-001",
+  "nameEn": "Yay Fun Top Candy Tube Lollipop Shipper",
+  "nameZh": "趣味 棒棒糖",
+  "brand": "趣味",
+  "category": "",
+  "packSize": "16g x 12pcs/cs",
+  "imagePath": "/products/YF-001.jpg",
+  "sortOrder": 193
+ },
+ {
+  "sku": "JL-005",
+  "nameEn": "Justice League Surprise Eggs",
+  "nameZh": "正義聯盟 驚喜蛋",
+  "brand": "正義聯盟",
+  "category": "",
+  "packSize": "10g x24pcs/cs",
+  "imagePath": "/products/JL-005.jpg",
+  "sortOrder": 194
+ },
+ {
+  "sku": "LB-056",
+  "nameEn": "Kuromi Heart Shaped Surprise Toys",
+  "nameZh": "酷洛米 心型驚喜玩具",
+  "brand": "酷洛米",
+  "category": "",
+  "packSize": "10g x24pcs/cs",
+  "imagePath": "/products/LB-056.jpg",
+  "sortOrder": 196
+ },
+ {
+  "sku": "HLL-002A",
+  "nameEn": "Kuromi Surprise Egg w/Hazelnut Cream",
+  "nameZh": "酷洛米 驚喜蛋 (含榛果奶油)",
+  "brand": "酷洛米",
+  "category": "",
+  "packSize": "17.5g x24pcs/cs",
+  "imagePath": "/products/HLL-002A.jpg",
+  "sortOrder": 197
+ },
+ {
+  "sku": "HLL-003",
+  "nameEn": "Hello Kitty Breadstick w/Hazelnut Cream",
+  "nameZh": "凯蒂猫 脆脆棒 (含榛果奶油)",
+  "brand": "凯蒂猫",
+  "category": "",
+  "packSize": "50g x 24pc/cs",
+  "imagePath": "/products/HLL-003.jpg",
+  "sortOrder": 198
+ },
+ {
+  "sku": "HLL-004",
+  "nameEn": "PJ Masks Breadstick w/Hazelnut Cream",
+  "nameZh": "睡衣小英雄 脆脆棒 (含榛果奶油)",
+  "brand": "睡衣小英雄",
+  "category": "",
+  "packSize": "50g x 24pc/cs",
+  "imagePath": "/products/HLL-004.jpg",
+  "sortOrder": 199
+ },
+ {
+  "sku": "HKW-001",
+  "nameEn": "Hello Kitty Wafer (Strawberry) 100g",
+  "nameZh": "凯蒂猫 威化餅(草莓味)",
+  "brand": "凯蒂猫",
+  "category": "",
+  "packSize": "100g x 34bags/cs",
+  "imagePath": "/products/HKW-001.jpg",
+  "sortOrder": 200
+ },
+ {
+  "sku": "HKW-002",
+  "nameEn": "Kuromi Wafer (Chocolate)",
+  "nameZh": "酷洛米 威化餅(巧克力味)",
+  "brand": "酷洛米",
+  "category": "",
+  "packSize": "100g x 34bags/cs",
+  "imagePath": "/products/HKW-002.jpg",
+  "sortOrder": 201
+ },
+ {
+  "sku": "HKW-003",
+  "nameEn": "PJ Masks Wafer (Hazelnut)",
+  "nameZh": "睡衣小英雄 威化餅(榛果味)",
+  "brand": "睡衣小英雄",
+  "category": "",
+  "packSize": "100g x 34bags/cs",
+  "imagePath": "/products/HKW-003.jpg",
+  "sortOrder": 202
+ },
+ {
+  "sku": "HKW-004",
+  "nameEn": "Hello Kitty Wafer (Strawberry) 40g",
+  "nameZh": "凯蒂猫 威化餅(草莓味)",
+  "brand": "凯蒂猫",
+  "category": "",
+  "packSize": "40g x 24bags/cs",
+  "imagePath": "/products/HKW-004.jpg",
+  "sortOrder": 203
+ },
+ {
+  "sku": "LB-026",
+  "nameEn": "Hello Kitty Tiny Cornet",
+  "nameZh": "凯蒂猫 小甜筒",
+  "brand": "凯蒂猫",
+  "category": "",
+  "packSize": "70g x 18bags/cs",
+  "imagePath": "/products/LB-026.jpg",
+  "sortOrder": 204
+ },
+ {
+  "sku": "LB-031",
+  "nameEn": "Hello Kitty Surprise Cornet",
+  "nameZh": "凯蒂猫 驚喜甜筒",
+  "brand": "凯蒂猫",
+  "category": "",
+  "packSize": "25g x 12pc/cs",
+  "imagePath": "/products/LB-031.jpg",
+  "sortOrder": 205
+ },
+ {
+  "sku": "LB-031A",
+  "nameEn": "Kuromi Surprise Cornet",
+  "nameZh": "酷洛米 驚喜甜筒",
+  "brand": "酷洛米",
+  "category": "",
+  "packSize": "25g x 12pc/cs",
+  "imagePath": "/products/LB-031A.jpg",
+  "sortOrder": 206
+ },
+ {
+  "sku": "LBG-001",
+  "nameEn": "Lolliboni Hello Kitty Giant Surprise Egg",
+  "nameZh": "凯蒂猫 巨型驚喜蛋",
+  "brand": "凯蒂猫",
+  "category": "",
+  "packSize": "8g x 6pcs/cs",
+  "imagePath": "/products/LBG-001.jpg",
+  "sortOrder": 207
+ },
+ {
+  "sku": "LB-029",
+  "nameEn": "Hello Kitty S5 Surprise Egg",
+  "nameZh": "凯蒂猫 S5 驚喜蛋",
+  "brand": "凯蒂猫",
+  "category": "",
+  "packSize": "8g x 24pcs/cs",
+  "imagePath": "/products/LB-029.jpg",
+  "sortOrder": 208
+ },
+ {
+  "sku": "LB-029A",
+  "nameEn": "PJ Masks S5 Surprise Egg",
+  "nameZh": "睡衣小英雄 S5 驚喜蛋",
+  "brand": "睡衣小英雄",
+  "category": "",
+  "packSize": "8g x 24pcs/cs",
+  "imagePath": "/products/LB-029A.jpg",
+  "sortOrder": 209
+ },
+ {
+  "sku": "HKG-003",
+  "nameEn": "Hello Kitty Gummy Heart",
+  "nameZh": "凯蒂猫 心形軟糖",
+  "brand": "凯蒂猫",
+  "category": "",
+  "packSize": "80g x12bags/cs",
+  "imagePath": "/products/HKG-003.jpg",
+  "sortOrder": 210
+ },
+ {
+  "sku": "HKG-004",
+  "nameEn": "Hello Kitty Gummy Watermelon",
+  "nameZh": "凯蒂猫 西瓜軟糖",
+  "brand": "凯蒂猫",
+  "category": "",
+  "packSize": "80g x12bags/cs",
+  "imagePath": "/products/HKG-004.jpg",
+  "sortOrder": 211
+ },
+ {
+  "sku": "HKG-005",
+  "nameEn": "Hello Kitty Sour Stick",
+  "nameZh": "凯蒂猫 酸味棒",
+  "brand": "凯蒂猫",
+  "category": "",
+  "packSize": "80g x12bags/cs",
+  "imagePath": "/products/HKG-005.jpg",
+  "sortOrder": 212
+ },
+ {
+  "sku": "HKG-006",
+  "nameEn": "Hello Kitty Sour Belt",
+  "nameZh": "凯蒂猫 酸味帶",
+  "brand": "凯蒂猫",
+  "category": "",
+  "packSize": "80g x12bags/cs",
+  "imagePath": "/products/HKG-006.jpg",
+  "sortOrder": 213
+ },
+ {
+  "sku": "CRZ-001",
+  "nameEn": "Crazy Chicken’s Chocolate",
+  "nameZh": "瘋狂小雞 巧克力",
+  "brand": "瘋狂小雞",
+  "category": "",
+  "packSize": "50g x 12pcs/cs",
+  "imagePath": "/products/CRZ-001.jpg",
+  "sortOrder": 214
+ },
+ {
+  "sku": "HLL-001",
+  "nameEn": "Hello Kitty Surprise Egg",
+  "nameZh": "凯蒂猫 驚喜蛋",
+  "brand": "凯蒂猫",
+  "category": "",
+  "packSize": "17.5g x 24pcs/cs",
+  "imagePath": "/products/HLL-001.jpg",
+  "sortOrder": 215
+ },
+ {
+  "sku": "HLL-008",
+  "nameEn": "Hello Kitty&Friends Surprise Egg",
+  "nameZh": "凯蒂猫&朋友 驚喜蛋",
+  "brand": "凯蒂猫&朋友",
+  "category": "",
+  "packSize": "17.5 x 24pcs/cs",
+  "imagePath": "/products/HLL-008.jpg",
+  "sortOrder": 216
+ },
+ {
+  "sku": "LB-001",
+  "nameEn": "Hello Kitty Lollipop w/Gum",
+  "nameZh": "凯蒂猫 口香糖棒棒糖",
+  "brand": "凯蒂猫",
+  "category": "",
+  "packSize": "16g x 100pcs/cs",
+  "imagePath": "/products/LB-001.jpg",
+  "sortOrder": 217
+ },
+ {
+  "sku": "LB-050",
+  "nameEn": "Hello Kitty Chocolate Coin Medallion",
+  "nameZh": "凯蒂猫 巧克力金幣",
+  "brand": "凯蒂猫",
+  "category": "",
+  "packSize": "20g x 24pcs/cs",
+  "imagePath": "/products/LB-050.jpg",
+  "sortOrder": 218
+ },
+ {
+  "sku": "HKP-001",
+  "nameEn": "Hello Kitty Popcorn",
+  "nameZh": "凯蒂猫 爆米花",
+  "brand": "凯蒂猫",
+  "category": "",
+  "packSize": "55g x 10pcs/cs",
+  "imagePath": "/products/HKP-001.jpg",
+  "sortOrder": 219
+ },
+ {
+  "sku": "HKP-002",
+  "nameEn": "Hello Kitty Popcorn Caramel",
+  "nameZh": "凯蒂猫 焦糖爆米花",
+  "brand": "凯蒂猫",
+  "category": "",
+  "packSize": "45g x 18pcs/cs",
+  "imagePath": "/products/HKP-002.jpg",
+  "sortOrder": 220
+ },
+ {
+  "sku": "DSNY-003",
+  "nameEn": "Disney Barbie&Hot Wheels Surprise Luggage",
+  "nameZh": "迪士尼芭比&風火輪 驚喜行李箱",
+  "brand": "迪士尼芭比&風火輪",
+  "category": "",
+  "packSize": "10pcs/cs",
+  "imagePath": "/products/DSNY-003.jpg",
+  "sortOrder": 221
+ },
+ {
+  "sku": "DSNY-004",
+  "nameEn": "Disney Frozen&Cars Surprise Luggage",
+  "nameZh": "迪士尼冰雪奇緣&汽車總動員 驚喜行李箱",
+  "brand": "迪士尼冰雪奇緣&汽車總動員",
+  "category": "",
+  "packSize": "10pcs/cs",
+  "imagePath": "/products/DSNY-004.jpg",
+  "sortOrder": 222
+ },
+ {
+  "sku": "LB-024",
+  "nameEn": "Disney Barbie, Hot Wheels Frozen & Cars Surprise Egg",
+  "nameZh": "迪士尼芭比,風火輪, 冰雪奇緣&汽車總動員驚喜蛋",
+  "brand": "迪士尼芭比,風火輪,",
+  "category": "",
+  "packSize": "24pcs/cs",
+  "imagePath": "/products/LB-024.jpg",
+  "sortOrder": 223
+ },
+ {
+  "sku": "MG-001",
+  "nameEn": "Magical Gummies Rainbow Belt Bites Bunny Shape",
+  "nameZh": "神奇彩虹軟糖帶兔子造型",
+  "brand": "神奇彩虹軟糖帶兔子造型",
+  "category": "",
+  "packSize": "7oz x 20pcs/cs",
+  "imagePath": "/products/MG-001.jpg",
+  "sortOrder": 224
+ },
+ {
+  "sku": "MG-002",
+  "nameEn": "Lolliboni Magical Gummies Rainbow Lolliboni Belt Bites Bear Shape Big Lollipop",
+  "nameZh": "神奇彩虹軟糖腰帶小熊造型",
+  "brand": "神奇彩虹軟糖腰帶小熊造型",
+  "category": "",
+  "packSize": "7oz x 12pcs/cs 8g x",
+  "imagePath": "/products/MG-002.jpg",
+  "sortOrder": 225
+ },
+ {
+  "sku": "LB-051",
+  "nameEn": "Toy Candy Hello Kitty Heart Shaped Shipper Surprise Toys",
+  "nameZh": "玩具糖果大棒棒糖 凯蒂猫 心型驚喜玩具",
+  "brand": "玩具糖果大棒棒糖",
+  "category": "",
+  "packSize": "50pcs/cs 24pcs/cs",
+  "imagePath": "/products/LB-051.jpg",
+  "sortOrder": 226
+ },
+ {
+  "sku": "DSNY-005",
+  "nameEn": "Disney Barbie, Cars&Frozen Crystal Surprise Egg",
+  "nameZh": "迪士尼芭比、汽車總動員 冰雪奇緣水晶驚喜蛋",
+  "brand": "迪士尼芭比、汽車總動員",
+  "category": "",
+  "packSize": "24pcs/cs",
+  "imagePath": "/products/DSNY-005.jpg",
+  "sortOrder": 227
+ },
+ {
+  "sku": "YFS-001",
+  "nameEn": "Yay Fun Gummy Mix Red Shipper",
+  "nameZh": "真趣 紅色軟糖混合裝",
+  "brand": "真趣",
+  "category": "",
+  "packSize": "80g x 90pcs/cs",
+  "imagePath": "/products/YFS-001.jpg",
+  "sortOrder": 228
+ },
+ {
+  "sku": "YFS-002",
+  "nameEn": "Yay Fun Gummy Mix Purple Shipper",
+  "nameZh": "真趣 紫色軟糖混合裝",
+  "brand": "真趣",
+  "category": "",
+  "packSize": "80g x 90pcs/cs",
+  "imagePath": "/products/YFS-002.jpg",
+  "sortOrder": 229
+ },
+ {
+  "sku": "GOLF-001",
+  "nameEn": "Disney Big Egg w/Toys",
+  "nameZh": "迪士尼 大驚喜蛋",
+  "brand": "迪士尼",
+  "category": "",
+  "packSize": "18pcs/cs",
+  "imagePath": "/products/GOLF-001.jpg",
+  "sortOrder": 230
+ },
+ {
+  "sku": "LB-031B",
+  "nameEn": "Hello Kitty & Kuromi Surprise Cornet Shipper",
+  "nameZh": "凯蒂猫, 酷洛米驚喜甜筒",
+  "brand": "凯蒂猫,",
+  "category": "",
+  "packSize": "96pcs/cs",
+  "imagePath": "/products/LB-031B.jpg",
+  "sortOrder": 231
+ },
+ {
+  "sku": "HLL-006",
+  "nameEn": "Hello Kitty, PJ Masks Breadstick w/Hazelnut Spread Shipper",
+  "nameZh": "凯蒂猫, 睡衣小英雄 脆脆棒 (含榛果奶油)",
+  "brand": "凯蒂猫,",
+  "category": "",
+  "packSize": "144pcs/cs",
+  "imagePath": "/products/HLL-006.jpg",
+  "sortOrder": 232
+ },
+ {
+  "sku": "YFG-001",
+  "nameEn": "Yay Fun Gummy Bears",
+  "nameZh": "真趣 小熊軟糖",
+  "brand": "真趣",
+  "category": "",
+  "packSize": "7oz x 6boxes/cs",
+  "imagePath": "/products/YFG-001.jpg",
+  "sortOrder": 233
+ },
+ {
+  "sku": "YFG-003",
+  "nameEn": "Yay Fun Strawberry Belts",
+  "nameZh": "真趣 草莓軟糖帶",
+  "brand": "真趣",
+  "category": "",
+  "packSize": "7oz x 6boxes/cs",
+  "imagePath": "/products/YFG-003.jpg",
+  "sortOrder": 234
+ },
+ {
+  "sku": "YFG-004",
+  "nameEn": "Yay Fun Rainbow Belts",
+  "nameZh": "真趣 彩虹軟糖帶",
+  "brand": "真趣",
+  "category": "",
+  "packSize": "7oz x 6boxes/cs",
+  "imagePath": "/products/YFG-004.jpg",
+  "sortOrder": 235
+ },
+ {
+  "sku": "YFG-005",
+  "nameEn": "Yay Fun Neon Worms Gummies",
+  "nameZh": "真趣 霓虹蠕蟲軟糖",
+  "brand": "真趣",
+  "category": "",
+  "packSize": "7oz x 6boxes/cs",
+  "imagePath": "/products/YFG-005.jpg",
+  "sortOrder": 236
+ },
+ {
+  "sku": "YFG-0059",
+  "nameEn": "Yay Fun Strawberry w/ White Foam Gummies",
+  "nameZh": "真趣 草莓白泡沫軟糖",
+  "brand": "真趣",
+  "category": "",
+  "packSize": "7oz x 6boxes/cs",
+  "imagePath": "/products/YFG-0059.jpg",
+  "sortOrder": 237
+ },
+ {
+  "sku": "YFG-011",
+  "nameEn": "Yay Fun Butterfly Gummies",
+  "nameZh": "真趣 蝴蝶軟糖",
+  "brand": "真趣",
+  "category": "",
+  "packSize": "7oz x 6boxes/cs",
+  "imagePath": "/products/YFG-011.jpg",
+  "sortOrder": 238
+ },
+ {
+  "sku": "YFG-015",
+  "nameEn": "Yay Fun Ocean Creatures Gummies",
+  "nameZh": "真趣 海洋生物軟糖",
+  "brand": "真趣",
+  "category": "",
+  "packSize": "7oz x 6boxes/cs",
+  "imagePath": "/products/YFG-015.jpg",
+  "sortOrder": 239
+ },
+ {
+  "sku": "HBS03",
+  "nameEn": "HBS-NanXi Classic Dried Beancurd (Mala Spicy Flavor)",
+  "nameZh": "好巴食 南溪豆乾 (麻辣味)",
+  "brand": "好巴食 HBS",
+  "category": "",
+  "packSize": "95g x 30bags/cs",
+  "imagePath": "/products/HBS03.jpg",
+  "sortOrder": 240
+ },
+ {
+  "sku": "HBS04",
+  "nameEn": "HBS-NanXi Classic Dried Beancurd (Five Spices Flavor)",
+  "nameZh": "好巴食 南溪豆乾 (五香味)",
+  "brand": "好巴食 HBS",
+  "category": "",
+  "packSize": "95g x 30bags/cs",
+  "imagePath": "/products/HBS04.jpg",
+  "sortOrder": 241
+ },
+ {
+  "sku": "HBS05",
+  "nameEn": "HBS-NanXi Classic Dried Beancurd (BBQ Flavor)",
+  "nameZh": "好巴食 南溪豆乾 (燒烤味)",
+  "brand": "好巴食 HBS",
+  "category": "",
+  "packSize": "95g x 30bags/cs",
+  "imagePath": "/products/HBS05.jpg",
+  "sortOrder": 242
+ },
+ {
+  "sku": "HBS08",
+  "nameEn": "HBS-Grilled Vegetarian Jerky (Beef Sauce Flavor)",
+  "nameZh": "好巴食 串燒素肉 (牛汁味)",
+  "brand": "好巴食 HBS",
+  "category": "",
+  "packSize": "65g x 40bags/cs",
+  "imagePath": "/products/HBS08.jpg",
+  "sortOrder": 243
+ },
+ {
+  "sku": "BEN01",
+  "nameEn": "Bento-Dried Squid (Spicy)",
+  "nameZh": "Bento 魷魚乾(辣味)",
+  "brand": "Bento",
+  "category": "",
+  "packSize": "18g x 36bags/cs",
+  "imagePath": "/products/BEN01.jpg",
+  "sortOrder": 244
+ },
+ {
+  "sku": "BEN02",
+  "nameEn": "Bento-Dried Squid (Sweet & Sour)",
+  "nameZh": "Bento 魷魚乾(甜辣味)",
+  "brand": "Bento",
+  "category": "",
+  "packSize": "18g x 36bags/cs",
+  "imagePath": "/products/BEN02.jpg",
+  "sortOrder": 245
+ },
+ {
+  "sku": "BEN03",
+  "nameEn": "Bento-Dried Squid (Chili)",
+  "nameZh": "Bento 魷魚乾(辣椒味)",
+  "brand": "Bento",
+  "category": "",
+  "packSize": "18g x 36bags/cs",
+  "imagePath": "/products/BEN03.jpg",
+  "sortOrder": 246
+ },
+ {
+  "sku": "BEN04",
+  "nameEn": "Bento-Dried Squid (Larb)",
+  "nameZh": "Bento 魷魚乾(肉末味)",
+  "brand": "Bento",
+  "category": "",
+  "packSize": "18g x 36bags/cs",
+  "imagePath": "/products/BEN04.jpg",
+  "sortOrder": 247
+ },
+ {
+  "sku": "BEN05",
+  "nameEn": "Bento-Max Dried Squid (Seafood Larb)",
+  "nameZh": "Bento 魷魚乾(海鮮肉末味)",
+  "brand": "Bento",
+  "category": "",
+  "packSize": "30g x 24bags/cs",
+  "imagePath": "/products/BEN05.jpg",
+  "sortOrder": 248
+ },
+ {
+  "sku": "LAYS-07",
+  "nameEn": "Lay's-Potato Chip (Cucumber)",
+  "nameZh": "樂事 薯片(袋装) (黄瓜味)",
+  "brand": "樂事 Lay's",
+  "category": "",
+  "packSize": "70g x 22bags/cs",
+  "imagePath": "/products/LAYS-07.jpg",
+  "sortOrder": 249
+ },
+ {
+  "sku": "LAYS-08",
+  "nameEn": "Lay's-Potato Chip (Numb & Spicy Hot Pot)",
+  "nameZh": "樂事 薯片(袋装) (飄香麻辣香鍋味)",
+  "brand": "樂事 Lay's",
+  "category": "",
+  "packSize": "70g x 22bags/cs",
+  "imagePath": "/products/LAYS-08.jpg",
+  "sortOrder": 250
+ },
+ {
+  "sku": "LAYS-09",
+  "nameEn": "Lay’s-Potato Chips (Italian Red Meat Flavor)",
+  "nameZh": "樂事薯片(袋装) (意大利紅燴味)",
+  "brand": "樂事薯片(袋装) Lay’s",
+  "category": "",
+  "packSize": "70g X 22bags/cs",
+  "imagePath": "/products/LAYS-09.jpg",
+  "sortOrder": 251
+ },
+ {
+  "sku": "LAYS-10",
+  "nameEn": "Lay’s-Potato Chips (Mexican Tomato Chicken)",
+  "nameZh": "樂事 薯片(袋装) (墨西哥雞汁番茄味)",
+  "brand": "樂事 Lay’s",
+  "category": "",
+  "packSize": "70g x 22bags/cs",
+  "imagePath": "/products/LAYS-10.jpg",
+  "sortOrder": 252
+ },
+ {
+  "sku": "LAYS-16",
+  "nameEn": "Lay’s- Wave Potato Chips (BBQ Squid Flavor)",
+  "nameZh": "樂事 大波浪薯片(袋装) (鐵板魷魚味)",
+  "brand": "樂事 Lay’s",
+  "category": "",
+  "packSize": "70g x 22bags/cs",
+  "imagePath": "/products/LAYS-16.jpg",
+  "sortOrder": 253
+ },
+ {
+  "sku": "LAYS-17",
+  "nameEn": "Lay's-Wave Potato Chip (BBQ Chicken Flavor)",
+  "nameZh": "樂事 大波浪薯片(袋装) (香烤雞翅味)",
+  "brand": "樂事 Lay's",
+  "category": "",
+  "packSize": "70g x 22bags/cs",
+  "imagePath": "/products/LAYS-17.jpg",
+  "sortOrder": 254
+ },
+ {
+  "sku": "LAYS-24",
+  "nameEn": "Lay’s-Potato Chips (Spicy Crayfish Flavor)",
+  "nameZh": "樂事薯片(袋装) (香辣小龍蝦味)",
+  "brand": "樂事薯片(袋装) Lay’s",
+  "category": "",
+  "packSize": "70g X 22bags/cs",
+  "imagePath": "/products/LAYS-24.jpg",
+  "sortOrder": 255
+ },
+ {
+  "sku": "LAYS-28",
+  "nameEn": "Lay’s-Potato Chips (Fried Crab Flavor)",
+  "nameZh": "樂事 薯片(袋装) (金黄炒蟹味)",
+  "brand": "樂事 Lay’s",
+  "category": "",
+  "packSize": "70g x 22bags/cs",
+  "imagePath": "/products/LAYS-28.jpg",
+  "sortOrder": 256
+ },
+ {
+  "sku": "LAYS-105",
+  "nameEn": "Lay's-Potato Chip (Thai Miang Kham)",
+  "nameZh": "樂事 薯片 (泰式蜜延堪味)",
+  "brand": "樂事 Lay's",
+  "category": "",
+  "packSize": "48g x 48bags/cs",
+  "imagePath": "/products/LAYS-105.jpg",
+  "sortOrder": 257
+ },
+ {
+  "sku": "LAYS-108",
+  "nameEn": "Lay's-Potato Chip (Thai Max Ghost Pepper)",
+  "nameZh": "樂事 薯片 (泰式魔鬼椒辣味)",
+  "brand": "樂事 Lay's",
+  "category": "",
+  "packSize": "48g x 24bags/cs",
+  "imagePath": "/products/LAYS-108.jpg",
+  "sortOrder": 258
+ },
+ {
+  "sku": "LAYS-109",
+  "nameEn": "Lay's-Potato Chip (2-in-1 Grilled Prown&Seafood)",
+  "nameZh": "樂事 薯片 (泰式烤蝦海鮮醬味)",
+  "brand": "樂事 Lay's",
+  "category": "",
+  "packSize": "48g x 48bags/cs",
+  "imagePath": "/products/LAYS-109.jpg",
+  "sortOrder": 259
+ },
+ {
+  "sku": "LAYS-110",
+  "nameEn": "Lay's-Potato Chip (Hot Chilli Squid)",
+  "nameZh": "樂事 薯片 (泰式香辣魷魚味)",
+  "brand": "樂事 Lay's",
+  "category": "",
+  "packSize": "48g x 48bags/cs",
+  "imagePath": "/products/LAYS-110.jpg",
+  "sortOrder": 260
+ },
+ {
+  "sku": "CHEE01",
+  "nameEn": "Cheetos-Corn Sticks (Japanese Steak)",
+  "nameZh": "奇多粟米棒 (日式牛排味)",
+  "brand": "奇多粟米棒 Cheetos",
+  "category": "",
+  "packSize": "50g x 50bags/cs",
+  "imagePath": "/products/CHEE01.jpg",
+  "sortOrder": 261
+ },
+ {
+  "sku": "CHEE02",
+  "nameEn": "Cheetos-Corn Sticks (American Turkey)",
+  "nameZh": "奇多粟米棒 (美式火雞味)",
+  "brand": "奇多粟米棒 Cheetos",
+  "category": "",
+  "packSize": "50g X 50bags/cs",
+  "imagePath": "/products/CHEE02.jpg",
+  "sortOrder": 262
+ },
+ {
+  "sku": "MIMI01",
+  "nameEn": "MIMI-Shrimp Chips",
+  "nameZh": "咪咪蝦条",
+  "brand": "咪咪蝦条 MIMI",
+  "category": "",
+  "packSize": "20g x 40bags/pk; 12pks/cs",
+  "imagePath": "/products/MIMI01.jpg",
+  "sortOrder": 263
+ },
+ {
+  "sku": "MIMI02",
+  "nameEn": "MIMI-Crab Cubes",
+  "nameZh": "咪咪蟹味粒",
+  "brand": "咪咪蟹味粒 MIMI",
+  "category": "",
+  "packSize": "20g x 40bags/pk; 12pks/cs",
+  "imagePath": "/products/MIMI02.jpg",
+  "sortOrder": 264
+ },
+ {
+  "sku": "MIMI05",
+  "nameEn": "MIMI-Shrimp Chips (Original)",
+  "nameZh": "咪咪 蝦條 240g",
+  "brand": "咪咪 MIMI",
+  "category": "",
+  "packSize": "240g x 20bags/cs",
+  "imagePath": "/products/MIMI05.jpg",
+  "sortOrder": 265
+ },
+ {
+  "sku": "MIMI06",
+  "nameEn": "MIMI-Crab Cubes",
+  "nameZh": "咪咪 蟹味粒 240g",
+  "brand": "咪咪 MIMI",
+  "category": "",
+  "packSize": "240g x 20bags/cs",
+  "imagePath": "/products/MIMI06.jpg",
+  "sortOrder": 266
+ },
+ {
+  "sku": "HFH01",
+  "nameEn": "HFH-Spicy Peanuts",
+  "nameZh": "黃飛紅 麻辣花生 110g",
+  "brand": "黃飛紅 HFH",
+  "category": "",
+  "packSize": "110g x 30bags/cs",
+  "imagePath": "/products/HFH01.jpg",
+  "sortOrder": 267
+ },
+ {
+  "sku": "HFH02",
+  "nameEn": "HFH-Spicy Peanuts",
+  "nameZh": "黃飛紅 麻辣花生 210g",
+  "brand": "黃飛紅 HFH",
+  "category": "",
+  "packSize": "210g x 16bags/cs",
+  "imagePath": "/products/HFH02.jpg",
+  "sortOrder": 268
+ },
+ {
+  "sku": "HFH03",
+  "nameEn": "HFH-Spicy Peanuts w/Magic Chili",
+  "nameZh": "黃飛紅 香脆椒花生",
+  "brand": "黃飛紅 HFH",
+  "category": "",
+  "packSize": "308g x 10bags/cs",
+  "imagePath": "/products/HFH03.jpg",
+  "sortOrder": 269
+ },
+ {
+  "sku": "HFH04",
+  "nameEn": "HFH-Spicy Peanuts w/Dried Shrimps",
+  "nameZh": "黃飛紅 麻辣小蝦花生",
+  "brand": "黃飛紅 HFH",
+  "category": "",
+  "packSize": "98g x 24bags/cs",
+  "imagePath": "/products/HFH04.jpg",
+  "sortOrder": 270
+ },
+ {
+  "sku": "666325",
+  "nameEn": "SHJ-Garlic Green Peas",
+  "nameZh": "盛香珍 蒜香青豆",
+  "brand": "盛香珍 SHJ",
+  "category": "",
+  "packSize": "240g x 10bags/cs",
+  "imagePath": "/products/666325.jpg",
+  "sortOrder": 271
+ },
+ {
+  "sku": "11610",
+  "nameEn": "Queen's Fried Broad Beans (Garlic)",
+  "nameZh": "皇后牌 蓮花豆 (蒜味)",
+  "brand": "皇后牌",
+  "category": "",
+  "packSize": "6oz x 50bags/cs",
+  "imagePath": "/products/11610.jpg",
+  "sortOrder": 272
+ },
+ {
+  "sku": "11612",
+  "nameEn": "Queen's Fried Broad Beans (Original)",
+  "nameZh": "皇后牌 蓮花豆 (原味)",
+  "brand": "皇后牌",
+  "category": "",
+  "packSize": "6oz x 50bags/cs",
+  "imagePath": "/products/11612.jpg",
+  "sortOrder": 273
+ },
+ {
+  "sku": "LYB01",
+  "nameEn": "LYB-Peanuts (Spicy Flavor)",
+  "nameZh": "利源寶 麻辣酒鬼花生",
+  "brand": "利源寶 LYB",
+  "category": "",
+  "packSize": "200g x 40bags/cs",
+  "imagePath": "/products/LYB01.jpg",
+  "sortOrder": 274
+ },
+ {
+  "sku": "LYB02",
+  "nameEn": "LYB-Peanuts (Original Flavor)",
+  "nameZh": "利源寶 原味酒鬼花生",
+  "brand": "利源寶 LYB",
+  "category": "",
+  "packSize": "200g x 40bags/cs",
+  "imagePath": "/products/LYB02.jpg",
+  "sortOrder": 275
+ },
+ {
+  "sku": "ZW01",
+  "nameEn": "ZW-Fried Dough Twist (Sesame)",
+  "nameZh": "眾望 芝麻小麻花",
+  "brand": "眾望 ZW",
+  "category": "",
+  "packSize": "112g x 30bags/cs",
+  "imagePath": "/products/ZW01.jpg",
+  "sortOrder": 276
+ },
+ {
+  "sku": "ZW02",
+  "nameEn": "ZW-Fried Dough Twist (Cream)",
+  "nameZh": "眾望 奶油小麻花",
+  "brand": "眾望 ZW",
+  "category": "",
+  "packSize": "112g x 30bags/cs",
+  "imagePath": "/products/ZW02.jpg",
+  "sortOrder": 277
+ },
+ {
+  "sku": "13629",
+  "nameEn": "Haw Flakes",
+  "nameZh": "蘋果牌 山楂餅",
+  "brand": "蘋果牌",
+  "category": "",
+  "packSize": "25g x 12pcs/box; 48boxes/cs",
+  "imagePath": "/products/13629.jpg",
+  "sortOrder": 278
+ },
+ {
+  "sku": "JY101",
+  "nameEn": "JinYe-Mulberry Hawthorn",
+  "nameZh": "金曄 桑葚山楂棒",
+  "brand": "金曄 JinYe",
+  "category": "",
+  "packSize": "220g x 24jars/cs",
+  "imagePath": "/products/JY101.jpg",
+  "sortOrder": 279
+ },
+ {
+  "sku": "56001",
+  "nameEn": "Mei Yuan-Dried Red Prune",
+  "nameZh": "美元 紅話梅",
+  "brand": "美元 Mei Yuan",
+  "category": "",
+  "packSize": "1.76oz x 50bags/cs",
+  "imagePath": "/products/56001.jpg",
+  "sortOrder": 280
+ },
+ {
+  "sku": "56007",
+  "nameEn": "Mei Yuan-Seedless Plum",
+  "nameZh": "美元 化核應子",
+  "brand": "美元 Mei Yuan",
+  "category": "",
+  "packSize": "2.8oz x 50bags/cs",
+  "imagePath": "/products/56007.jpg",
+  "sortOrder": 281
+ },
+ {
+  "sku": "56024",
+  "nameEn": "Mei Yuan-Dried Seedless White Prune",
+  "nameZh": "美元 白話梅肉",
+  "brand": "美元 Mei Yuan",
+  "category": "",
+  "packSize": "1.05oz x 50bags/cs",
+  "imagePath": "/products/56024.jpg",
+  "sortOrder": 282
+ },
+ {
+  "sku": "63100",
+  "nameEn": "TaiWan Chin Hwa Cookies",
+  "nameZh": "台灣 錦花餅",
+  "brand": "台灣",
+  "category": "",
+  "packSize": "4oz x 50bags/cs",
+  "imagePath": "/products/63100.jpg",
+  "sortOrder": 283
+ },
+ {
+  "sku": "HJ101",
+  "nameEn": "Huiji-Roasted Spiced Sunflower Seeds",
+  "nameZh": "徽記 煮瓜子(五香)",
+  "brand": "徽記 Huiji",
+  "category": "",
+  "packSize": "260g x 20bags/cs",
+  "imagePath": "/products/HJ101.jpg",
+  "sortOrder": 284
+ },
+ {
+  "sku": "S179",
+  "nameEn": "JB-Dried Tangerine Peel",
+  "nameZh": "佳寶 九制陳皮",
+  "brand": "佳寶 JB",
+  "category": "",
+  "packSize": "45g x 50bags/cs",
+  "imagePath": "/products/S179.jpg",
+  "sortOrder": 285
+ },
+ {
+  "sku": "S088",
+  "nameEn": "DC-Chinese Herbal Jelly (Original)",
+  "nameZh": "雙錢牌 龜苓膏(原味) (鐵罐)",
+  "brand": "雙錢牌 DC",
+  "category": "",
+  "packSize": "250g x 12cans/pk; 4pks/cs",
+  "imagePath": "/products/S088.jpg",
+  "sortOrder": 286
+ },
+ {
+  "sku": "15100",
+  "nameEn": "King Lucky-Mixed Congee",
+  "nameZh": "親親 八寶粥",
+  "brand": "親親 King Lucky",
+  "category": "",
+  "packSize": "12oz x 24cans/cs",
+  "imagePath": "/products/15100.jpg",
+  "sortOrder": 287
+ },
+ {
+  "sku": "15120",
+  "nameEn": "King Lucky-Grass Jelly",
+  "nameZh": "親親 爽滑涼粉",
+  "brand": "親親 King Lucky",
+  "category": "",
+  "packSize": "19oz x 12cans/cs",
+  "imagePath": "/products/15120.jpg",
+  "sortOrder": 288
+ },
+ {
+  "sku": "15126",
+  "nameEn": "King Lucky-Coconut Grass Jelly Drink",
+  "nameZh": "親親 椰子仙草蜜",
+  "brand": "親親 King Lucky",
+  "category": "",
+  "packSize": "10.7oz x 24cans/cs",
+  "imagePath": "/products/15126.jpg",
+  "sortOrder": 289
+ },
+ {
+  "sku": "15154",
+  "nameEn": "King Lucky-Assam Black Tea",
+  "nameZh": "親親 阿薩姆紅茶",
+  "brand": "親親 King Lucky",
+  "category": "",
+  "packSize": "10.7oz x 24cans/cs",
+  "imagePath": "/products/15154.jpg",
+  "sortOrder": 290
+ },
+ {
+  "sku": "KOP101",
+  "nameEn": "Kopiko-Premium 3in1 Coffee Mix",
+  "nameZh": "Kopiko 速溶三合一咖啡",
+  "brand": "Kopiko",
+  "category": "",
+  "packSize": "21.2oz x 12bags/cs",
+  "imagePath": "/products/KOP101.jpg",
+  "sortOrder": 291
+ },
+ {
+  "sku": "KOP102",
+  "nameEn": "Kopiko-Brown Coffee Mix",
+  "nameZh": "Kopiko 速溶红糖咖啡",
+  "brand": "Kopiko",
+  "category": "",
+  "packSize": "26.5oz x 12bags/cs",
+  "imagePath": "/products/KOP102.jpg",
+  "sortOrder": 292
+ },
+ {
+  "sku": "KOP103",
+  "nameEn": "Kopiko-Premium 3in1 Coffee Mix",
+  "nameZh": "Kopiko 速溶三合一咖啡",
+  "brand": "Kopiko",
+  "category": "",
+  "packSize": "7oz x 24bags/cs",
+  "imagePath": "/products/KOP103.jpg",
+  "sortOrder": 293
+ },
+ {
+  "sku": "KOP105",
+  "nameEn": "Kopiko-3in1 Blanca Coffee Mix",
+  "nameZh": "Kopiko 三合一即溶白咖啡",
+  "brand": "Kopiko",
+  "category": "",
+  "packSize": "10.6oz x 24bags/cs",
+  "imagePath": "/products/KOP105.jpg",
+  "sortOrder": 294
+ },
+ {
+  "sku": "29844",
+  "nameEn": "Gold Kili-Ginger Lemon Drink",
+  "nameZh": "金麒麟 即溶檸檬薑晶",
+  "brand": "金麒麟 Gold Kili",
+  "category": "",
+  "packSize": "12.6oz x 24bags/cs",
+  "imagePath": "/products/29844.jpg",
+  "sortOrder": 295
+ },
+ {
+  "sku": "29845",
+  "nameEn": "Gold Kili-Ginger Lemon Drink",
+  "nameZh": "金麒麟 即溶檸檬薑晶",
+  "brand": "金麒麟 Gold Kili",
+  "category": "",
+  "packSize": "6.3oz x 24boxes/cs",
+  "imagePath": "/products/29845.jpg",
+  "sortOrder": 296
+ },
+ {
+  "sku": "29846",
+  "nameEn": "Gold Kili-Ginger Turmeric Drink",
+  "nameZh": "金麒麟 即溶薑黃薑晶",
+  "brand": "金麒麟 Gold Kili",
+  "category": "",
+  "packSize": "5.64oz x 24boxes/cs",
+  "imagePath": "/products/29846.jpg",
+  "sortOrder": 297
+ },
+ {
+  "sku": "29847",
+  "nameEn": "Gold Kili-Brown Sugar Ginger Drink",
+  "nameZh": "金麒麟 即溶黑糖薑晶",
+  "brand": "金麒麟 Gold Kili",
+  "category": "",
+  "packSize": "12.7oz x 24bags/cs",
+  "imagePath": "/products/29847.jpg",
+  "sortOrder": 298
+ },
+ {
+  "sku": "29849",
+  "nameEn": "Gold Kili-Brown Sugar Ginger Drink",
+  "nameZh": "金麒麟 即溶黑糖薑晶",
+  "brand": "金麒麟 Gold Kili",
+  "category": "",
+  "packSize": "6.35oz x 24boxes/cs",
+  "imagePath": "/products/29849.jpg",
+  "sortOrder": 299
+ },
+ {
+  "sku": "29850",
+  "nameEn": "Gold Kili-Ginger Drink",
+  "nameZh": "金麒麟 即溶薑茶晶",
+  "brand": "金麒麟 Gold Kili",
+  "category": "",
+  "packSize": "6.35oz x 24boxes/cs",
+  "imagePath": "/products/29850.jpg",
+  "sortOrder": 300
+ },
+ {
+  "sku": "29854",
+  "nameEn": "Gold Kili-Red Date Longan Drink",
+  "nameZh": "金麒麟 即溶桂圓紅棗茶",
+  "brand": "金麒麟 Gold Kili",
+  "category": "",
+  "packSize": "12.7oz x 24bags/cs",
+  "imagePath": "/products/29854.jpg",
+  "sortOrder": 301
+ },
+ {
+  "sku": "FC101",
+  "nameEn": "Foco- Mango Juice",
+  "nameZh": "福口 芒果果汁",
+  "brand": "福口 Foco",
+  "category": "",
+  "packSize": "11.8oz x 24cans/cs",
+  "imagePath": "/products/FC101.jpg",
+  "sortOrder": 302
+ },
+ {
+  "sku": "FC102",
+  "nameEn": "Foco- Guava Juice",
+  "nameZh": "福口 番石榴果汁",
+  "brand": "福口 Foco",
+  "category": "",
+  "packSize": "11.8oz x 24cans/cs",
+  "imagePath": "/products/FC102.jpg",
+  "sortOrder": 303
+ },
+ {
+  "sku": "FC103",
+  "nameEn": "Foco- Lychee Juice",
+  "nameZh": "福口 荔枝果汁",
+  "brand": "福口 Foco",
+  "category": "",
+  "packSize": "11.8oz x 24cans/cs",
+  "imagePath": "/products/FC103.jpg",
+  "sortOrder": 304
+ },
+ {
+  "sku": "MOGU01",
+  "nameEn": "Mogu-Nata de Coco (Melon)",
+  "nameZh": "Mogu 果汁椰果飲料 (蜜瓜味)",
+  "brand": "Mogu",
+  "category": "",
+  "packSize": "320ml x 6btls/pk; 4pks/cs",
+  "imagePath": "/products/MOGU01.jpg",
+  "sortOrder": 305
+ },
+ {
+  "sku": "MOGU02",
+  "nameEn": "Mogu-Nata de Coco (Peach)",
+  "nameZh": "Mogu 果汁椰果飲料 (蜜桃味)",
+  "brand": "Mogu",
+  "category": "",
+  "packSize": "320ml x 6btls/pk; 4pks/cs",
+  "imagePath": "/products/MOGU02.jpg",
+  "sortOrder": 306
+ },
+ {
+  "sku": "MOGU03",
+  "nameEn": "Mogu-Nata de Coco (Strawberry)",
+  "nameZh": "Mogu 果汁椰果飲料 (草莓味)",
+  "brand": "Mogu",
+  "category": "",
+  "packSize": "320ml x 6btls/pk; 4pks/cs",
+  "imagePath": "/products/MOGU03.jpg",
+  "sortOrder": 307
+ },
+ {
+  "sku": "MOGU06",
+  "nameEn": "Mogu-Nata de Coco (Coconut)",
+  "nameZh": "Mogu 果汁椰果飲料 (椰子味)",
+  "brand": "Mogu",
+  "category": "",
+  "packSize": "320ml x 6btls/pk; 4pks/cs",
+  "imagePath": "/products/MOGU06.jpg",
+  "sortOrder": 308
+ },
+ {
+  "sku": "MOGU07",
+  "nameEn": "Mogu-Nata de Coco (Grape)",
+  "nameZh": "Mogu 果汁椰果飲料 (葡萄味)",
+  "brand": "Mogu",
+  "category": "",
+  "packSize": "320ml x 6btls/pk; 4pks/cs",
+  "imagePath": "/products/MOGU07.jpg",
+  "sortOrder": 309
+ },
+ {
+  "sku": "MOGU09",
+  "nameEn": "Mogu-Nata de Coco (Mango)",
+  "nameZh": "Mogu 果汁椰果飲料 (芒果味)",
+  "brand": "Mogu",
+  "category": "",
+  "packSize": "320ml x 6btls/pk; 4pks/cs",
+  "imagePath": "/products/MOGU09.jpg",
+  "sortOrder": 310
+ },
+ {
+  "sku": "MOGU10",
+  "nameEn": "Mogu-Nata de Coco (Pink Guava)",
+  "nameZh": "Mogu 果汁椰果飲料 (番石榴味)",
+  "brand": "Mogu",
+  "category": "",
+  "packSize": "320ml x 6btls/pk; 4pks/cs",
+  "imagePath": "/products/MOGU10.jpg",
+  "sortOrder": 311
+ },
+ {
+  "sku": "MOGU11",
+  "nameEn": "Mogu-Nata de Coco (Pineapple)",
+  "nameZh": "Mogu 果汁椰果飲料 (鳳梨味)",
+  "brand": "Mogu",
+  "category": "",
+  "packSize": "320ml x 6btls/pk; 4pks/cs",
+  "imagePath": "/products/MOGU11.jpg",
+  "sortOrder": 312
+ },
+ {
+  "sku": "MOGU12",
+  "nameEn": "Mogu-Nata de Coco (Watermelon)",
+  "nameZh": "Mogu 果汁椰果飲料 (西瓜味)",
+  "brand": "Mogu",
+  "category": "",
+  "packSize": "320ml x 6btls/pk; 4pks/cs",
+  "imagePath": "/products/MOGU12.jpg",
+  "sortOrder": 313
+ },
+ {
+  "sku": "VITA01",
+  "nameEn": "Vitamilk-Soymilk (Original)",
+  "nameZh": "Vitamilk 原味豆奶",
+  "brand": "Vitamilk",
+  "category": "",
+  "packSize": "300ml x 6btls/pk; 4pks/cs",
+  "imagePath": "/products/VITA01.jpg",
+  "sortOrder": 314
+ },
+ {
+  "sku": "VITA02",
+  "nameEn": "Vitamilk-Soymilk (Strawberry)",
+  "nameZh": "Vitamilk 豆奶(草莓味)",
+  "brand": "Vitamilk",
+  "category": "",
+  "packSize": "300ml x 6btls/pk; 4pks/cs",
+  "imagePath": "/products/VITA02.jpg",
+  "sortOrder": 315
+ },
+ {
+  "sku": "VITA04",
+  "nameEn": "Vitamilk-Soymilk (Banana)",
+  "nameZh": "Vitamilk 香蕉味豆奶",
+  "brand": "Vitamilk",
+  "category": "",
+  "packSize": "300ml x 6btls/pk; 4pks/cs",
+  "imagePath": "/products/VITA04.jpg",
+  "sortOrder": 316
+ },
+ {
+  "sku": "VITA05",
+  "nameEn": "Vitamilk-Soymilk (Double Choco Shake)",
+  "nameZh": "Vitamilk 雙倍巧克力味豆奶",
+  "brand": "Vitamilk",
+  "category": "",
+  "packSize": "300ml x 6btls/pk; 4pks/cs",
+  "imagePath": "/products/VITA05.jpg",
+  "sortOrder": 317
+ },
+ {
+  "sku": "YL01",
+  "nameEn": "YL-Peanut Milk Drink",
+  "nameZh": "銀鷺 花生牛奶",
+  "brand": "銀鷺 YL",
+  "category": "",
+  "packSize": "450ml x 15btls/cs",
+  "imagePath": "/products/YL01.jpg",
+  "sortOrder": 318
+ },
+ {
+  "sku": "GSBL01",
+  "nameEn": "GS-Pineapple Beer Drink",
+  "nameZh": "廣氏 菠蘿啤",
+  "brand": "廣氏 GS",
+  "category": "",
+  "packSize": "330ml x 24cans/cs",
+  "imagePath": "/products/GSBL01.jpg",
+  "sortOrder": 319
+ },
+ {
+  "sku": "YWDY01",
+  "nameEn": "YWD-Kiwi Fruit Juice",
+  "nameZh": "優維多 獼猴桃汁",
+  "brand": "優維多 YWD",
+  "category": "",
+  "packSize": "420ml x 15btls/cs",
+  "imagePath": "/products/YWDY01.jpg",
+  "sortOrder": 320
+ },
+ {
+  "sku": "YWDY02",
+  "nameEn": "YWD-Banana Mango Fruit Juice",
+  "nameZh": "優維多 香蕉芒果果汁",
+  "brand": "優維多 YWD",
+  "category": "",
+  "packSize": "420ml x 15btls/cs",
+  "imagePath": "/products/YWDY02.jpg",
+  "sortOrder": 321
+ },
+ {
+  "sku": "XC101",
+  "nameEn": "XC-Fruit Oolong Tea (Grapefruit)",
+  "nameZh": "喜茶 柚柚鐵觀音烏龍茶",
+  "brand": "喜茶 XC",
+  "category": "",
+  "packSize": "450ml x 15btls/cs",
+  "imagePath": "/products/XC101.jpg",
+  "sortOrder": 322
+ },
+ {
+  "sku": "XC102",
+  "nameEn": "XC-Fruit Oolong Tea (Grape Blackcurrant)",
+  "nameZh": "喜茶 葡萄黑加侖烏龍茶",
+  "brand": "喜茶 XC",
+  "category": "",
+  "packSize": "450ml x 15btls/cs",
+  "imagePath": "/products/XC102.jpg",
+  "sortOrder": 323
+ },
+ {
+  "sku": "XC103",
+  "nameEn": "XC-Fruit Oolong Tea (Muscat Calamansi)",
+  "nameZh": "喜茶 青提卡曼橘果茶",
+  "brand": "喜茶 XC",
+  "category": "",
+  "packSize": "450ml x 15btls/cs",
+  "imagePath": "/products/XC103.jpg",
+  "sortOrder": 324
+ },
+ {
+  "sku": "D077",
+  "nameEn": "YT-Chamomile Siraitia Grosvenorii",
+  "nameZh": "椰泰小輕甘 甘菊羅漢果",
+  "brand": "椰泰小輕甘 YT",
+  "category": "",
+  "packSize": "380ml x 15btls/cs",
+  "imagePath": "/products/D077.jpg",
+  "sortOrder": 325
+ },
+ {
+  "sku": "SPR01",
+  "nameEn": "Sprite-Sparkling Water Sugar Free (Lemon Flavor)",
+  "nameZh": "雪碧 無糖汽水 (清爽檸檬味) (瓶裝)",
+  "brand": "雪碧 Sprite",
+  "category": "",
+  "packSize": "500ml x 12btls/cs",
+  "imagePath": "/products/SPR01.jpg",
+  "sortOrder": 326
+ },
+ {
+  "sku": "STAR03",
+  "nameEn": "Starbucks-Star Tea Drink (Raspberry Blackcurrant Black Tea)",
+  "nameZh": "星巴克 星茶飲 (莓莓黑加侖紅茶)",
+  "brand": "星巴克 Starbucks",
+  "category": "",
+  "packSize": "330ml x 15btls/cs",
+  "imagePath": "/products/STAR03.jpg",
+  "sortOrder": 327
+ },
+ {
+  "sku": "COLA08",
+  "nameEn": "Coca Cola-Coke (Strawberry Flavor)",
+  "nameZh": "可口可樂(草莓口味) (瓶裝)",
+  "brand": "可口可樂(草莓口味) Coca Cola",
+  "category": "",
+  "packSize": "500ml x 12btls/cs",
+  "imagePath": "/products/COLA08.jpg",
+  "sortOrder": 328
+ },
+ {
+  "sku": "COLA06",
+  "nameEn": "Coca Cola-Coke (Peach Flavor)",
+  "nameZh": "可口可樂(蜜桃味) (瓶裝)",
+  "brand": "可口可樂(蜜桃味) Coca Cola",
+  "category": "",
+  "packSize": "500ml x 12btls/cs",
+  "imagePath": "/products/COLA06.jpg",
+  "sortOrder": 329
+ },
+ {
+  "sku": "COLA09",
+  "nameEn": "Coca Cola-Coke Sugar Free Prebiotics",
+  "nameZh": "可口可樂 無醣益生元(瓶裝)",
+  "brand": "可口可樂 Coca Cola",
+  "category": "",
+  "packSize": "500ml x 12btls/cs",
+  "imagePath": "/products/COLA09.jpg",
+  "sortOrder": 330
+ },
+ {
+  "sku": "COLA03",
+  "nameEn": "Coca Cola-Coke Sugar Free Fiber",
+  "nameZh": "可口可樂 無醣纖維(罐裝)",
+  "brand": "可口可樂 Coca Cola",
+  "category": "",
+  "packSize": "330ml x 24cans/cs",
+  "imagePath": "/products/COLA03.jpg",
+  "sortOrder": 331
+ },
+ {
+  "sku": "COLA04",
+  "nameEn": "Coca Cola-Coke (Strawberry Flavor)",
+  "nameZh": "可口可樂 (草莓味)(罐裝)",
+  "brand": "可口可樂 Coca Cola",
+  "category": "",
+  "packSize": "330ml x 24cans/cs",
+  "imagePath": "/products/COLA04.jpg",
+  "sortOrder": 332
+ },
+ {
+  "sku": "COLA05",
+  "nameEn": "Coca Cola-Coke (Peach Flavor",
+  "nameZh": "可口可樂(蜜桃味) (罐裝)",
+  "brand": "可口可樂(蜜桃味) Coca Cola",
+  "category": "",
+  "packSize": "330ml x 24cans/cs",
+  "imagePath": "/products/COLA05.jpg",
+  "sortOrder": 333
+ },
+ {
+  "sku": "PEP01",
+  "nameEn": "Pepsi-Coke (Lime Flavor)",
+  "nameZh": "百事可樂 (青檬味) (瓶裝)",
+  "brand": "百事可樂 Pepsi",
+  "category": "",
+  "packSize": "500ml x 24btls/cs",
+  "imagePath": "/products/PEP01.jpg",
+  "sortOrder": 334
+ },
+ {
+  "sku": "PEP02",
+  "nameEn": "Pepsi-Coke Sugar Free (Lime Flavor)",
+  "nameZh": "百事可樂 無醣(青檸味) (瓶裝)",
+  "brand": "百事可樂 Pepsi",
+  "category": "",
+  "packSize": "500ml x 12btls/cs",
+  "imagePath": "/products/PEP02.jpg",
+  "sortOrder": 335
+ },
+ {
+  "sku": "PEP03",
+  "nameEn": "Pepsi-Coke Sugar Free (Raspberry Flavor)",
+  "nameZh": "百事可樂 無醣(樹莓味) (瓶裝)",
+  "brand": "百事可樂 Pepsi",
+  "category": "",
+  "packSize": "500ml x 12btls/cs",
+  "imagePath": "/products/PEP03.jpg",
+  "sortOrder": 336
+ },
+ {
+  "sku": "PEP08",
+  "nameEn": "Pepsi-Coke (Pomelo & Bamboo Flavor)",
+  "nameZh": "百事可樂 (白柚青竹味) (瓶裝)",
+  "brand": "百事可樂 Pepsi",
+  "category": "",
+  "packSize": "500ml x 12btls/cs",
+  "imagePath": "/products/PEP08.jpg",
+  "sortOrder": 337
+ },
+ {
+  "sku": "PEP04",
+  "nameEn": "Pepsi-Coke Sugar Free (Raspberry Flavor) (Can)",
+  "nameZh": "百事可樂 無醣 (樹莓味) (罐裝)",
+  "brand": "百事可樂 Pepsi",
+  "category": "",
+  "packSize": "330ml x 24cans/cs",
+  "imagePath": "/products/PEP04.jpg",
+  "sortOrder": 338
+ },
+ {
+  "sku": "PEP05",
+  "nameEn": "Pepsi-Coke Sugar Free (Lime Flavor) (Can)",
+  "nameZh": "百事可樂 無醣 (青檸味)(罐裝)",
+  "brand": "百事可樂 Pepsi",
+  "category": "",
+  "packSize": "330ml x 24cans/cs",
+  "imagePath": "/products/PEP05.jpg",
+  "sortOrder": 339
+ },
+ {
+  "sku": "PEP06",
+  "nameEn": "Pepsi-Coke (White Peach Oolong Flavor) (Can)",
+  "nameZh": "百事可樂 (白桃烏龍味) (罐裝)",
+  "brand": "百事可樂 Pepsi",
+  "category": "",
+  "packSize": "330ml x 12cans/cs",
+  "imagePath": "/products/PEP06.jpg",
+  "sortOrder": 340
+ },
+ {
+  "sku": "PEP07",
+  "nameEn": "Pepsi-Coke (Pomelo & Bamboo Flavor) (Can)",
+  "nameZh": "百事可樂 (白柚青竹味) (罐裝)",
+  "brand": "百事可樂 Pepsi",
+  "category": "",
+  "packSize": "330ml x 12cans/cs",
+  "imagePath": "/products/PEP07.jpg",
+  "sortOrder": 341
+ },
+ {
+  "sku": "FAN01",
+  "nameEn": "Coca Cola-Fanta (Lime Flavor)",
+  "nameZh": "可口可樂-芬達 (青檸味) (瓶裝)",
+  "brand": "可口可樂-芬達 Coca Cola",
+  "category": "",
+  "packSize": "500ml x 12btls/cs",
+  "imagePath": "/products/FAN01.jpg",
+  "sortOrder": 342
+ },
+ {
+  "sku": "FAN02",
+  "nameEn": "Coca Cola-Fanta (Watermelon Flavor)",
+  "nameZh": "可口可樂-芬達 (西瓜味) (瓶裝)",
+  "brand": "可口可樂-芬達 Coca Cola",
+  "category": "",
+  "packSize": "500ml x 12btls/cs",
+  "imagePath": "/products/FAN02.jpg",
+  "sortOrder": 343
+ },
+ {
+  "sku": "FAN03",
+  "nameEn": "Coca Cola-Fanta (Jasmine Peach Flavor)",
+  "nameZh": "可口可樂-芬達 (茉莉蜜桃味) (瓶裝)",
+  "brand": "可口可樂-芬達 Coca Cola",
+  "category": "",
+  "packSize": "500ml x 12btls/cs",
+  "imagePath": "/products/FAN03.jpg",
+  "sortOrder": 344
+ },
+ {
+  "sku": "FAN04",
+  "nameEn": "Coca Cola-Fanta (Green Apple Flavor)",
+  "nameZh": "可口可樂-芬達 (青蘋果味) (瓶裝)",
+  "brand": "可口可樂-芬達 Coca Cola",
+  "category": "",
+  "packSize": "500ml x 12btls/cs",
+  "imagePath": null,
+  "sortOrder": 345
+ },
+ {
+  "sku": "FAN05",
+  "nameEn": "Coca Cola-Fanta (Pineapple Flavor)",
+  "nameZh": "可口可樂-芬達 (菠蘿味) (瓶裝)",
+  "brand": "可口可樂-芬達 Coca Cola",
+  "category": "",
+  "packSize": "500ml x 12btls/cs",
+  "imagePath": null,
+  "sortOrder": 346
+ },
+ {
+  "sku": "FAN21",
+  "nameEn": "Coca Cola-Fanta (Apple Flavor) (Can)",
+  "nameZh": "可口可樂-芬達 (蘋果味) (罐裝)",
+  "brand": "可口可樂-芬達 Coca Cola",
+  "category": "",
+  "packSize": "330ml x 24cans/cs",
+  "imagePath": "/products/FAN21.jpg",
+  "sortOrder": 347
+ },
+ {
+  "sku": "FAN22",
+  "nameEn": "Coca Cola-Fanta (Pineapple Flavor) (Can)",
+  "nameZh": "可口可樂-芬達 (菠蘿味) (罐裝)",
+  "brand": "可口可樂-芬達 Coca Cola",
+  "category": "",
+  "packSize": "330ml x 24cans/cs",
+  "imagePath": "/products/FAN22.jpg",
+  "sortOrder": 348
+ },
+ {
+  "sku": "FAN23",
+  "nameEn": "Coca Cola-Fanta (Grape Flavor) (Can)",
+  "nameZh": "可口可樂-芬達 (葡萄味) (罐裝)",
+  "brand": "可口可樂-芬達 Coca Cola",
+  "category": "",
+  "packSize": "330ml x 12cans/cs",
+  "imagePath": "/products/FAN23.jpg",
+  "sortOrder": 349
+ },
+ {
+  "sku": "FAN24",
+  "nameEn": "Coca Cola-Fanta (Orange Flavor) (Can)",
+  "nameZh": "可口可樂-芬達 (橙子味) (罐裝)",
+  "brand": "可口可樂-芬達 Coca Cola",
+  "category": "",
+  "packSize": "330ml x 12cans/cs",
+  "imagePath": "/products/FAN24.jpg",
+  "sortOrder": 350
+ },
+ {
+  "sku": "FAN25",
+  "nameEn": "Coca Cola-Fanta (Peach Flavor) (Can)",
+  "nameZh": "可口可樂-芬達 (蜜桃味) (罐裝)",
+  "brand": "可口可樂-芬達 Coca Cola",
+  "category": "",
+  "packSize": "330ml x 12cans/cs",
+  "imagePath": "/products/FAN25.jpg",
+  "sortOrder": 351
+ },
+ {
+  "sku": "FAN26",
+  "nameEn": "Coca Cola-Fanta (Jasmine Peach Flavor) (Can)",
+  "nameZh": "可口可樂-芬達 (茉莉蜜桃味) (罐裝)",
+  "brand": "可口可樂-芬達 Coca Cola",
+  "category": "",
+  "packSize": "330ml x 24cans/cs",
+  "imagePath": "/products/FAN26.jpg",
+  "sortOrder": 352
+ },
+ {
+  "sku": "FAN27",
+  "nameEn": "Coca Cola-Fanta (Watermelon Flavor) (Can)",
+  "nameZh": "可口可樂-芬達 (西瓜味) (罐裝)",
+  "brand": "可口可樂-芬達 Coca Cola",
+  "category": "",
+  "packSize": "330ml x 24cans/cs",
+  "imagePath": "/products/FAN27.jpg",
+  "sortOrder": 353
+ },
+ {
+  "sku": "RED01",
+  "nameEn": "Red Bull-Vitamin Energy Drink",
+  "nameZh": "紅牛 維生素能量飲料",
+  "brand": "紅牛 Red Bull",
+  "category": "",
+  "packSize": "250ml x 24cans/cs",
+  "imagePath": "/products/RED01.jpg",
+  "sortOrder": 354
+ },
+ {
+  "sku": "ENG01",
+  "nameEn": "M-150 Energy Drink",
+  "nameZh": "泰國M-150 能量飲料",
+  "brand": "泰國M-150 M",
+  "category": "",
+  "packSize": "250ml x 24cans/cs",
+  "imagePath": "/products/ENG01.jpg",
+  "sortOrder": 355
+ },
+ {
+  "sku": "MRB01",
+  "nameEn": "Mr. Brown-Iced Coffee (Original)",
+  "nameZh": "伯朗 咖啡(原味)",
+  "brand": "伯朗 Mr. Brown",
+  "category": "",
+  "packSize": "8.1floz x 24cans/cs",
+  "imagePath": "/products/MRB01.jpg",
+  "sortOrder": 356
+ },
+ {
+  "sku": "MRB02",
+  "nameEn": "Mr. Brown-Iced Coffee (Black)",
+  "nameZh": "伯朗 黑咖啡",
+  "brand": "伯朗 Mr. Brown",
+  "category": "",
+  "packSize": "8.1floz x 24cans/cs",
+  "imagePath": "/products/MRB02.jpg",
+  "sortOrder": 357
+ },
+ {
+  "sku": "MRB03",
+  "nameEn": "Mr. Brown-Iced Coffee (Blue Mountain)",
+  "nameZh": "伯朗 咖啡(藍山風味)",
+  "brand": "伯朗 Mr. Brown",
+  "category": "",
+  "packSize": "8.1floz x 24cans/cs",
+  "imagePath": "/products/MRB03.png",
+  "sortOrder": 358
+ },
+ {
+  "sku": "MRB04",
+  "nameEn": "Mr. Brown-Iced Coffee (Cappuccino)",
+  "nameZh": "伯朗 咖啡(卡布奇諾風味)",
+  "brand": "伯朗 Mr. Brown",
+  "category": "",
+  "packSize": "8.1floz x 24cans/cs",
+  "imagePath": "/products/MRB04.jpg",
+  "sortOrder": 359
+ },
+ {
+  "sku": "MRB05",
+  "nameEn": "Mr. Brown-Iced Coffee (Vanilla)",
+  "nameZh": "伯朗 咖啡(香草風味)",
+  "brand": "伯朗 Mr. Brown",
+  "category": "",
+  "packSize": "8.1floz x 24cans/cs",
+  "imagePath": "/products/MRB05.jpg",
+  "sortOrder": 360
+ },
+ {
+  "sku": "MRB06",
+  "nameEn": "Mr. Brown-Iced Coffee (Macadamia Nut)",
+  "nameZh": "伯朗 夏威夷果咖啡",
+  "brand": "伯朗 Mr. Brown",
+  "category": "",
+  "packSize": "8.1floz x 24cans/cs",
+  "imagePath": "/products/MRB06.jpg",
+  "sortOrder": 361
+ },
+ {
+  "sku": "MRB09",
+  "nameEn": "Mr. Brown-Iced Black Coffee (No Sugar)",
+  "nameZh": "伯朗 黑咖啡(無糖)",
+  "brand": "伯朗 Mr. Brown",
+  "category": "",
+  "packSize": "8.1floz x 24cans/cs",
+  "imagePath": "/products/MRB09.jpg",
+  "sortOrder": 362
+ },
+ {
+  "sku": "EBV480",
+  "nameEn": "Tea5-Assam Milk Tea",
+  "nameZh": "Tea5 阿薩姆奶茶",
+  "brand": "Tea5",
+  "category": "",
+  "packSize": "11.45oz x 24cans/cs",
+  "imagePath": "/products/EBV480.jpg",
+  "sortOrder": 363
+ },
+ {
+  "sku": "EBV481",
+  "nameEn": "Tea5-Assam Milk Tea (Strawberry)",
+  "nameZh": "Tea5 阿薩姆草莓奶茶",
+  "brand": "Tea5",
+  "category": "",
+  "packSize": "11.45oz x 24cans/cs",
+  "imagePath": "/products/EBV481.jpg",
+  "sortOrder": 364
+ },
+ {
+  "sku": "EBV482",
+  "nameEn": "Tea5-Assam Milk Tea (Melon)",
+  "nameZh": "Tea5 阿薩姆蜜瓜奶茶",
+  "brand": "Tea5",
+  "category": "",
+  "packSize": "11.45oz x 24cans/cs",
+  "imagePath": "/products/EBV482.jpg",
+  "sortOrder": 365
+ },
+ {
+  "sku": "EBV483",
+  "nameEn": "Tea5 Assam Milk Tea (Chocolate)",
+  "nameZh": "Tea5 阿薩姆巧克力奶茶",
+  "brand": "",
+  "category": "",
+  "packSize": "11.45oz x 24cans/cs",
+  "imagePath": "/products/EBV483.jpg",
+  "sortOrder": 366
+ },
+ {
+  "sku": "EBV485",
+  "nameEn": "EXO-Assam Black Tea",
+  "nameZh": "EXO 阿薩姆紅茶",
+  "brand": "EXO",
+  "category": "",
+  "packSize": "11.45oz x 24cans/cs",
+  "imagePath": "/products/EBV485.jpg",
+  "sortOrder": 367
+ },
+ {
+  "sku": "90204",
+  "nameEn": "Jans-Boba Milk Tea (Classic)",
+  "nameZh": "詹斯 波霸奶茶 (經典款)",
+  "brand": "詹斯 Jans",
+  "category": "",
+  "packSize": "490ml x 24cans/cs",
+  "imagePath": "/products/90204.jpg",
+  "sortOrder": 368
+ },
+ {
+  "sku": "90205",
+  "nameEn": "Jans-Boba Milk Tea (Brown Sugar)",
+  "nameZh": "詹斯 波霸奶茶 (紅糖)",
+  "brand": "詹斯 Jans",
+  "category": "",
+  "packSize": "490ml x 24cans/cs",
+  "imagePath": "/products/90205.jpg",
+  "sortOrder": 369
+ },
+ {
+  "sku": "90206",
+  "nameEn": "Jans-Boba Milk Tea (Taro)",
+  "nameZh": "詹斯 波霸奶茶 (芋頭)",
+  "brand": "詹斯 Jans",
+  "category": "",
+  "packSize": "490ml x 24cans/cs",
+  "imagePath": "/products/90206.jpg",
+  "sortOrder": 370
+ },
+ {
+  "sku": "90208",
+  "nameEn": "Jans-Boba Milk Tea (Matcha)",
+  "nameZh": "詹斯 波霸奶茶 (抹茶)",
+  "brand": "詹斯 Jans",
+  "category": "",
+  "packSize": "490ml x 24cans/cs",
+  "imagePath": "/products/90208.jpg",
+  "sortOrder": 371
+ },
+ {
+  "sku": "90214",
+  "nameEn": "Jans-Boba Thai Milk Tea",
+  "nameZh": "詹斯 泰式波霸珍珠奶茶",
+  "brand": "詹斯 Jans",
+  "category": "",
+  "packSize": "16.57oz x 12cans/cs",
+  "imagePath": "/products/90214.jpg",
+  "sortOrder": 372
+ },
+ {
+  "sku": "90215",
+  "nameEn": "Jans-Thai Milk Tea",
+  "nameZh": "詹斯 泰式奶茶",
+  "brand": "詹斯 Jans",
+  "category": "",
+  "packSize": "16.57oz x 12cans/cs",
+  "imagePath": "/products/90215.jpg",
+  "sortOrder": 373
+ },
+ {
+  "sku": "XRBT33",
+  "nameEn": "Possmei-Strawberry Dragon Fruit Oolong Tea Drink w/Popping Boba",
+  "nameZh": "伯思美 草莓火龍果烏龍茶 爆珠飲",
+  "brand": "伯思美 Possmei",
+  "category": "",
+  "packSize": "240ml x 24cans/cs",
+  "imagePath": "/products/XRBT33.jpg",
+  "sortOrder": 374
+ },
+ {
+  "sku": "XRBT34",
+  "nameEn": "Possmei-Peach Oolong Tea Drink w/Popping Boba",
+  "nameZh": "伯思美 水蜜桃烏龍茶 爆珠飲",
+  "brand": "伯思美 Possmei",
+  "category": "",
+  "packSize": "240ml x 24cans/cs",
+  "imagePath": "/products/XRBT34.jpg",
+  "sortOrder": 375
+ },
+ {
+  "sku": "XRBT35",
+  "nameEn": "Possmei-Mango Passion Fruit Green Tea Drink w/Popping Boba",
+  "nameZh": "伯思美 芒果百香綠茶 爆珠飲",
+  "brand": "伯思美 Possmei",
+  "category": "",
+  "packSize": "240ml x 24cans/cs",
+  "imagePath": "/products/XRBT35.jpg",
+  "sortOrder": 376
+ },
+ {
+  "sku": "XRBT36",
+  "nameEn": "Possmei-Litch Oolong Tea Drink w/Popping Boba",
+  "nameZh": "伯思美 荔枝烏龍茶 爆珠飲",
+  "brand": "伯思美 Possmei",
+  "category": "",
+  "packSize": "240ml x 24cans/cs",
+  "imagePath": "/products/XRBT36.jpg",
+  "sortOrder": 377
+ },
+ {
+  "sku": "SLW-01",
+  "nameEn": "SLW-Yogurt Drink (Original)",
+  "nameZh": "水戀灣風味酸奶飲品 (原味)",
+  "brand": "水戀灣風味酸奶飲品 SLW",
+  "category": "",
+  "packSize": "280ml x 20btls/cs",
+  "imagePath": "/products/SLW-01.jpg",
+  "sortOrder": 378
+ },
+ {
+  "sku": "SLW-02",
+  "nameEn": "SLW-Yogurt Drink (Strawberry)",
+  "nameZh": "水戀灣風味酸奶飲品 (草莓味)",
+  "brand": "水戀灣風味酸奶飲品 SLW",
+  "category": "",
+  "packSize": "280ml x 20btls/cs",
+  "imagePath": "/products/SLW-02.jpg",
+  "sortOrder": 379
+ },
+ {
+  "sku": "SLW-03",
+  "nameEn": "SLW-Yogurt Drink (Mango)",
+  "nameZh": "水戀灣風味酸奶飲品 (芒果味)",
+  "brand": "水戀灣風味酸奶飲品 SLW",
+  "category": "",
+  "packSize": "280ml x 20btls/cs",
+  "imagePath": "/products/SLW-03.jpg",
+  "sortOrder": 380
+ },
+ {
+  "sku": "WW601",
+  "nameEn": "WW Hot-Kid Milk Flv Drink",
+  "nameZh": "旺旺 旺仔牛奶(罐裝)",
+  "brand": "旺旺 WW Hot",
+  "category": "",
+  "packSize": "245ml x 24cans/cs",
+  "imagePath": "/products/WW601.jpg",
+  "sortOrder": 381
+ },
+ {
+  "sku": "LUCK881",
+  "nameEn": "WW Hot-Kid Milk Flavor Drink 4PK",
+  "nameZh": "旺旺 旺仔牛奶",
+  "brand": "旺旺 WW Hot",
+  "category": "",
+  "packSize": "125ml x 4boxes/pk; 9packs/cs",
+  "imagePath": "/products/LUCK881.jpg",
+  "sortOrder": 382
+ },
+ {
+  "sku": "LUCK882",
+  "nameEn": "WW-Hot-Kid Milk Flavor Drink (Gift Pack)",
+  "nameZh": "旺旺 旺仔牛奶 (禮盒裝)",
+  "brand": "旺旺 WW",
+  "category": "",
+  "packSize": "125ml x 20boxes/pk; 3pks/cs",
+  "imagePath": "/products/LUCK882.jpg",
+  "sortOrder": 383
+ },
+ {
+  "sku": "LUCK883",
+  "nameEn": "WW-Yogurt Drink 4PK",
+  "nameZh": "旺旺 乳酸菌飲品",
+  "brand": "旺旺 WW",
+  "category": "",
+  "packSize": "125ml x 4boxes/pk; 9packs/cs",
+  "imagePath": "/products/LUCK883.jpg",
+  "sortOrder": 384
+ },
+ {
+  "sku": "LUCK884",
+  "nameEn": "WW-Yogurt Drink (Gift Pack)",
+  "nameZh": "旺旺 乳酸菌飲品 (禮盒裝)",
+  "brand": "旺旺 WW",
+  "category": "",
+  "packSize": "125ml x 20boxes/pk; 3pks/cs",
+  "imagePath": "/products/LUCK884.jpg",
+  "sortOrder": 385
+ },
+ {
+  "sku": "VILOE01",
+  "nameEn": "Viloe Life-Yogurt Drinks (Original Flavor)",
+  "nameZh": "維樂生活 酸奶飲品 (原味)",
+  "brand": "維樂生活 Viloe Life",
+  "category": "",
+  "packSize": "3.3oz x 4btls/pk; 10pks/cs",
+  "imagePath": "/products/VILOE01.jpg",
+  "sortOrder": 386
+ },
+ {
+  "sku": "VILOE02",
+  "nameEn": "Viloe Life-Yogurt Drinks (Strawberry Flavor)",
+  "nameZh": "維樂生活 酸奶飲品 (草莓味)",
+  "brand": "維樂生活 Viloe Life",
+  "category": "",
+  "packSize": "3.3oz x 4btls/pk; 10pks/cs",
+  "imagePath": "/products/VILOE02.jpg",
+  "sortOrder": 387
+ },
+ {
+  "sku": "VILOE03",
+  "nameEn": "Viloe Life-Yogurt Drinks (Strawberry Banana Flavor)",
+  "nameZh": "維樂生活 酸奶飲品 (草莓香蕉味)",
+  "brand": "維樂生活 Viloe Life",
+  "category": "",
+  "packSize": "3.3oz x 4btls/pk; 10pks/cs",
+  "imagePath": "/products/VILOE03.jpg",
+  "sortOrder": 388
+ },
+ {
+  "sku": "VILOE04",
+  "nameEn": "Viloe Life-Yogurt Drinks (Mango Flavor)",
+  "nameZh": "維樂生活 酸奶飲品 (芒果味)",
+  "brand": "維樂生活 Viloe Life",
+  "category": "",
+  "packSize": "3.3oz x 4btls/pk; 10pks/cs",
+  "imagePath": "/products/VILOE04.jpg",
+  "sortOrder": 389
+ },
+ {
+  "sku": "78181N",
+  "nameEn": "Calpico Mini Original Beverage",
+  "nameZh": "可爾必思 乳酸菌酸奶飲品 (原味) (迷你4 瓶裝)",
+  "brand": "可爾必思",
+  "category": "",
+  "packSize": "2.7floz x 4btls/pk; 10pks/cs",
+  "imagePath": "/products/78181N.jpg",
+  "sortOrder": 390
+ },
+ {
+  "sku": "78186N",
+  "nameEn": "Calpico Mini Strawberry Beverage",
+  "nameZh": "可爾必思 乳酸菌酸奶飲品 (草莓味) (迷你4 瓶裝)",
+  "brand": "可爾必思",
+  "category": "",
+  "packSize": "2.7floz x 4btls/pk; 10pks/cs",
+  "imagePath": "/products/78186N.jpg",
+  "sortOrder": 391
+ },
+ {
+  "sku": "77315N",
+  "nameEn": "Calpico Mini Lychee&Mango Beverage",
+  "nameZh": "可爾必思 乳酸菌酸奶飲品 (荔枝&芒果味) (迷你4 瓶裝)",
+  "brand": "可爾必思",
+  "category": "",
+  "packSize": "2.7floz x 4btls/pk; 10pks/cs",
+  "imagePath": "/products/77315N.jpg",
+  "sortOrder": 392
+ },
+ {
+  "sku": "60820",
+  "nameEn": "Corniche-Mixed Fruit Pudding (Mango/Lychee/Strawberry)",
+  "nameZh": "可尼斯 什錦水果布丁 (芒果/荔枝/草莓)",
+  "brand": "可尼斯 Corniche",
+  "category": "",
+  "packSize": "23.3oz x 16pks/cs",
+  "imagePath": "/products/60820.jpg",
+  "sortOrder": 393
+ },
+ {
+  "sku": "60822",
+  "nameEn": "Corniche-Mango Pudding",
+  "nameZh": "可尼斯 芒果布丁",
+  "brand": "可尼斯 Corniche",
+  "category": "",
+  "packSize": "23.4oz x 16pks/cs",
+  "imagePath": "/products/60822.jpg",
+  "sortOrder": 394
+ },
+ {
+  "sku": "60824",
+  "nameEn": "Corniche-Lychee Pudding",
+  "nameZh": "可尼斯 荔枝布丁",
+  "brand": "可尼斯 Corniche",
+  "category": "",
+  "packSize": "23.4oz x 16pks/cs",
+  "imagePath": "/products/60824.jpg",
+  "sortOrder": 395
+ },
+ {
+  "sku": "60828",
+  "nameEn": "Corniche-Mixed Fruit Pudding (Mango/Lychee/Kiwi)",
+  "nameZh": "可尼斯 什錦水果布丁 (芒果/荔枝/奇異果)",
+  "brand": "可尼斯 Corniche",
+  "category": "",
+  "packSize": "23.4oz x 16pks/cs",
+  "imagePath": "/products/60828.jpg",
+  "sortOrder": 396
+ },
+ {
+  "sku": "11013",
+  "nameEn": "ABC Panda Jelly Straws",
+  "nameZh": "ABC 熊貓果凍條",
+  "brand": "",
+  "category": "",
+  "packSize": "250g x 30bags/cs",
+  "imagePath": "/products/11013.jpg",
+  "sortOrder": 397
+ },
+ {
+  "sku": "11025",
+  "nameEn": "Triko Bear Juice Jelly (Assorted)",
+  "nameZh": "粉紅小熊 果汁果凍桶",
+  "brand": "粉紅小熊",
+  "category": "",
+  "packSize": "580g x 6jars/cs",
+  "imagePath": "/products/11025.jpg",
+  "sortOrder": 398
+ },
+ {
+  "sku": "11028",
+  "nameEn": "Winnie-Frugurt Pudding (Assorted)",
+  "nameZh": "小熊維尼 優酪果園布丁桶",
+  "brand": "小熊維尼 Winnie",
+  "category": "",
+  "packSize": "580g x 6jars/cs",
+  "imagePath": "/products/11028.jpg",
+  "sortOrder": 399
+ },
+ {
+  "sku": "11004",
+  "nameEn": "ABC Coconut Jelly (Assorted)",
+  "nameZh": "ABC 綜合果凍",
+  "brand": "",
+  "category": "",
+  "packSize": "1400g x 6jars/cs",
+  "imagePath": "/products/11004.jpg",
+  "sortOrder": 400
+ },
+ {
+  "sku": "11008",
+  "nameEn": "ABC Coconut Jelly (Assorted)",
+  "nameZh": "ABC 綜合果凍",
+  "brand": "",
+  "category": "",
+  "packSize": "300g x 30bags/cs",
+  "imagePath": "/products/11008.jpg",
+  "sortOrder": 401
+ },
+ {
+  "sku": "11009",
+  "nameEn": "ABC Coconut Jelly (Lychee)",
+  "nameZh": "ABC 荔枝果凍",
+  "brand": "",
+  "category": "",
+  "packSize": "300g x 30bags/cs",
+  "imagePath": "/products/11009.jpg",
+  "sortOrder": 402
+ },
+ {
+  "sku": "11016",
+  "nameEn": "ABC Yogurt Jelly Straws",
+  "nameZh": "ABC 優格果凍條",
+  "brand": "",
+  "category": "",
+  "packSize": "193g x 30bags/cs",
+  "imagePath": "/products/11016.jpg",
+  "sortOrder": 403
+ },
+ {
+  "sku": "SHJ-A02",
+  "nameEn": "SHJ Snb Lychee (bag)",
+  "nameZh": "盛香珍 荔枝果凍(袋)",
+  "brand": "盛香珍",
+  "category": "",
+  "packSize": "280g x 30bags/cs",
+  "imagePath": "/products/SHJ-A02.jpg",
+  "sortOrder": 404
+ },
+ {
+  "sku": "XRBT18",
+  "nameEn": "Possmei-Rainbow Agar",
+  "nameZh": "伯思美 彩虹椰果",
+  "brand": "伯思美 Possmei",
+  "category": "",
+  "packSize": "2.2lbs x 12jars/cs",
+  "imagePath": "/products/XRBT18.jpg",
+  "sortOrder": 405
+ },
+ {
+  "sku": "XRBT19",
+  "nameEn": "Possmei-Han Tien Jelly",
+  "nameZh": "伯思美 寒天果凍",
+  "brand": "伯思美 Possmei",
+  "category": "",
+  "packSize": "2.2lbs x 12jars/cs",
+  "imagePath": "/products/XRBT19.jpg",
+  "sortOrder": 406
+ },
+ {
+  "sku": "XRBT22",
+  "nameEn": "Possmei-Litchi Natate Coco",
+  "nameZh": "伯思美 荔枝椰果",
+  "brand": "伯思美 Possmei",
+  "category": "",
+  "packSize": "2.2lbs x 12jars/cs",
+  "imagePath": "/products/XRBT22.jpg",
+  "sortOrder": 407
+ },
+ {
+  "sku": "XRBT24",
+  "nameEn": "Possmei-Popping Boba (Strawberry)",
+  "nameZh": "伯思美 爆爆珠(草莓)",
+  "brand": "伯思美 Possmei",
+  "category": "",
+  "packSize": "2.1lbs x 8jars/cs",
+  "imagePath": "/products/XRBT24.jpg",
+  "sortOrder": 408
+ },
+ {
+  "sku": "XRBT25",
+  "nameEn": "Possmei-Popping Boba (Mango)",
+  "nameZh": "伯思美 爆爆珠(芒果)",
+  "brand": "伯思美 Possmei",
+  "category": "",
+  "packSize": "2.1lbs x 8jars/cs",
+  "imagePath": "/products/XRBT25.jpg",
+  "sortOrder": 409
+ },
+ {
+  "sku": "XRBT26",
+  "nameEn": "Possmei-Popping Boba (Passion Fruit)",
+  "nameZh": "伯思美 爆爆珠(百香果)",
+  "brand": "伯思美 Possmei",
+  "category": "",
+  "packSize": "2.1lbs x 8jars/cs",
+  "imagePath": "/products/XRBT26.jpg",
+  "sortOrder": 410
+ },
+ {
+  "sku": "XRBT27",
+  "nameEn": "Possmei-Popping Boba (Peach)",
+  "nameZh": "伯思美 爆爆珠(蜜桃)",
+  "brand": "伯思美 Possmei",
+  "category": "",
+  "packSize": "2.1lbs x 8jars/cs",
+  "imagePath": "/products/XRBT27.jpg",
+  "sortOrder": 411
+ },
+ {
+  "sku": "XRBT28",
+  "nameEn": "Possmei-Popping Boba (Litchi)",
+  "nameZh": "伯思美 爆爆珠(荔枝)",
+  "brand": "伯思美 Possmei",
+  "category": "",
+  "packSize": "2.1lbs x 8jars/cs",
+  "imagePath": "/products/XRBT28.jpg",
+  "sortOrder": 412
+ },
+ {
+  "sku": "XRBT29",
+  "nameEn": "Possmei-Popping Boba (Strawberry)",
+  "nameZh": "伯思美 爆爆珠 (草莓)",
+  "brand": "伯思美 Possmei",
+  "category": "",
+  "packSize": "1.2lbs x 16jars/cs",
+  "imagePath": "/products/XRBT29.jpg",
+  "sortOrder": 413
+ },
+ {
+  "sku": "XRBT30",
+  "nameEn": "Possmei-Popping Boba (Passion Fruit)",
+  "nameZh": "伯思美 爆爆珠 (百香果)",
+  "brand": "伯思美 Possmei",
+  "category": "",
+  "packSize": "1.2lbs x 8jars/cs",
+  "imagePath": "/products/XRBT30.jpg",
+  "sortOrder": 414
+ },
+ {
+  "sku": "XRBT31",
+  "nameEn": "Possmei-Popping Boba (Mango)",
+  "nameZh": "伯思美 爆爆珠 (芒果)",
+  "brand": "伯思美 Possmei",
+  "category": "",
+  "packSize": "1.2lbs x 16jars/cs",
+  "imagePath": "/products/XRBT31.jpg",
+  "sortOrder": 415
+ },
+ {
+  "sku": "XRBT32",
+  "nameEn": "Possmei-Popping Boba (Litchi)",
+  "nameZh": "伯思美 爆爆珠 (荔枝)",
+  "brand": "伯思美 Possmei",
+  "category": "",
+  "packSize": "1.2lbs x 8jars/cs",
+  "imagePath": "/products/XRBT32.jpg",
+  "sortOrder": 416
+ },
+ {
+  "sku": "LBW01",
+  "nameEn": "LBW-Rice Noodles (Original)",
+  "nameZh": "螺霸王 螺螄粉 (原味)",
+  "brand": "螺霸王 LBW",
+  "category": "",
+  "packSize": "280g x 25bags/cs",
+  "imagePath": "/products/LBW01.jpg",
+  "sortOrder": 417
+ },
+ {
+  "sku": "LBW02",
+  "nameEn": "LBW-Rice Noodles (Spicy)",
+  "nameZh": "螺霸王 螺螄粉(麻辣味)",
+  "brand": "螺霸王 LBW",
+  "category": "",
+  "packSize": "315g x 25bags/cs",
+  "imagePath": "/products/LBW02.jpg",
+  "sortOrder": 418
+ },
+ {
+  "sku": "LBW03",
+  "nameEn": "LBW-Rice Noodles (Tomato)",
+  "nameZh": "螺霸王 螺螄粉(番茄味)",
+  "brand": "螺霸王 LBW",
+  "category": "",
+  "packSize": "306g x 25bags/cs",
+  "imagePath": "/products/LBW03.jpg",
+  "sortOrder": 419
+ },
+ {
+  "sku": "YNY101",
+  "nameEn": "YNYM-Sesame Paste Dry Noodles",
+  "nameZh": "有你一面 椒麻拌麵",
+  "brand": "有你一面 YNYM",
+  "category": "",
+  "packSize": "135g x 24bags/cs",
+  "imagePath": "/products/YNY101.jpg",
+  "sortOrder": 420
+ },
+ {
+  "sku": "YNY104",
+  "nameEn": "YNYM-Roasted Pepper Sauce Mixed w/Plant-based Ground Beef Dry Noodles",
+  "nameZh": "有你一面 燒椒牛肉拌麵",
+  "brand": "有你一面 YNYM",
+  "category": "",
+  "packSize": "182g x 18bags/cs",
+  "imagePath": "/products/YNY104.jpg",
+  "sortOrder": 421
+ },
+ {
+  "sku": "YNY107",
+  "nameEn": "YNYM-Sesame Paste w/Plant-based Meat Sauce Dry Noodles",
+  "nameZh": "有你一面 肉醬椒麻拌麵",
+  "brand": "有你一面 YNYM",
+  "category": "",
+  "packSize": "165g x 18bags/cs",
+  "imagePath": "/products/YNY107.jpg",
+  "sortOrder": 422
+ },
+ {
+  "sku": "CHUN11",
+  "nameEn": "ChunSi-Jiangxi Rice Vermicelli (XL)",
+  "nameZh": "春絲牌 江西米粉(粗條瀨粉)",
+  "brand": "春絲牌 ChunSi",
+  "category": "",
+  "packSize": "4.4lbs(2kg) x 8bags/cs",
+  "imagePath": "/products/CHUN11.jpg",
+  "sortOrder": 423
+ },
+ {
+  "sku": "CHUN13",
+  "nameEn": "ChunSi-Jiangxi Rice Vermicelli (M)",
+  "nameZh": "春絲牌 江西米粉(中條)",
+  "brand": "春絲牌 ChunSi",
+  "category": "",
+  "packSize": "4.4lbs(2kg) x 8bags/cs",
+  "imagePath": "/products/CHUN13.jpg",
+  "sortOrder": 424
+ },
+ {
+  "sku": "C042",
+  "nameEn": "Panda LongKou Vermicelli",
+  "nameZh": "熊貓 龍口粉絲",
+  "brand": "熊貓",
+  "category": "",
+  "packSize": "180g x 60bags/cs",
+  "imagePath": "/products/C042.jpg",
+  "sortOrder": 425
+ },
+ {
+  "sku": "C043",
+  "nameEn": "Panda LongKou Vermicelli",
+  "nameZh": "熊貓 龍口粉絲",
+  "brand": "熊貓",
+  "category": "",
+  "packSize": "500g x 24bags/cs",
+  "imagePath": "/products/C043.jpg",
+  "sortOrder": 426
+ },
+ {
+  "sku": "111002",
+  "nameEn": "DW-Organic Mung Bean",
+  "nameZh": "德偉-有機綠豆",
+  "brand": "德偉-有機綠豆 DW",
+  "category": "",
+  "packSize": "908g x 20bags/cs",
+  "imagePath": "/products/111002.jpg",
+  "sortOrder": 427
+ },
+ {
+  "sku": "111008",
+  "nameEn": "Organic Black Rice",
+  "nameZh": "德偉-有機黑香米",
+  "brand": "德偉-有機黑香米",
+  "category": "",
+  "packSize": "908g x 20bags/cs",
+  "imagePath": "/products/111008.jpg",
+  "sortOrder": 428
+ },
+ {
+  "sku": "111010",
+  "nameEn": "DW-Organic Pearl Barley",
+  "nameZh": "德偉-有機薏仁米",
+  "brand": "德偉-有機薏仁米 DW",
+  "category": "",
+  "packSize": "908g x 20bags/cs",
+  "imagePath": "/products/111010.jpg",
+  "sortOrder": 429
+ },
+ {
+  "sku": "111011",
+  "nameEn": "DW-Organic Corn Flour",
+  "nameZh": "德偉-有機玉米面",
+  "brand": "德偉-有機玉米面 DW",
+  "category": "",
+  "packSize": "908g x 20bags/cs",
+  "imagePath": "/products/111011.jpg",
+  "sortOrder": 430
+ },
+ {
+  "sku": "111012",
+  "nameEn": "DW-Organic Adzuki Bean",
+  "nameZh": "德偉-有機赤小豆",
+  "brand": "德偉-有機赤小豆 DW",
+  "category": "",
+  "packSize": "908g x 20bags/cs",
+  "imagePath": "/products/111012.jpg",
+  "sortOrder": 431
+ },
+ {
+  "sku": "08100",
+  "nameEn": "MX-Cooked & Salted Duck Egg",
+  "nameZh": "梅香牌 熟鹹蛋",
+  "brand": "梅香牌 MX",
+  "category": "",
+  "packSize": "8pcs/box; 16boxes/cs",
+  "imagePath": "/products/08100.jpg",
+  "sortOrder": 432
+ },
+ {
+  "sku": "08101",
+  "nameEn": "MX-Preserved Duck Egg",
+  "nameZh": "梅香牌 松花皮蛋",
+  "brand": "梅香牌 MX",
+  "category": "",
+  "packSize": "8pcs x 16boxes/cs",
+  "imagePath": "/products/08101.jpg",
+  "sortOrder": 433
+ },
+ {
+  "sku": "G056",
+  "nameEn": "WZH-Sweetened Bean Paste",
+  "nameZh": "王致和 紅豆沙",
+  "brand": "王致和 WZH",
+  "category": "",
+  "packSize": "500g x 20bags/cs",
+  "imagePath": "/products/G056.jpg",
+  "sortOrder": 434
+ },
+ {
+  "sku": "G164",
+  "nameEn": "Suimiyacai Preserved Vegetable",
+  "nameZh": "碎米芽菜",
+  "brand": "碎米芽菜",
+  "category": "",
+  "packSize": "230g x 60bags/cs",
+  "imagePath": "/products/G164.jpg",
+  "sortOrder": 435
+ },
+ {
+  "sku": "BWZ01",
+  "nameEn": "BWZ-Black Pepper Powder",
+  "nameZh": "百味齋 黑胡椒粉",
+  "brand": "百味齋 BWZ",
+  "category": "",
+  "packSize": "30g x 24btls/cs",
+  "imagePath": "/products/BWZ01.jpg",
+  "sortOrder": 436
+ },
+ {
+  "sku": "BWZ04",
+  "nameEn": "BWZ-BBQ Powder",
+  "nameZh": "百味齋 孜然粉",
+  "brand": "百味齋 BWZ",
+  "category": "",
+  "packSize": "30g x 24btls/cs",
+  "imagePath": "/products/BWZ04.jpg",
+  "sortOrder": 437
+ },
+ {
+  "sku": "BWZ05",
+  "nameEn": "BWZ-Salt&Pepper Powder",
+  "nameZh": "百味齋 燒烤粉",
+  "brand": "百味齋 BWZ",
+  "category": "",
+  "packSize": "30g x 24btls/cs",
+  "imagePath": "/products/BWZ05.jpg",
+  "sortOrder": 438
+ },
+ {
+  "sku": "BWZ07",
+  "nameEn": "",
+  "nameZh": "百味齋 椒鹽粉",
+  "brand": "百味齋",
+  "category": "",
+  "packSize": "40g x 24btls/cs",
+  "imagePath": "/products/BWZ07.jpg",
+  "sortOrder": 439
+ },
+ {
+  "sku": "BWZ08",
+  "nameEn": "BWZ-Cinnamon Powder",
+  "nameZh": "百味齋 肉桂粉",
+  "brand": "百味齋 BWZ",
+  "category": "",
+  "packSize": "30g x 24btls/cs",
+  "imagePath": "/products/BWZ08.jpg",
+  "sortOrder": 440
+ },
+ {
+  "sku": "BWZ14",
+  "nameEn": "BWZ-Chinese Green Pepper",
+  "nameZh": "百味齋 四川青花椒",
+  "brand": "百味齋 BWZ",
+  "category": "",
+  "packSize": "36g x 40bags/cs",
+  "imagePath": "/products/BWZ14.jpg",
+  "sortOrder": 441
+ },
+ {
+  "sku": "2223A",
+  "nameEn": "Mushroom Seasoning",
+  "nameZh": "香菇調味料",
+  "brand": "香菇調味料",
+  "category": "",
+  "packSize": "500g x 12bags/cs",
+  "imagePath": "/products/2223A.jpg",
+  "sortOrder": 442
+ },
+ {
+  "sku": "WSY01",
+  "nameEn": "WSY-Thirteen Spice Seasoning",
+  "nameZh": "王守義 十三香",
+  "brand": "王守義 WSY",
+  "category": "",
+  "packSize": "45g x 10boxes/pk: 10pks/cs",
+  "imagePath": "/products/WSY01.jpg",
+  "sortOrder": 443
+ },
+ {
+  "sku": "WSY02",
+  "nameEn": "WSY-Hot Spicy Seasoning",
+  "nameZh": "王守義 麻辣鮮",
+  "brand": "王守義 WSY",
+  "category": "",
+  "packSize": "118g x 48bags/cs",
+  "imagePath": "/products/WSY02.jpg",
+  "sortOrder": 444
+ },
+ {
+  "sku": "HR101",
+  "nameEn": "HRJ-Hot & Spicy Pot Seasoning",
+  "nameZh": "好人家 麻辣香鍋調料",
+  "brand": "好人家 HRJ",
+  "category": "",
+  "packSize": "220g x 30bags/cs",
+  "imagePath": "/products/HR101.jpg",
+  "sortOrder": 445
+ },
+ {
+  "sku": "HR104",
+  "nameEn": "HRJ-Seasoning for Fish w/Laotan Sour Cabbag",
+  "nameZh": "好人家 老壇酸菜魚調料",
+  "brand": "好人家 HRJ",
+  "category": "",
+  "packSize": "360g x 30bags/cs",
+  "imagePath": "/products/HR104.jpg",
+  "sortOrder": 446
+ },
+ {
+  "sku": "HR105",
+  "nameEn": "HRJ-Seasoning for Spicy Crayfish",
+  "nameZh": "好人家 麻辣小龍蝦調料",
+  "brand": "好人家 HRJ",
+  "category": "",
+  "packSize": "200g x 30bags/cs",
+  "imagePath": "/products/HR105.jpg",
+  "sortOrder": 447
+ },
+ {
+  "sku": "HR106",
+  "nameEn": "HRJ-Seasoning for Boiled Fish",
+  "nameZh": "好人家 水煮魚調料",
+  "brand": "好人家 HRJ",
+  "category": "",
+  "packSize": "198g x 40bags/cs",
+  "imagePath": "/products/HR106.jpg",
+  "sortOrder": 448
+ },
+ {
+  "sku": "HR107",
+  "nameEn": "HRJ-Seasoning for Mapo Tofu",
+  "nameZh": "好人家 麻婆豆腐調料",
+  "brand": "好人家 HRJ",
+  "category": "",
+  "packSize": "80g x 60bags/cs",
+  "imagePath": "/products/HR107.jpg",
+  "sortOrder": 449
+ },
+ {
+  "sku": "HR108",
+  "nameEn": "HRJ-Seasoning for Spicy Chicken",
+  "nameZh": "好人家 辣子雞調料",
+  "brand": "好人家 HRJ",
+  "category": "",
+  "packSize": "160g x 40bags/cs",
+  "imagePath": "/products/HR108.jpg",
+  "sortOrder": 450
+ },
+ {
+  "sku": "HR109",
+  "nameEn": "HRJ-Seasoning for Kungpao Chicken",
+  "nameZh": "好人家 宮保雞丁調料",
+  "brand": "好人家 HRJ",
+  "category": "",
+  "packSize": "80g x 60bags/cs",
+  "imagePath": "/products/HR109.jpg",
+  "sortOrder": 451
+ },
+ {
+  "sku": "HR110",
+  "nameEn": "HRJ-Spicy Hot Pot Soup Base (4pcs)",
+  "nameZh": "好人家 手工麻辣老火鍋底料 (小塊裝)",
+  "brand": "好人家 HRJ",
+  "category": "",
+  "packSize": "360g x 20bags/cs",
+  "imagePath": "/products/HR110.jpg",
+  "sortOrder": 452
+ },
+ {
+  "sku": "HR111",
+  "nameEn": "HRJ-Spicy Hot Pot Soup Base",
+  "nameZh": "好人家 手工麻辣老火鍋底料",
+  "brand": "好人家 HRJ",
+  "category": "",
+  "packSize": "500g x 20bags/cs",
+  "imagePath": "/products/HR111.jpg",
+  "sortOrder": 453
+ },
+ {
+  "sku": "HR112",
+  "nameEn": "HRJ-Spicy Hot Pot Soup Base (Mild)",
+  "nameZh": "好人家 手工老火鍋底料 (微辣)",
+  "brand": "好人家 HRJ",
+  "category": "",
+  "packSize": "228g x 30bags/cs",
+  "imagePath": "/products/HR112.jpg",
+  "sortOrder": 454
+ },
+ {
+  "sku": "HR113",
+  "nameEn": "HRJ-Spicy Hot Pot Soup Base (4pcs)",
+  "nameZh": "好人家 手工老火鍋(小塊裝)",
+  "brand": "好人家 HRJ",
+  "category": "",
+  "packSize": "200g x 20bags/cs",
+  "imagePath": "/products/HR113.jpg",
+  "sortOrder": 455
+ },
+ {
+  "sku": "H001",
+  "nameEn": "HDL-Hot Pot Soup (Tomato)",
+  "nameZh": "海底撈 火鍋底料(番茄)",
+  "brand": "海底撈 HDL",
+  "category": "",
+  "packSize": "200g x 34bags/cs",
+  "imagePath": "/products/H001.jpg",
+  "sortOrder": 456
+ },
+ {
+  "sku": "H002",
+  "nameEn": "HDL-Hot Pot Soup (Shrimp Flavor)",
+  "nameZh": "海底撈 上湯三鮮",
+  "brand": "海底撈 HDL",
+  "category": "",
+  "packSize": "200g x 34bags/cs",
+  "imagePath": "/products/H002.jpg",
+  "sortOrder": 457
+ },
+ {
+  "sku": "H004",
+  "nameEn": "HDL-Hot Pot Soup Base (Broth Flavor)",
+  "nameZh": "海底撈 清湯",
+  "brand": "海底撈 HDL",
+  "category": "",
+  "packSize": "110g x 34bags/cs",
+  "imagePath": "/products/H004.jpg",
+  "sortOrder": 458
+ },
+ {
+  "sku": "H005",
+  "nameEn": "HDL-Hot Pot Soup (Mushroom)",
+  "nameZh": "海底撈 菌湯",
+  "brand": "海底撈 HDL",
+  "category": "",
+  "packSize": "150g x 40bags/cs",
+  "imagePath": "/products/H005.jpg",
+  "sortOrder": 459
+ },
+ {
+  "sku": "H006",
+  "nameEn": "HDL-Hot Pot Soup Base (Red Chili)",
+  "nameZh": "海底撈 火鍋底料(清油)",
+  "brand": "海底撈 HDL",
+  "category": "",
+  "packSize": "220 x 34bags/cs",
+  "imagePath": "/products/H006.jpg",
+  "sortOrder": 460
+ },
+ {
+  "sku": "H012",
+  "nameEn": "HDL-Hot Pot Soup Base (Spicy)",
+  "nameZh": "海底撈 火鍋底料(麻辣燙)",
+  "brand": "海底撈 HDL",
+  "category": "",
+  "packSize": "220g x 34bags/cs",
+  "imagePath": "/products/H012.jpg",
+  "sortOrder": 461
+ },
+ {
+  "sku": "H021",
+  "nameEn": "HDL-Fish Soup Base (Spicy Pickle)",
+  "nameZh": "海底撈 水煮魚",
+  "brand": "海底撈 HDL",
+  "category": "",
+  "packSize": "210g x 34bags/cs",
+  "imagePath": "/products/H021.jpg",
+  "sortOrder": 462
+ },
+ {
+  "sku": "H143",
+  "nameEn": "HDL-Beef Tallow Hot Pot Sauce",
+  "nameZh": "海底撈 牛油火鍋底料",
+  "brand": "海底撈 HDL",
+  "category": "",
+  "packSize": "150g x 40bags/cs",
+  "imagePath": "/products/H143.jpg",
+  "sortOrder": 463
+ },
+ {
+  "sku": "H144",
+  "nameEn": "HDL-Spicy Flavor Green Chili Hot Pot Seasoning",
+  "nameZh": "海底撈 麻辣青椒火鍋底料",
+  "brand": "海底撈 HDL",
+  "category": "",
+  "packSize": "200g x 34bags/cs",
+  "imagePath": "/products/H144.jpg",
+  "sortOrder": 464
+ },
+ {
+  "sku": "H230",
+  "nameEn": "HDL-Guizhou Style Sour Hot Pot Soup Base",
+  "nameZh": "海底撈 貴州風味紅酸湯火鍋湯料",
+  "brand": "海底撈 HDL",
+  "category": "",
+  "packSize": "240g x 34bags/cs",
+  "imagePath": "/products/H230.jpg",
+  "sortOrder": 465
+ },
+ {
+  "sku": "H231",
+  "nameEn": "HDL-Tom Yum Flavor Hot Pot Soup Base",
+  "nameZh": "海底撈 冬蔭功火鍋底料",
+  "brand": "海底撈 HDL",
+  "category": "",
+  "packSize": "200g x 34bags/cs",
+  "imagePath": "/products/H231.jpg",
+  "sortOrder": 466
+ },
+ {
+  "sku": "H234",
+  "nameEn": "HDL-Vegetables Self-Heating Hot Pot (Golden Sour Flavor)",
+  "nameZh": "海底捞 金湯素食 自煮火锅套餐",
+  "brand": "海底捞 HDL",
+  "category": "",
+  "packSize": "350g x 18pks/cs",
+  "imagePath": "/products/H234.jpg",
+  "sortOrder": 467
+ },
+ {
+  "sku": "H227",
+  "nameEn": "HDL-Vegetables Self-Heating Hot Pot (Spicy Flavor)",
+  "nameZh": "海底捞 香辣素食 自煮火锅套餐",
+  "brand": "海底捞 HDL",
+  "category": "",
+  "packSize": "315g x 18pks/cs",
+  "imagePath": "/products/H227.jpg",
+  "sortOrder": 468
+ },
+ {
+  "sku": "H228",
+  "nameEn": "HDL-Vegetables Self-Heating Hot Pot (Tomato Flavor)",
+  "nameZh": "海底捞 番茄素食 自煮火锅套餐",
+  "brand": "海底捞 HDL",
+  "category": "",
+  "packSize": "340g x 18pks/cs",
+  "imagePath": "/products/H228.jpg",
+  "sortOrder": 469
+ },
+ {
+  "sku": "H080",
+  "nameEn": "HDL-Spicy Flavor Hot Pot w/ Plant-based Luncheon Meat",
+  "nameZh": "海底撈 麻辣午餐肉(植物基) 自煮火鍋套餐",
+  "brand": "海底撈 HDL",
+  "category": "",
+  "packSize": "360g x 18boxes/cs",
+  "imagePath": "/products/H080.jpg",
+  "sortOrder": 470
+ },
+ {
+  "sku": "H221",
+  "nameEn": "HDL-Old Chengdu Style Self-Heating Hotpot",
+  "nameZh": "海底撈 老成都風味 自煮火鍋套餐",
+  "brand": "海底撈 HDL",
+  "category": "",
+  "packSize": "365g x 18boxes/cs",
+  "imagePath": "/products/H221.jpg",
+  "sortOrder": 471
+ },
+ {
+  "sku": "H249",
+  "nameEn": "HDL-Northeast Style Spicy Flavor Self-Heating Hot Pot",
+  "nameZh": "海底撈 東北風味麻辣燙 自煮火鍋套餐",
+  "brand": "海底撈 HDL",
+  "category": "",
+  "packSize": "360g x 18boxes/cs",
+  "imagePath": "/products/H249.jpg",
+  "sortOrder": 472
+ },
+ {
+  "sku": "G264",
+  "nameEn": "HDL-Cup Rice (Scallop Mushroom Flavor)",
+  "nameZh": "海底撈 瑤柱香菇拌飯",
+  "brand": "海底撈 HDL",
+  "category": "",
+  "packSize": "128g x 24cups/cs",
+  "imagePath": "/products/G264.jpg",
+  "sortOrder": 473
+ },
+ {
+  "sku": "MWJ01",
+  "nameEn": "MWJ-New Orleans Marinade (Honey)",
+  "nameZh": "美味佳-新奧爾良腌料 (蜜汁風味)",
+  "brand": "美味佳-新奧爾良腌料 MWJ",
+  "category": "",
+  "packSize": "68g x 48bags/cs",
+  "imagePath": "/products/MWJ01.jpg",
+  "sortOrder": 474
+ },
+ {
+  "sku": "MWJ03",
+  "nameEn": "MWJ-New Orleans Marinade (Mild)",
+  "nameZh": "美味佳-新奧爾良腌料 (微辣)",
+  "brand": "美味佳-新奧爾良腌料 MWJ",
+  "category": "",
+  "packSize": "68g x 48bags/cs",
+  "imagePath": "/products/MWJ03.jpg",
+  "sortOrder": 475
+ },
+ {
+  "sku": "MWJ04",
+  "nameEn": "MWJ-New Orleans Marinade (Spicy)",
+  "nameZh": "美味佳-新奧爾良腌料 (麻辣)",
+  "brand": "美味佳-新奧爾良腌料 MWJ",
+  "category": "",
+  "packSize": "68g x 48bags/cs",
+  "imagePath": "/products/MWJ04.jpg",
+  "sortOrder": 476
+ },
+ {
+  "sku": "MWJ05",
+  "nameEn": "MWJ-New Orleans Marinade (Garlic)",
+  "nameZh": "美味佳-新奧爾良腌料 (蒜香風味)",
+  "brand": "美味佳-新奧爾良腌料 MWJ",
+  "category": "",
+  "packSize": "68g x 48bags/cs",
+  "imagePath": "/products/MWJ05.jpg",
+  "sortOrder": 477
+ },
+ {
+  "sku": "JXJ01",
+  "nameEn": "JXJ-Pickled Mustard w/Core Coriander",
+  "nameZh": "吉香居 香菜芯",
+  "brand": "吉香居 JXJ",
+  "category": "",
+  "packSize": "306g x 12btls/cs",
+  "imagePath": "/products/JXJ01.jpg",
+  "sortOrder": 478
+ },
+ {
+  "sku": "JXJ02",
+  "nameEn": "JXJ-Freshing Pickles",
+  "nameZh": "吉香居 開味菜",
+  "brand": "吉香居 JXJ",
+  "category": "",
+  "packSize": "306g x 12btls/cs",
+  "imagePath": "/products/JXJ02.jpg",
+  "sortOrder": 479
+ },
+ {
+  "sku": "JXJ04",
+  "nameEn": "JXJ-Hot & Spicy Sansi",
+  "nameZh": "吉香居 麻辣三絲",
+  "brand": "吉香居 JXJ",
+  "category": "",
+  "packSize": "306g x 12btls/cs",
+  "imagePath": "/products/JXJ04.jpg",
+  "sortOrder": 480
+ },
+ {
+  "sku": "JXJ05",
+  "nameEn": "JXJ-Crisp Cowpea",
+  "nameZh": "吉香居 脆口豇豆",
+  "brand": "吉香居 JXJ",
+  "category": "",
+  "packSize": "350g x 12btls/cs",
+  "imagePath": "/products/JXJ05.jpg",
+  "sortOrder": 481
+ },
+ {
+  "sku": "JXJ06",
+  "nameEn": "JXJ-Spicy Sansi",
+  "nameZh": "吉香居 香辣三絲",
+  "brand": "吉香居 JXJ",
+  "category": "",
+  "packSize": "350g x 12btls/cs",
+  "imagePath": "/products/JXJ06.jpg",
+  "sortOrder": 482
+ },
+ {
+  "sku": "JXJ07",
+  "nameEn": "JXJ-Freshing Sauerkraut",
+  "nameZh": "吉香居 開味酸菜",
+  "brand": "吉香居 JXJ",
+  "category": "",
+  "packSize": "350g x 12btls/cs",
+  "imagePath": "/products/JXJ07.jpg",
+  "sortOrder": 483
+ },
+ {
+  "sku": "JXJ08",
+  "nameEn": "JXJ-Crunchy Vegetables Core",
+  "nameZh": "吉香居 脆口菜芯",
+  "brand": "吉香居 JXJ",
+  "category": "",
+  "packSize": "350g x 12btls/cs",
+  "imagePath": "/products/JXJ08.jpg",
+  "sortOrder": 484
+ },
+ {
+  "sku": "JXJ09",
+  "nameEn": "JXJ-Appetizing Pickles",
+  "nameZh": "吉香居 爽口下飯菜",
+  "brand": "吉香居 JXJ",
+  "category": "",
+  "packSize": "350g x 12btls/cs",
+  "imagePath": "/products/JXJ09.jpg",
+  "sortOrder": 485
+ },
+ {
+  "sku": "JXJ10",
+  "nameEn": "JXJ-Pickled Radish Core",
+  "nameZh": "吉香居 蘿蔔真芯",
+  "brand": "吉香居 JXJ",
+  "category": "",
+  "packSize": "135g x 40bags/cs",
+  "imagePath": "/products/JXJ10.jpg",
+  "sortOrder": 486
+ },
+ {
+  "sku": "JXJ11",
+  "nameEn": "JXJ-Pickled Mustard Core (Fresh Flavor)",
+  "nameZh": "吉香居 榨菜真芯(鮮香味)",
+  "brand": "吉香居 JXJ",
+  "category": "",
+  "packSize": "135g x 40bags/cs",
+  "imagePath": "/products/JXJ11.jpg",
+  "sortOrder": 487
+ },
+ {
+  "sku": "JXJ12",
+  "nameEn": "JXJ-Pickled Lettuce & Bamboo Shoots",
+  "nameZh": "吉香居 清脆雙筍(輕辣)",
+  "brand": "吉香居 JXJ",
+  "category": "",
+  "packSize": "106g x 40bags/cs",
+  "imagePath": "/products/JXJ12.jpg",
+  "sortOrder": 488
+ },
+ {
+  "sku": "JXJ13",
+  "nameEn": "JXJ-Pickled Cowpea w/Pepper",
+  "nameZh": "吉香居 泡椒豇豆",
+  "brand": "吉香居 JXJ",
+  "category": "",
+  "packSize": "80g x 50bags/cs",
+  "imagePath": "/products/JXJ13.jpg",
+  "sortOrder": 489
+ },
+ {
+  "sku": "JXJ14",
+  "nameEn": "JXJ-Crisp Cowpea",
+  "nameZh": "吉香居 脆口豇豆",
+  "brand": "吉香居 JXJ",
+  "category": "",
+  "packSize": "80g x 50bags/cs",
+  "imagePath": "/products/JXJ14.jpg",
+  "sortOrder": 490
+ },
+ {
+  "sku": "JXJ15",
+  "nameEn": "JXJ-Pickled Cowpea (Spicy Flavor)",
+  "nameZh": "吉香居 麻辣豇豆",
+  "brand": "吉香居 JXJ",
+  "category": "",
+  "packSize": "80g x 50bags/cs",
+  "imagePath": "/products/JXJ15.jpg",
+  "sortOrder": 491
+ },
+ {
+  "sku": "JXJ16",
+  "nameEn": "JXJ-Kelp Strips (Wild Pepper)",
+  "nameZh": "吉香居 海帶絲(野山椒味)",
+  "brand": "吉香居 JXJ",
+  "category": "",
+  "packSize": "88g x 50bags/cs",
+  "imagePath": "/products/JXJ16.jpg",
+  "sortOrder": 492
+ },
+ {
+  "sku": "JXJ17",
+  "nameEn": "JXJ-Kelp Strips (Spicy)",
+  "nameZh": "吉香居 海帶絲(香辣味)",
+  "brand": "吉香居 JXJ",
+  "category": "",
+  "packSize": "88g x 50bags/cs",
+  "imagePath": "/products/JXJ17.jpg",
+  "sortOrder": 493
+ },
+ {
+  "sku": "LL101",
+  "nameEn": "LL-Pickled Mustard",
+  "nameZh": "綠鹿 雪菜大王",
+  "brand": "綠鹿 LL",
+  "category": "",
+  "packSize": "150g x 100bags/cs",
+  "imagePath": "/products/LL101.jpg",
+  "sortOrder": 494
+ },
+ {
+  "sku": "LL102",
+  "nameEn": "LL-Pickled Mustard",
+  "nameZh": "綠鹿 雪菜王",
+  "brand": "綠鹿 LL",
+  "category": "",
+  "packSize": "500g x 30bags/cs",
+  "imagePath": "/products/LL102.jpg",
+  "sortOrder": 495
+ },
+ {
+  "sku": "LL103",
+  "nameEn": "LL-Pickled Mustard w/Bamboo Shoots",
+  "nameZh": "綠鹿 雪菜筍絲",
+  "brand": "綠鹿 LL",
+  "category": "",
+  "packSize": "500g x 30bags/cs",
+  "imagePath": "/products/LL103.jpg",
+  "sortOrder": 496
+ },
+ {
+  "sku": "LL104",
+  "nameEn": "LL-Pickled Mustard Tuber in Chili Oil",
+  "nameZh": "綠鹿 紅油榨菜片",
+  "brand": "綠鹿 LL",
+  "category": "",
+  "packSize": "500g x 30bags/cs",
+  "imagePath": "/products/LL104.jpg",
+  "sortOrder": 497
+ },
+ {
+  "sku": "X1694",
+  "nameEn": "CS-Preserved Mustard in Brine",
+  "nameZh": "潮盛 香港橄欖菜",
+  "brand": "潮盛 CS",
+  "category": "",
+  "packSize": "450g x 24jars/cs",
+  "imagePath": "/products/X1694.jpg",
+  "sortOrder": 498
+ },
+ {
+  "sku": "X1469",
+  "nameEn": "JX-Pickled Chili in Brine",
+  "nameZh": "佳仙 小米椒",
+  "brand": "佳仙 JX",
+  "category": "",
+  "packSize": "250g x 24btls/cs",
+  "imagePath": "/products/X1469.jpg",
+  "sortOrder": 499
+ },
+ {
+  "sku": "G130",
+  "nameEn": "WZH-Fermented Bean Curd",
+  "nameZh": "王致和 大塊腐乳",
+  "brand": "王致和 WZH",
+  "category": "",
+  "packSize": "340g x 15btls/cs",
+  "imagePath": "/products/G130.jpg",
+  "sortOrder": 500
+ },
+ {
+  "sku": "G154",
+  "nameEn": "CH-Spicy & Hot Chili Oil",
+  "nameZh": "翠宏 麻辣紅油",
+  "brand": "翠宏 CH",
+  "category": "",
+  "packSize": "200g x 12btls/cs",
+  "imagePath": "/products/G154.jpg",
+  "sortOrder": 501
+ },
+ {
+  "sku": "G155",
+  "nameEn": "CH-Spicy Chilli Oil",
+  "nameZh": "翠宏 香辣紅油",
+  "brand": "翠宏 CH",
+  "category": "",
+  "packSize": "200g x 12btls/cs",
+  "imagePath": "/products/G155.jpg",
+  "sortOrder": 502
+ },
+ {
+  "sku": "G156",
+  "nameEn": "CH-Red Oil Mixed Ingredient",
+  "nameZh": "翠宏 紅油拌菜料",
+  "brand": "翠宏 CH",
+  "category": "",
+  "packSize": "200g x 12btls/cs",
+  "imagePath": "/products/G156.jpg",
+  "sortOrder": 503
+ },
+ {
+  "sku": "G081",
+  "nameEn": "HFT-Ferment Chili Sauce",
+  "nameZh": "紅翻天 純鮮剁椒",
+  "brand": "紅翻天 HFT",
+  "category": "",
+  "packSize": "700g x 12btls/cs",
+  "imagePath": "/products/G081.jpg",
+  "sortOrder": 504
+ },
+ {
+  "sku": "G083",
+  "nameEn": "HFT-Ferment Chili Sauce",
+  "nameZh": "紅翻天 純鮮剁椒",
+  "brand": "紅翻天 HFT",
+  "category": "",
+  "packSize": "200g x 24btls/cs",
+  "imagePath": "/products/G083.jpg",
+  "sortOrder": 505
+ },
+ {
+  "sku": "G082",
+  "nameEn": "HFT-Chopped Hot Pepper (for Steamed Fish)",
+  "nameZh": "紅翻天 蒸魚剁辣椒",
+  "brand": "紅翻天 HFT",
+  "category": "",
+  "packSize": "400g x 12btls/cs",
+  "imagePath": "/products/G082.jpg",
+  "sortOrder": 506
+ },
+ {
+  "sku": "G115",
+  "nameEn": "BD-Nan Ru Sauce",
+  "nameZh": "寶鼎 南乳汁",
+  "brand": "寶鼎 BD",
+  "category": "",
+  "packSize": "550g x 12btls/cs",
+  "imagePath": "/products/G115.jpg",
+  "sortOrder": 507
+ },
+ {
+  "sku": "G122",
+  "nameEn": "DH-Shanxi Aged Vinegar (One year Brewed)",
+  "nameZh": "東湖 山西老陳醋",
+  "brand": "東湖 DH",
+  "category": "",
+  "packSize": "500ml x 20btls/cs",
+  "imagePath": "/products/G122.jpg",
+  "sortOrder": 508
+ },
+ {
+  "sku": "G097",
+  "nameEn": "BD-Cooking Wine",
+  "nameZh": "寶鼎 蔥薑料酒",
+  "brand": "寶鼎 BD",
+  "category": "",
+  "packSize": "500ml x 24btls/cs",
+  "imagePath": "/products/G097.jpg",
+  "sortOrder": 509
+ },
+ {
+  "sku": "G060",
+  "nameEn": "BD-Pickle Sauce",
+  "nameZh": "寶鼎 糟鹵",
+  "brand": "寶鼎 BD",
+  "category": "",
+  "packSize": "500ml x 24btls/cs",
+  "imagePath": "/products/G060.jpg",
+  "sortOrder": 510
+ },
+ {
+  "sku": "G175",
+  "nameEn": "MPP-Rice Soup",
+  "nameZh": "米婆婆 甜香酒釀",
+  "brand": "米婆婆 MPP",
+  "category": "",
+  "packSize": "500g x 8jars/cs",
+  "imagePath": "/products/G175.jpg",
+  "sortOrder": 511
+ },
+ {
+  "sku": "G174",
+  "nameEn": "MPP-Rice Soup",
+  "nameZh": "米婆婆 甜香酒釀",
+  "brand": "米婆婆 MPP",
+  "category": "",
+  "packSize": "900g x 6jars/cs",
+  "imagePath": "/products/G174.jpg",
+  "sortOrder": 512
+ },
+ {
+  "sku": "G205",
+  "nameEn": "WZH-Refined Cooking Wine",
+  "nameZh": "王致和 料酒",
+  "brand": "王致和 WZH",
+  "category": "",
+  "packSize": "500ml x 15btls/cs",
+  "imagePath": "/products/G205.jpg",
+  "sortOrder": 513
+ },
+ {
+  "sku": "G135",
+  "nameEn": "Shaosing Cooking Wine",
+  "nameZh": "紹興料酒",
+  "brand": "紹興料酒",
+  "category": "",
+  "packSize": "500ml x 12btls/cs",
+  "imagePath": "/products/G135.jpg",
+  "sortOrder": 514
+ },
+ {
+  "sku": "85086",
+  "nameEn": "MYS-Skyflakes Crackers",
+  "nameZh": "空中霸王 蘇打餅乾",
+  "brand": "空中霸王 MYS",
+  "category": "",
+  "packSize": "450g x 10boxes/cs",
+  "imagePath": "/products/85086.jpg",
+  "sortOrder": 515
+ },
+ {
+  "sku": "80995",
+  "nameEn": "MYS-Skyflakes Crackers (Tub)",
+  "nameZh": "空中霸王 蘇打餅乾",
+  "brand": "空中霸王 MYS",
+  "category": "",
+  "packSize": "800g x 8tubs/cs",
+  "imagePath": "/products/80995.jpg",
+  "sortOrder": 516
+ },
+ {
+  "sku": "81162",
+  "nameEn": "MYS-Skyflakes Crackers (Tub) (Garlic)",
+  "nameZh": "空中霸王 蘇打餅乾 (蒜香味)",
+  "brand": "空中霸王 MYS",
+  "category": "",
+  "packSize": "800g x 8tubs/cs",
+  "imagePath": "/products/81162.jpg",
+  "sortOrder": 517
+ },
+ {
+  "sku": "81376",
+  "nameEn": "MYS-Skyflakes Crackers (Onion&Chives) (Tub)",
+  "nameZh": "空中霸王 蘇打餅乾 (洋蔥韭菜味) (桶裝)",
+  "brand": "空中霸王 MYS",
+  "category": "",
+  "packSize": "800g x 8tubs/cs",
+  "imagePath": "/products/81376.jpg",
+  "sortOrder": 518
+ },
+ {
+  "sku": "81312",
+  "nameEn": "MYS MYS-Graham Crackers (tub)",
+  "nameZh": "全麥餅乾",
+  "brand": "全麥餅乾 MYS MYS",
+  "category": "",
+  "packSize": "800g x 8tubs/cs",
+  "imagePath": "/products/81312.jpg",
+  "sortOrder": 519
+ },
+ {
+  "sku": "80861",
+  "nameEn": "MYS MYS-Graham Crackers (Chocolate)",
+  "nameZh": "全麥巧克力餅乾",
+  "brand": "全麥巧克力餅乾 MYS MYS",
+  "category": "",
+  "packSize": "250g x 20bags/cs",
+  "imagePath": "/products/80861.jpg",
+  "sortOrder": 520
+ },
+ {
+  "sku": "80949",
+  "nameEn": "MYS MYS-Graham Crackers (Honey)",
+  "nameZh": "全麥蜂蜜餅乾",
+  "brand": "全麥蜂蜜餅乾 MYS MYS",
+  "category": "",
+  "packSize": "250g x 20bags/cs",
+  "imagePath": "/products/80949.jpg",
+  "sortOrder": 521
+ },
+ {
+  "sku": "80732",
+  "nameEn": "MYS-Skyflakes Crackers",
+  "nameZh": "空中霸王蘇打餅乾",
+  "brand": "空中霸王蘇打餅乾 MYS",
+  "category": "",
+  "packSize": "250g x 20bags/cs",
+  "imagePath": "/products/80732.jpg",
+  "sortOrder": 522
+ },
+ {
+  "sku": "80876",
+  "nameEn": "MYS-Skyflakes Crackers (Garlic)",
+  "nameZh": "空中霸王 蘇打餅乾 (蒜香味)",
+  "brand": "空中霸王 MYS",
+  "category": "",
+  "packSize": "250g x 20bags/cs",
+  "imagePath": "/products/80876.jpg",
+  "sortOrder": 523
+ },
+ {
+  "sku": "80877",
+  "nameEn": "MYS-Skyflakes Crackers (Onion&Chives)",
+  "nameZh": "空中霸王 蘇打餅乾 (洋蔥韭菜味)",
+  "brand": "空中霸王 MYS",
+  "category": "",
+  "packSize": "250g x 20bags/cs",
+  "imagePath": "/products/80877.jpg",
+  "sortOrder": 524
+ },
+ {
+  "sku": "80841",
+  "nameEn": "MYS-Skyflakes Crackers (Cheese)",
+  "nameZh": "空中霸王 蘇打餅乾 (芝士味)",
+  "brand": "空中霸王 MYS",
+  "category": "",
+  "packSize": "250g x 20bags/cs",
+  "imagePath": "/products/80841.jpg",
+  "sortOrder": 525
+ },
+ {
+  "sku": "80850",
+  "nameEn": "MYS-Skyflakes Crackers Sandwich (Chocolate)",
+  "nameZh": "空中霸王 巧克力夾心 蘇打餅乾",
+  "brand": "空中霸王 MYS",
+  "category": "",
+  "packSize": "300g x 15bags/cs",
+  "imagePath": "/products/80850.jpg",
+  "sortOrder": 526
+ },
+ {
+  "sku": "80915",
+  "nameEn": "MYS-Skyflakes Crackers Sandwich (Sweet Mantikilya)",
+  "nameZh": "空中霸王 甜奶油夾心 蘇打餅乾",
+  "brand": "空中霸王 MYS",
+  "category": "",
+  "packSize": "300g x 15bags/cs",
+  "imagePath": "/products/80915.jpg",
+  "sortOrder": 527
+ },
+ {
+  "sku": "80849",
+  "nameEn": "MYS-Skyflakes Crackers Sandwich (Condensada)",
+  "nameZh": "空中霸王 煉乳夾心 蘇打餅乾",
+  "brand": "空中霸王 MYS",
+  "category": "",
+  "packSize": "300g x 15bags/cs",
+  "imagePath": "/products/80849.jpg",
+  "sortOrder": 528
+ },
+ {
+  "sku": "81418",
+  "nameEn": "MYS-Skyflakes Sweet Selections",
+  "nameZh": "空中霸王 夾心蘇打餅乾 (多種口味)",
+  "brand": "空中霸王 MYS",
+  "category": "",
+  "packSize": "600g x 10boxes/cs",
+  "imagePath": "/products/81418.jpg",
+  "sortOrder": 529
+ },
+ {
+  "sku": "81314",
+  "nameEn": "MYS-Fita Crackers (Cheese)",
+  "nameZh": "菲達餅乾(芝士味)",
+  "brand": "菲達餅乾(芝士味) MYS",
+  "category": "",
+  "packSize": "300g x 18bags/cs",
+  "imagePath": "/products/81314.jpg",
+  "sortOrder": 530
+ },
+ {
+  "sku": "80874",
+  "nameEn": "MYS-Fita Crackers",
+  "nameZh": "菲達 餅乾",
+  "brand": "菲達 MYS",
+  "category": "",
+  "packSize": "300g x 18bags/cs",
+  "imagePath": "/products/80874.jpg",
+  "sortOrder": 531
+ },
+ {
+  "sku": "01910",
+  "nameEn": "MYS-Fita Crackers (Tub)",
+  "nameZh": "菲達餅乾",
+  "brand": "菲達餅乾 MYS",
+  "category": "",
+  "packSize": "600g x 8tubs/cs",
+  "imagePath": "/products/01910.jpg",
+  "sortOrder": 532
+ },
+ {
+  "sku": "80648",
+  "nameEn": "M.Y.San MYS-Happy Time Assorted Junior",
+  "nameZh": "什錦餅乾",
+  "brand": "什錦餅乾 M.Y.San MYS",
+  "category": "",
+  "packSize": "750g x 12jars/cs",
+  "imagePath": "/products/80648.jpg",
+  "sortOrder": 533
+ },
+ {
+  "sku": "81135",
+  "nameEn": "M.Y.San MYS-Happy Time Assorted",
+  "nameZh": "什錦餅乾",
+  "brand": "什錦餅乾 M.Y.San MYS",
+  "category": "",
+  "packSize": "1.5kg x 4tubs/cs",
+  "imagePath": "/products/81135.jpg",
+  "sortOrder": 534
+ },
+ {
+  "sku": "SUN01",
+  "nameEn": "Sunflower-Crackers (Plain)(Tub)",
+  "nameZh": "向日葵牌 酥脆蘇打餅乾 (原味)",
+  "brand": "向日葵牌 Sunflower",
+  "category": "",
+  "packSize": "800g x 12tubs/cs",
+  "imagePath": "/products/SUN01.jpg",
+  "sortOrder": 535
+ },
+ {
+  "sku": "SUN02",
+  "nameEn": "Sunflower-Crackers (Strawberry)(Tub)",
+  "nameZh": "向日葵牌 夾心餅乾 (草莓味)",
+  "brand": "向日葵牌 Sunflower",
+  "category": "",
+  "packSize": "800g x 12tubs/cs",
+  "imagePath": "/products/SUN02.jpg",
+  "sortOrder": 536
+ },
+ {
+  "sku": "SUN03",
+  "nameEn": "Sunflower-Crackers (Mango)(Tub)",
+  "nameZh": "向日葵牌 夾心餅乾 (芒果味)",
+  "brand": "向日葵牌 Sunflower",
+  "category": "",
+  "packSize": "800g x 12tubs/cs",
+  "imagePath": "/products/SUN03.jpg",
+  "sortOrder": 537
+ },
+ {
+  "sku": "81057",
+  "nameEn": "Oishi-Choco Soaked Sponge Crunch",
+  "nameZh": "上好佳 巧克力海綿脆餅",
+  "brand": "上好佳 Oishi",
+  "category": "",
+  "packSize": "120g x 20bags/cs",
+  "imagePath": "/products/81057.jpg",
+  "sortOrder": 538
+ },
+ {
+  "sku": "14462",
+  "nameEn": "Oishi-Pillows Choco-Filled Crackers",
+  "nameZh": "上好佳 爆漿巧克力枕頭餅乾",
+  "brand": "上好佳 Oishi",
+  "category": "",
+  "packSize": "150g x 20bags/cs",
+  "imagePath": "/products/14462.jpg",
+  "sortOrder": 539
+ },
+ {
+  "sku": "0193",
+  "nameEn": "Oishi-Pillows Ube-Filled Crackers",
+  "nameZh": "上好佳 爆漿紫薯枕頭餅乾",
+  "brand": "上好佳 Oishi",
+  "category": "",
+  "packSize": "150g x 20bags/cs",
+  "imagePath": "/products/0193.jpg",
+  "sortOrder": 540
+ },
+ {
+  "sku": "52327",
+  "nameEn": "Oishi-Pillows Ube-Filled Crackers",
+  "nameZh": "上好佳 爆漿紫薯枕頭餅乾",
+  "brand": "上好佳 Oishi",
+  "category": "",
+  "packSize": "38g x 100bags/cs",
+  "imagePath": "/products/52327.jpg",
+  "sortOrder": 541
+ },
+ {
+  "sku": "201007",
+  "nameEn": "Regent Mocca Cake",
+  "nameZh": "雷珍 蛋糕(摩卡味)",
+  "brand": "雷珍",
+  "category": "",
+  "packSize": "240g x 8bags/cs",
+  "imagePath": "/products/201007.jpg",
+  "sortOrder": 542
+ },
+ {
+  "sku": "201008",
+  "nameEn": "Regent Pandan Cake",
+  "nameZh": "雷珍 蛋糕(香蘭味)",
+  "brand": "雷珍",
+  "category": "",
+  "packSize": "240g x 8bags/cs",
+  "imagePath": "/products/201008.jpg",
+  "sortOrder": 543
+ },
+ {
+  "sku": "201424",
+  "nameEn": "Regent Strawberry Cake",
+  "nameZh": "雷珍 蛋糕(草莓味)",
+  "brand": "雷珍",
+  "category": "",
+  "packSize": "240g x 8bags/cs",
+  "imagePath": "/products/201424.jpg",
+  "sortOrder": 544
+ },
+ {
+  "sku": "0214",
+  "nameEn": "Regent Ube Cake",
+  "nameZh": "雷珍 蛋糕(紫薯味)",
+  "brand": "雷珍",
+  "category": "",
+  "packSize": "210g x 8bags/cs",
+  "imagePath": "/products/0214.jpg",
+  "sortOrder": 545
+ },
+ {
+  "sku": "80616",
+  "nameEn": "Hop Polvoron (Classic)",
+  "nameZh": "Hop 菲律賓奶酥餅 (經典原味)",
+  "brand": "",
+  "category": "",
+  "packSize": "8.25oz x 20boxes/cs",
+  "imagePath": "/products/80616.jpg",
+  "sortOrder": 546
+ },
+ {
+  "sku": "80618",
+  "nameEn": "Hop Polvoron (Cookie&Cream)",
+  "nameZh": "Hop 菲律賓奶酥餅 (奶油曲奇味)",
+  "brand": "",
+  "category": "",
+  "packSize": "8.25oz x 20boxes/cs",
+  "imagePath": "/products/80618.jpg",
+  "sortOrder": 547
+ },
+ {
+  "sku": "80620",
+  "nameEn": "Hop Polvoron (Purple Yam)",
+  "nameZh": "Hop 菲律賓奶酥餅 (紫薯味)",
+  "brand": "",
+  "category": "",
+  "packSize": "8.25oz x 20boxes/cs",
+  "imagePath": "/products/80620.jpg",
+  "sortOrder": 548
+ },
+ {
+  "sku": "81456",
+  "nameEn": "Hop Polvoron (Strawberry)",
+  "nameZh": "Hop 菲律賓奶酥餅 (草莓味)",
+  "brand": "",
+  "category": "",
+  "packSize": "8.25oz x 20boxes/cs",
+  "imagePath": "/products/81456.jpg",
+  "sortOrder": 549
+ },
+ {
+  "sku": "0324",
+  "nameEn": "Stik-O Choco Wafer Sticks",
+  "nameZh": "Stik-O 巧克力威化棒",
+  "brand": "Stik",
+  "category": "",
+  "packSize": "380g x 12jars/cs",
+  "imagePath": "/products/0324.jpg",
+  "sortOrder": 550
+ },
+ {
+  "sku": "0325",
+  "nameEn": "Stik-O Ube Wafer Sticks",
+  "nameZh": "Stik-O 紫薯威化棒",
+  "brand": "Stik",
+  "category": "",
+  "packSize": "380g x 12jars/cs",
+  "imagePath": "/products/0325.jpg",
+  "sortOrder": 551
+ },
+ {
+  "sku": "0327",
+  "nameEn": "Stik-O Strawberry Wafer Sticks",
+  "nameZh": "Stik-O 草莓威化棒",
+  "brand": "Stik",
+  "category": "",
+  "packSize": "380g x 12jars/cs",
+  "imagePath": "/products/0327.jpg",
+  "sortOrder": 552
+ },
+ {
+  "sku": "81250",
+  "nameEn": "Lauras Garlic Toast",
+  "nameZh": "Lauras 蒜蓉吐司",
+  "brand": "",
+  "category": "",
+  "packSize": "200g x 36bags/cs",
+  "imagePath": "/products/81250.jpg",
+  "sortOrder": 553
+ },
+ {
+  "sku": "0229A",
+  "nameEn": "Nagaraya BBQ Cracker Nuts",
+  "nameZh": "Nagaraya 燒烤味花生豆",
+  "brand": "",
+  "category": "",
+  "packSize": "160g x 48bags/cs",
+  "imagePath": "/products/0229A.jpg",
+  "sortOrder": 554
+ },
+ {
+  "sku": "0229B",
+  "nameEn": "Nagaraya Garlic Cracker Nuts",
+  "nameZh": "Nagaraya 蒜香味花生豆",
+  "brand": "",
+  "category": "",
+  "packSize": "160g x 48bags/cs",
+  "imagePath": "/products/0229B.jpg",
+  "sortOrder": 555
+ },
+ {
+  "sku": "0229C",
+  "nameEn": "Nagaraya Hot&Spicy Cracker Nuts",
+  "nameZh": "Nagaraya 香辣味花生豆",
+  "brand": "",
+  "category": "",
+  "packSize": "160g x 48bags/cs",
+  "imagePath": "/products/0229C.jpg",
+  "sortOrder": 556
+ },
+ {
+  "sku": "0229D",
+  "nameEn": "Nagaraya Butter Cracker Nuts",
+  "nameZh": "Nagaraya 原味花生豆",
+  "brand": "",
+  "category": "",
+  "packSize": "160g x 48bags/cs",
+  "imagePath": "/products/0229D.jpg",
+  "sortOrder": 557
+ },
+ {
+  "sku": "200359",
+  "nameEn": "Ding Dong Snack Mix",
+  "nameZh": "叮咚 什錦雜果零食小吃",
+  "brand": "叮咚",
+  "category": "",
+  "packSize": "95g x 60bags/cs",
+  "imagePath": "/products/200359.jpg",
+  "sortOrder": 558
+ },
+ {
+  "sku": "201553",
+  "nameEn": "Ding Dong Snack Mix (Real Garlic Flavor)",
+  "nameZh": "叮咚 什錦雜果零食小吃 (大蒜味)",
+  "brand": "叮咚",
+  "category": "",
+  "packSize": "95g x 60bags/cs",
+  "imagePath": "/products/201553.jpg",
+  "sortOrder": 559
+ },
+ {
+  "sku": "0152C",
+  "nameEn": "Ding Dong-Snack Mix (Hot & Spicy)",
+  "nameZh": "叮咚 什錦雜果零食小吃 (辣味)",
+  "brand": "叮咚 Ding Dong",
+  "category": "",
+  "packSize": "100g x 60bags/cs",
+  "imagePath": "/products/0152C.jpg",
+  "sortOrder": 560
+ },
+ {
+  "sku": "80093",
+  "nameEn": "Ding Dong-Snack Mix (Chips & Curls)",
+  "nameZh": "叮咚 什錦雜果零食小吃 (薯片&脆卷)",
+  "brand": "叮咚 Ding Dong",
+  "category": "",
+  "packSize": "100g x 60bags/cs",
+  "imagePath": "/products/80093.jpg",
+  "sortOrder": 561
+ },
+ {
+  "sku": "80972",
+  "nameEn": "Ding Dong-Snack Mix (Sweet & Spicy)",
+  "nameZh": "叮咚 什錦雜果零食小吃 (甜辣味)",
+  "brand": "叮咚 Ding Dong",
+  "category": "",
+  "packSize": "100g x 60bags/cs",
+  "imagePath": "/products/80972.jpg",
+  "sortOrder": 562
+ },
+ {
+  "sku": "200876",
+  "nameEn": "Nutri Snack Cheeze It Crackers",
+  "nameZh": "營養零食 起司餅乾",
+  "brand": "營養零食",
+  "category": "",
+  "packSize": "95g x 25bags/cs",
+  "imagePath": "/products/200876.jpg",
+  "sortOrder": 563
+ },
+ {
+  "sku": "200786",
+  "nameEn": "Nutri Snack Moby Crunchy Chocolate",
+  "nameZh": "營養零食 莫比脆巧克力",
+  "brand": "營養零食",
+  "category": "",
+  "packSize": "95g x 25bags/cs",
+  "imagePath": "/products/200786.jpg",
+  "sortOrder": 564
+ },
+ {
+  "sku": "200785",
+  "nameEn": "Nutri Snack Moby Caramel Puffs",
+  "nameZh": "營養零食 莫比焦糖泡芙",
+  "brand": "營養零食",
+  "category": "",
+  "packSize": "90g x 25bags/cs",
+  "imagePath": "/products/200785.jpg",
+  "sortOrder": 565
+ },
+ {
+  "sku": "201396",
+  "nameEn": "Nutri Snack Pee Wee Sizzling BBQ Snack",
+  "nameZh": "營養零食 皮威鐵板燒小吃",
+  "brand": "營養零食",
+  "category": "",
+  "packSize": "95g x 25bags/cs",
+  "imagePath": "/products/201396.jpg",
+  "sortOrder": 566
+ },
+ {
+  "sku": "200880",
+  "nameEn": "Nutri Snack Ri-chee Crunch Snack (Milk Flavor)",
+  "nameZh": "營養零食 力芝脆餅 (牛奶口味)",
+  "brand": "營養零食 Nutri Snack Ri",
+  "category": "",
+  "packSize": "60g x 50bags/cs",
+  "imagePath": "/products/200880.png",
+  "sortOrder": 567
+ },
+ {
+  "sku": "PIK01",
+  "nameEn": "Pik-Nik Shoestring Potatoes (Original)",
+  "nameZh": "Pik-Nik 細薯條 (原味)",
+  "brand": "Pik",
+  "category": "",
+  "packSize": "9oz x 12btls/cs",
+  "imagePath": "/products/PIK01.jpg",
+  "sortOrder": 568
+ },
+ {
+  "sku": "PIK02",
+  "nameEn": "Pik-Nik Ketchup Fried Thick Cut Potatoes",
+  "nameZh": "Pik-Nik 細薯條 (番茄醬味)",
+  "brand": "Pik",
+  "category": "",
+  "packSize": "9oz x 12btls/cs",
+  "imagePath": "/products/PIK02.jpg",
+  "sortOrder": 569
+ },
+ {
+  "sku": "PIK03",
+  "nameEn": "Pik-Nik Shoestring Potatoes (Chedddar Cheese)",
+  "nameZh": "Pik-Nik 細薯條 (切達起司)",
+  "brand": "Pik",
+  "category": "",
+  "packSize": "8.5oz x 12btls/cs",
+  "imagePath": "/products/PIK03.jpg",
+  "sortOrder": 570
+ },
+ {
+  "sku": "PIK04",
+  "nameEn": "Pik-Nik Shoestring Potatoes (Less Salt)",
+  "nameZh": "Pik-Nik 細薯條 (少鹽)",
+  "brand": "Pik",
+  "category": "",
+  "packSize": "9oz x 12btls/cs",
+  "imagePath": "/products/PIK04.jpg",
+  "sortOrder": 571
+ },
+ {
+  "sku": "PIK05",
+  "nameEn": "Pik-Nik Shoestring Potatoes (Hot)",
+  "nameZh": "Pik-Nik 細薯條 (辣味)",
+  "brand": "Pik",
+  "category": "",
+  "packSize": "8.5oz x 12btls/cs",
+  "imagePath": "/products/PIK05.jpg",
+  "sortOrder": 572
+ },
+ {
+  "sku": "NORA01",
+  "nameEn": "Nora-Ginataang Mung Bean Dessert",
+  "nameZh": "Nora 綠豆椰奶甜品",
+  "brand": "Nora",
+  "category": "",
+  "packSize": "75g x 12cups/cs",
+  "imagePath": "/products/NORA01.jpg",
+  "sortOrder": 573
+ },
+ {
+  "sku": "NORA02",
+  "nameEn": "Nora-Ginataang Mais Corn Dessert",
+  "nameZh": "Nora 玉米椰奶甜品",
+  "brand": "Nora",
+  "category": "",
+  "packSize": "75g x 12cups/cs",
+  "imagePath": "/products/NORA02.jpg",
+  "sortOrder": 574
+ },
+ {
+  "sku": "NORA03",
+  "nameEn": "Nora-Arroz Caido Chicken Porridge",
+  "nameZh": "Nora 雞肉粥",
+  "brand": "Nora",
+  "category": "",
+  "packSize": "48g x 12cups/cs",
+  "imagePath": "/products/NORA03.jpg",
+  "sortOrder": 575
+ },
+ {
+  "sku": "NORA04",
+  "nameEn": "Nora-Ube Champorado",
+  "nameZh": "Nora 紫芋米粥",
+  "brand": "Nora",
+  "category": "",
+  "packSize": "76g x 12cups/cs",
+  "imagePath": "/products/NORA04.jpg",
+  "sortOrder": 576
+ },
+ {
+  "sku": "NORA05",
+  "nameEn": "Nora-Choco Champorado",
+  "nameZh": "Nora 巧克力粥",
+  "brand": "Nora",
+  "category": "",
+  "packSize": "90g x 12cups/cs",
+  "imagePath": "/products/NORA05.jpg",
+  "sortOrder": 577
+ },
+ {
+  "sku": "NORA06",
+  "nameEn": "Nora-Chicken Macaroni Sopas",
+  "nameZh": "Nora 雞湯通心粉",
+  "brand": "Nora",
+  "category": "",
+  "packSize": "58g x 12cups/cs",
+  "imagePath": "/products/NORA06.jpg",
+  "sortOrder": 578
+ },
+ {
+  "sku": "NORA07",
+  "nameEn": "Nora-Beef Goto",
+  "nameZh": "Nora 牛肚粥",
+  "brand": "Nora",
+  "category": "",
+  "packSize": "47g x 12cups/cs",
+  "imagePath": "/products/NORA07.jpg",
+  "sortOrder": 579
+ },
+ {
+  "sku": "NORA08",
+  "nameEn": "Nora Nora-Sinigang Ramen",
+  "nameZh": "酸子蝦麵",
+  "brand": "酸子蝦麵 Nora Nora",
+  "category": "",
+  "packSize": "83g x 6bowls/cs",
+  "imagePath": "/products/NORA08.jpg",
+  "sortOrder": 580
+ },
+ {
+  "sku": "NORA09",
+  "nameEn": "Nora Nora-Kare Kare Ramen",
+  "nameZh": "牛肉花生醬麵",
+  "brand": "牛肉花生醬麵 Nora Nora",
+  "category": "",
+  "packSize": "96g x 6bowls/cs",
+  "imagePath": "/products/NORA09.jpg",
+  "sortOrder": 581
+ },
+ {
+  "sku": "NORA10",
+  "nameEn": "Nora Nora-Pancit Canton Noodle",
+  "nameZh": "菲式炒麵",
+  "brand": "菲式炒麵 Nora Nora",
+  "category": "",
+  "packSize": "95g x 6bowls/cs",
+  "imagePath": "/products/NORA10.jpg",
+  "sortOrder": 582
+ },
+ {
+  "sku": "JU-C10010",
+  "nameEn": "Jubes Nata De Coco (Original Pandan Flavor)",
+  "nameZh": "朱比斯 斑斕椰果",
+  "brand": "朱比斯",
+  "category": "",
+  "packSize": "12.7oz(360g) x 24bags/cs",
+  "imagePath": "/products/JU-C10010.jpg",
+  "sortOrder": 583
+ },
+ {
+  "sku": "JU-C10020",
+  "nameEn": "Jubes Nata De Coco (Lychee Flavor)",
+  "nameZh": "朱比斯 荔枝椰果",
+  "brand": "朱比斯",
+  "category": "",
+  "packSize": "12.7oz(360g) x 24bags/cs",
+  "imagePath": "/products/JU-C10020.jpg",
+  "sortOrder": 584
+ },
+ {
+  "sku": "JU-C10030",
+  "nameEn": "Jubes Nata De Coco (Mango Flavor)",
+  "nameZh": "朱比斯 芒果椰果",
+  "brand": "朱比斯",
+  "category": "",
+  "packSize": "12.7oz(360g) x 24bags/cs",
+  "imagePath": "/products/JU-C10030.jpg",
+  "sortOrder": 585
+ },
+ {
+  "sku": "JU-C10040",
+  "nameEn": "Jubes Nata De Coco (Strawberry Flavor)",
+  "nameZh": "朱比斯 草莓椰果",
+  "brand": "朱比斯",
+  "category": "",
+  "packSize": "12.7oz(360g) x 24bags/cs",
+  "imagePath": "/products/JU-C10040.jpg",
+  "sortOrder": 586
+ },
+ {
+  "sku": "JU-C10050",
+  "nameEn": "Jubes Nata De Coco (Grape Flavor)",
+  "nameZh": "朱比斯 葡萄椰果",
+  "brand": "朱比斯",
+  "category": "",
+  "packSize": "12.7oz(360g) x 24bags/cs",
+  "imagePath": "/products/JU-C10050.jpg",
+  "sortOrder": 587
+ },
+ {
+  "sku": "10190",
+  "nameEn": "Jans Durian Wafer (Tin)",
+  "nameZh": "詹斯 榴蓮威化餅(罐)",
+  "brand": "詹斯",
+  "category": "",
+  "packSize": "12.34oz x 6tins/cs",
+  "imagePath": "/products/10190.jpg",
+  "sortOrder": 588
+ },
+ {
+  "sku": "10250",
+  "nameEn": "Jans Durian Wafer (Foil)",
+  "nameZh": "詹斯 榴蓮威化餅(鋁箔袋)",
+  "brand": "詹斯",
+  "category": "",
+  "packSize": "5.29oz x 24bags/cs",
+  "imagePath": "/products/10250.jpg",
+  "sortOrder": 589
+ },
+ {
+  "sku": "10020",
+  "nameEn": "Royal Danish-Butter Cookies",
+  "nameZh": "丹麥皇家 黃油曲奇餅",
+  "brand": "丹麥皇家 Royal Danish",
+  "category": "",
+  "packSize": "32oz x 6cans/cs",
+  "imagePath": "/products/10020.jpg",
+  "sortOrder": 590
+ },
+ {
+  "sku": "10050",
+  "nameEn": "Royal Danish-Butter Cookies (Giftbox)",
+  "nameZh": "丹麥皇家黃油曲奇餅(禮盒裝)",
+  "brand": "丹麥皇家黃油曲奇餅(禮盒裝) Royal Danish",
+  "category": "",
+  "packSize": "32oz x 6boxes/cs",
+  "imagePath": "/products/10050.jpg",
+  "sortOrder": 591
+ },
+ {
+  "sku": "DK-C20211",
+  "nameEn": "Deka-Mini Wafer Bite (Ube)",
+  "nameZh": "Deka 迷你威化餅(紫薯味)",
+  "brand": "Deka",
+  "category": "",
+  "packSize": "7oz x 24bags/cs",
+  "imagePath": "/products/DK-C20211.jpg",
+  "sortOrder": 592
+ },
+ {
+  "sku": "40030N",
+  "nameEn": "Jans-Sweet Cow Sweetened Condensed Creamer",
+  "nameZh": "詹斯 甜牛甜煉乳",
+  "brand": "詹斯 Jans",
+  "category": "",
+  "packSize": "13.23oz x 24cans/cs",
+  "imagePath": "/products/40030N.jpg",
+  "sortOrder": 593
+ },
+ {
+  "sku": "40040N",
+  "nameEn": "Jans-Sweet Cow Evaporated Filled Milk",
+  "nameZh": "詹斯 甜牛淡奶",
+  "brand": "詹斯 Jans",
+  "category": "",
+  "packSize": "12oz x 24cans/cs",
+  "imagePath": "/products/40040N.jpg",
+  "sortOrder": 594
+ },
+ {
+  "sku": "40060N",
+  "nameEn": "Jans-Ube Sweet Cow Sweetened Condensed Creamer",
+  "nameZh": "詹斯 甜牛紫薯味甜煉乳",
+  "brand": "詹斯 Jans",
+  "category": "",
+  "packSize": "13.4oz x 24cans/cs",
+  "imagePath": "/products/40060N.jpg",
+  "sortOrder": 595
+ },
+ {
+  "sku": "MI-C10320",
+  "nameEn": "Sedaap Mie Instant Noodle (Sotomie Flavor)",
+  "nameZh": "喜達 青檸味濃湯泡麵",
+  "brand": "喜達",
+  "category": "",
+  "packSize": "2.65oz(75g) x 5bags/pk; 6pks/cs",
+  "imagePath": "/products/MI-C10320.jpg",
+  "sortOrder": 596
+ },
+ {
+  "sku": "MI-C10021",
+  "nameEn": "Sedaap Mie Special Fried Noodle",
+  "nameZh": "喜達 特色幹撈麵",
+  "brand": "喜達",
+  "category": "",
+  "packSize": "3.2oz(90g) x 5bags/pk; 6pks/cs",
+  "imagePath": "/products/MI-C10021.png",
+  "sortOrder": 597
+ },
+ {
+  "sku": "MI-C10180",
+  "nameEn": "Sedaap Mie Instant Fried Noodle (Korean Spicy Chicken)",
+  "nameZh": "喜達 韓國辣雞幹撈麵",
+  "brand": "喜達",
+  "category": "",
+  "packSize": "3oz x 5bags/pk; 8pks/cs",
+  "imagePath": "/products/MI-C10180.png",
+  "sortOrder": 598
+ },
+ {
+  "sku": "MI-C10200",
+  "nameEn": "Sedaap Mie Instant Noodle (Korean Spicy Chicken Soup)",
+  "nameZh": "喜達 韓國辣雞湯泡麵",
+  "brand": "喜達",
+  "category": "",
+  "packSize": "3oz x 5bags/pk; 8pks/cs",
+  "imagePath": "/products/MI-C10200.png",
+  "sortOrder": 599
+ },
+ {
+  "sku": "903351",
+  "nameEn": "Sauce Dish 4\" 30pcs/box",
+  "nameZh": "骨質瓷 味碟 4\"",
+  "brand": "骨質瓷",
+  "category": "",
+  "packSize": "",
+  "imagePath": "/products/903351.jpg",
+  "sortOrder": 600
+ }
+]

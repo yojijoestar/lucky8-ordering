@@ -1,0 +1,90 @@
+// Dev uses SQLite (file:./dev.db); production uses Postgres (Neon).
+// Keep this schema portable: string constants instead of DB enums.
+// Role: ADMIN | RETAILER
+// Order.status: SUBMITTED | CONFIRMED | FULFILLED | CANCELLED
+// Invoice.status: UNPAID | PARTIAL | PAID
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id           Int       @id @default(autoincrement())
+  email        String    @unique
+  passwordHash String
+  role         String    @default("RETAILER")
+  storeName    String
+  contactName  String    @default("")
+  phone        String    @default("")
+  address      String    @default("")
+  active       Boolean   @default(true)
+  createdAt    DateTime  @default(now())
+  orders       Order[]
+  invoices     Invoice[]
+}
+
+model Product {
+  id         Int         @id @default(autoincrement())
+  sku        String      @unique
+  nameEn     String
+  nameZh     String
+  brand      String      @default("")
+  category   String      @default("")
+  packSize   String      @default("")
+  priceCents Int?
+  imagePath  String?
+  active     Boolean     @default(true)
+  sortOrder  Int         @default(0)
+  orderItems OrderItem[]
+}
+
+model Order {
+  id        Int         @id @default(autoincrement())
+  userId    Int
+  user      User        @relation(fields: [userId], references: [id])
+  status    String      @default("SUBMITTED")
+  note      String      @default("")
+  createdAt DateTime    @default(now())
+  items     OrderItem[]
+  invoices  Invoice[]
+
+  @@index([userId])
+}
+
+model OrderItem {
+  orderId        Int
+  order          Order   @relation(fields: [orderId], references: [id])
+  productId      Int
+  product        Product @relation(fields: [productId], references: [id])
+  quantity       Int
+  unitPriceCents Int?
+  sku            String
+  nameEn         String
+  nameZh         String
+
+  @@id([orderId, productId])
+  @@index([productId])
+}
+
+model Invoice {
+  id            Int       @id @default(autoincrement())
+  invoiceNumber String    @unique
+  userId        Int
+  user          User      @relation(fields: [userId], references: [id])
+  orderId       Int?
+  order         Order?    @relation(fields: [orderId], references: [id])
+  amountCents   Int
+  issuedAt      DateTime
+  dueAt         DateTime
+  status        String    @default("UNPAID")
+  paidAt        DateTime?
+  note          String    @default("")
+
+  @@index([userId])
+  @@index([status])
+}

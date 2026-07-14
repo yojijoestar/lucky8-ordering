@@ -1,36 +1,71 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Lucky 8 Trading — Wholesale Ordering Platform
 
-## Getting Started
+Web platform for local retailers to order snack inventory in bulk from
+Lucky 8 Trading LLC (Hayward, CA), replacing phone orders written down by
+hand. Retailers browse the photo catalog, add cases to a cart, and submit
+orders; the distributor manages orders, prices, invoices, and retailer
+accounts from an admin dashboard. UI is bilingual (English / 中文).
 
-First, run the development server:
+## Stack
+
+- Next.js (App Router) + TypeScript + Tailwind CSS — one deployable app
+- Prisma ORM — SQLite in dev, Postgres (Neon) in production
+- Cookie-session auth (bcrypt password hashing), roles `ADMIN` / `RETAILER`
+- Product photos are static files in `public/products/`, parsed from the
+  supplier catalog PDF
+- Order email alerts: console in dev, Resend API in production
+
+## Local development
 
 ```bash
+npm install
+npx prisma db push        # creates prisma/dev.db (SQLite)
+npx prisma db seed        # seeds users + products from data/catalog.json
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Seeded logins (change in production!):
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+| Role     | Email                    | Password    |
+| -------- | ------------------------ | ----------- |
+| Admin    | admin@lucky8trading.com  | lucky8admin |
+| Retailer | demo1@example.com        | demo1234    |
+| Retailer | demo2@example.com        | demo1234    |
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Catalog import (from the supplier PDF)
 
-## Learn More
+```bash
+python3 -m venv .venv && .venv/bin/pip install pymupdf
+.venv/bin/python scripts/import_catalog.py "/path/to/Catalog Part 1.pdf"
+npx prisma db seed        # upserts by SKU — idempotent
+```
 
-To learn more about Next.js, take a look at the following resources:
+- Writes `data/catalog.json`, photos to `public/products/<sku>.jpg`, and an
+  issue report to `data/import_report.txt` (products with no photo/name).
+- Re-run with additional catalog parts; products merge by SKU.
+- Prices are not in the PDF. Set them in **Admin → Catalog**, or run a bulk
+  CSV price import when the client provides a price list.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Deploying free (Render + Neon)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+1. **Neon** (free): create a project, copy the Postgres connection string.
+2. In `prisma/schema.prisma`, change `provider = "sqlite"` to
+   `provider = "postgresql"`.
+3. **Render** (free): new Web Service from this repo.
+   - Build: `npm install && npx prisma db push && npm run build`
+   - Start: `npm start`
+   - Env vars: `DATABASE_URL` (Neon), `SESSION_SECRET` (long random string),
+     `ORDER_ALERT_EMAIL`, optionally `RESEND_API_KEY` + `ORDER_ALERT_FROM`.
+4. Seed production once: `DATABASE_URL=... npx prisma db seed`, then change
+   the admin password.
 
-## Deploy on Vercel
+Free-tier caveat: Render free services sleep after 15 min idle; first visit
+takes ~30–60 s to wake. $7/mo removes this when the client adopts.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Data model
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+`User 1—* Order 1—* OrderItem *—1 Product`, `User 1—* Invoice`,
+`Invoice *—0..1 Order`. OrderItem uses a composite PK `(orderId, productId)`
+and snapshots price/name at order time so history survives price changes.
+Order numbers are formatted from the id (`ORD-0043`); invoice numbers are
+admin-typed to match the client's accounting books.

@@ -1,0 +1,6 @@
+NO IMAGE: 77590N (page 23)
+NO IMAGE: 77591N (page 23)
+NO IMAGE: FAN04 (page 39)
+NO IMAGE: FAN05 (page 40)
+
+parsed 601 entries (2 duplicate SKUs in this run), 599 total in catalog.json, 4 issues
