@@ -1,0 +1,16 @@
+services:
+  - type: web
+    name: lucky8-ordering
+    runtime: node
+    plan: free
+    buildCommand: npm install && npx prisma generate && npm run build
+    startCommand: npm start
+    envVars:
+      - key: DATABASE_URL
+        sync: false
+      - key: SESSION_SECRET
+        sync: false
+      - key: ORDER_ALERT_EMAIL
+        sync: false
+      - key: RESEND_API_KEY
+        sync: false
