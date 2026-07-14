@@ -20,7 +20,7 @@ async function seedUsers() {
   const users = [
     {
       email: "admin@lucky8trading.com",
-      password: "lucky8admin",
+      password: process.env.ADMIN_PASSWORD ?? "lucky8admin",
       role: "ADMIN",
       storeName: "Lucky 8 Trading",
       contactName: "Admin",
