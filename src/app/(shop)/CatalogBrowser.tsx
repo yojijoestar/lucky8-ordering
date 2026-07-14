@@ -1,6 +1,6 @@
 "use client";
 
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 import { t, productName, type Lang } from "@/lib/i18n";
 import { formatMoney } from "@/lib/format";
 import { useCart } from "@/components/cart";
@@ -16,6 +16,8 @@ type P = {
   imagePath: string | null;
 };
 
+const BATCH = 24;
+
 export default function CatalogBrowser({
   products,
   lang,
@@ -25,6 +27,8 @@ export default function CatalogBrowser({
 }) {
   const [query, setQuery] = useState("");
   const [brand, setBrand] = useState("");
+  const [visibleCount, setVisibleCount] = useState(BATCH);
+  const sentinelRef = useRef<HTMLDivElement>(null);
 
   const topBrands = useMemo(() => {
     const counts = new Map<string, number>();
@@ -54,6 +58,45 @@ export default function CatalogBrowser({
       );
     });
   }, [products, query, brand]);
+
+  // Render cards in batches: first batch paints immediately, the rest
+  // stream in as the sentinel below the grid scrolls into view.
+  useEffect(() => {
+    setVisibleCount(BATCH);
+  }, [query, brand]);
+
+  useEffect(() => {
+    const el = sentinelRef.current;
+    if (!el || visibleCount >= filtered.length) return;
+    const loadMore = () =>
+      setVisibleCount((n) => Math.min(n + BATCH, filtered.length));
+    // Recreated whenever visibleCount changes so it fires again
+    // immediately if the sentinel is still within the margin zone.
+    const observer = new IntersectionObserver(
+      (entries) => {
+        if (entries[0].isIntersecting) loadMore();
+      },
+      { rootMargin: "600px" }
+    );
+    observer.observe(el);
+    // Scroll fallback: browsers throttle IntersectionObserver in
+    // background/embedded tabs; a passive scroll check always works.
+    let lastCheck = 0;
+    const onScroll = () => {
+      const now = Date.now();
+      if (now - lastCheck < 120) return; // throttle without rAF —
+      lastCheck = now; // rAF is paused in hidden/embedded tabs
+      const rect = el.getBoundingClientRect();
+      if (rect.top < (window.innerHeight || 720) + 600) loadMore();
+    };
+    window.addEventListener("scroll", onScroll, { passive: true });
+    return () => {
+      observer.disconnect();
+      window.removeEventListener("scroll", onScroll);
+    };
+  }, [filtered.length, visibleCount]);
+
+  const visible = filtered.slice(0, visibleCount);
 
   const chip = (active: boolean) =>
     `px-3 py-1 rounded-full text-xs whitespace-nowrap transition-colors ${
@@ -104,10 +147,24 @@ export default function CatalogBrowser({
       </div>
 
       <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-3">
-        {filtered.map((p) => (
+        {visible.map((p) => (
           <ProductCard key={p.id} p={p} lang={lang} />
         ))}
       </div>
+      <div ref={sentinelRef} className="h-1" aria-hidden="true" />
+      {visibleCount < filtered.length && (
+        <div className="text-center py-4">
+          <button
+            type="button"
+            onClick={() =>
+              setVisibleCount((n) => Math.min(n + BATCH, filtered.length))
+            }
+            className="text-xs text-neutral-500 border border-neutral-300 rounded-full px-4 py-1.5 hover:bg-neutral-100"
+          >
+            {visibleCount} / {filtered.length} ↓
+          </button>
+        </div>
+      )}
       {filtered.length === 0 && (
         <p className="text-sm text-neutral-500 py-12 text-center">
           {lang === "zh" ? "沒有符合的產品" : "No matching products"}
