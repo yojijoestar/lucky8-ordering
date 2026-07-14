@@ -5,6 +5,7 @@ import { revalidatePath } from "next/cache";
 import { redirect } from "next/navigation";
 import { prisma } from "@/lib/db";
 import { getActiveUser } from "@/lib/session";
+import { bustProductCache } from "@/lib/catalog-cache";
 
 const ORDER_STATUSES = ["SUBMITTED", "CONFIRMED", "FULFILLED", "CANCELLED"];
 
@@ -138,6 +139,7 @@ export async function updateProduct(formData: FormData) {
   const priceCents = priceRaw === "" ? null : Math.round(parseFloat(priceRaw) * 100);
   if (priceCents != null && (!Number.isFinite(priceCents) || priceCents < 0)) return;
   await prisma.product.update({ where: { id }, data: { priceCents, active } });
+  bustProductCache();
   revalidatePath("/admin/catalog");
   revalidatePath("/");
 }

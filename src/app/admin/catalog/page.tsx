@@ -1,31 +1,40 @@
-import { prisma } from "@/lib/db";
+import Link from "next/link";
+import { getAllProducts } from "@/lib/catalog-cache";
 import { getLang } from "@/lib/lang-server";
 import { t } from "@/lib/i18n";
 import { updateProduct } from "@/app/actions/admin";
 
 export const dynamic = "force-dynamic";
 
+const PAGE_SIZE = 100;
+
 export default async function AdminCatalogPage({
   searchParams,
 }: {
-  searchParams: Promise<{ q?: string }>;
+  searchParams: Promise<{ q?: string; page?: string }>;
 }) {
-  const [{ q }, lang] = await Promise.all([searchParams, getLang()]);
-  const query = (q ?? "").trim();
+  const [{ q, page }, lang, all] = await Promise.all([
+    searchParams,
+    getLang(),
+    getAllProducts(),
+  ]);
+  const query = (q ?? "").trim().toLowerCase();
 
-  const products = await prisma.product.findMany({
-    where: query
-      ? {
-          OR: [
-            { sku: { contains: query } },
-            { nameEn: { contains: query } },
-            { nameZh: { contains: query } },
-            { brand: { contains: query } },
-          ],
-        }
-      : {},
-    orderBy: { sortOrder: "asc" },
-  });
+  const matches = query
+    ? all.filter(
+        (p) =>
+          p.sku.toLowerCase().includes(query) ||
+          p.nameEn.toLowerCase().includes(query) ||
+          p.nameZh.includes((q ?? "").trim()) ||
+          p.brand.toLowerCase().includes(query)
+      )
+    : all;
+
+  const pageCount = Math.max(1, Math.ceil(matches.length / PAGE_SIZE));
+  const pageNum = Math.min(Math.max(1, Number(page) || 1), pageCount);
+  const products = matches.slice((pageNum - 1) * PAGE_SIZE, pageNum * PAGE_SIZE);
+  const pageLink = (n: number) =>
+    `/admin/catalog?${new URLSearchParams({ ...(q ? { q } : {}), page: String(n) })}`;
 
   return (
     <div>
@@ -38,7 +47,7 @@ export default async function AdminCatalogPage({
           className="w-full max-w-md border border-neutral-300 rounded-md px-3 py-2 text-sm bg-white focus:outline-none focus:ring-2 focus:ring-neutral-400"
         />
         <span className="self-center text-xs text-neutral-400 whitespace-nowrap">
-          {products.length} / {await prisma.product.count()}
+          {matches.length} / {all.length}
         </span>
       </form>
 
@@ -105,6 +114,27 @@ export default async function AdminCatalogPage({
           </tbody>
         </table>
       </div>
+      {pageCount > 1 && (
+        <div className="flex items-center justify-center gap-3 mt-4 text-sm">
+          {pageNum > 1 ? (
+            <Link href={pageLink(pageNum - 1)} className="border border-neutral-300 rounded-md px-3 py-1 hover:bg-neutral-100">
+              ←
+            </Link>
+          ) : (
+            <span className="border border-neutral-200 rounded-md px-3 py-1 text-neutral-300">←</span>
+          )}
+          <span className="text-neutral-500">
+            {(pageNum - 1) * PAGE_SIZE + 1}–{Math.min(pageNum * PAGE_SIZE, matches.length)} / {matches.length}
+          </span>
+          {pageNum < pageCount ? (
+            <Link href={pageLink(pageNum + 1)} className="border border-neutral-300 rounded-md px-3 py-1 hover:bg-neutral-100">
+              →
+            </Link>
+          ) : (
+            <span className="border border-neutral-200 rounded-md px-3 py-1 text-neutral-300">→</span>
+          )}
+        </div>
+      )}
     </div>
   );
 }

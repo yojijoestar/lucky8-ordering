@@ -1,0 +1,16 @@
+name: Keep demo awake
+
+# Render's free tier spins the service down after 15 idle minutes
+# (30-60s cold start on the next visit). Pinging every 10 minutes
+# keeps it warm; free-tier hours (750/mo) cover 24/7 uptime.
+on:
+  schedule:
+    - cron: "*/10 * * * *"
+  workflow_dispatch:
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Ping health endpoint
+        run: curl -fsS --max-time 90 --retry 2 https://lucky8-ordering.onrender.com/api/health
