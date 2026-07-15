@@ -40,7 +40,7 @@ export default async function AdminOrderDetail({
           ← {t(lang, "orders")}
         </Link>
         <StatusBadge label={t(lang, order.status as TKey)} status={order.status} />
-        <div className="ml-auto flex items-center gap-2">
+        <div className="ml-auto flex items-center gap-2 flex-wrap">
           <PrintButton label={t(lang, "print")} />
           <a href={`/admin/orders/${order.id}/csv`} className={actionBtn}>
             ⬇ {t(lang, "exportCsv")}
@@ -70,8 +70,8 @@ export default async function AdminOrderDetail({
           )}
           <DeleteOrderButton
             orderId={order.id}
-            label={t(lang, "deleteOrder")}
-            confirmText={t(lang, "deleteOrderConfirm")}
+            orderNumber={orderNumber(order.id)}
+            lang={lang}
           />
         </div>
       </div>
