@@ -71,6 +71,9 @@ const en = {
   markConfirmed: "Mark confirmed",
   markFulfilled: "Mark fulfilled",
   markCancelled: "Cancel order",
+  deleteOrder: "Delete permanently",
+  deleteOrderConfirm:
+    "Permanently delete this order? Its line items are erased and this cannot be undone. Linked invoices are kept but unlinked.",
   print: "Print",
   exportCsv: "CSV",
   pickSheet: "Pick sheet",
@@ -191,6 +194,9 @@ const zh: Record<keyof typeof en, string> = {
   markConfirmed: "標記已確認",
   markFulfilled: "標記已完成",
   markCancelled: "取消訂單",
+  deleteOrder: "永久刪除",
+  deleteOrderConfirm:
+    "確定要永久刪除此訂單？訂單明細將被清除且無法復原。已關聯的發票會保留但解除關聯。",
   print: "列印",
   exportCsv: "CSV",
   pickSheet: "揀貨單",

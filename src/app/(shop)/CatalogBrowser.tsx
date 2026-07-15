@@ -215,38 +215,38 @@ function ProductCard({ p, lang }: { p: P; lang: Lang }) {
         )}
       </div>
       <div className="p-3 pt-2 flex flex-col flex-1 border-t border-neutral-100">
-        <p className="text-[11px] text-neutral-400 font-mono">{p.sku}</p>
+        <p className="text-[11px] text-neutral-500 font-mono">{p.sku}</p>
         <p className="text-sm font-medium text-neutral-900 leading-snug">
           {names.primary}
         </p>
         {names.secondary && (
-          <p className="text-xs text-neutral-500 leading-snug">{names.secondary}</p>
+          <p className="text-xs text-neutral-600 leading-snug">{names.secondary}</p>
         )}
-        <p className="text-[11px] text-neutral-400 mt-1">{p.packSize}</p>
+        <p className="text-[11px] text-neutral-500 mt-1">{p.packSize}</p>
         <div className="flex items-center justify-between mt-2">
           {price ? (
-            <span className="text-sm font-medium">
+            <span className="text-sm font-medium text-neutral-900">
               {price}
-              <span className="text-[11px] text-neutral-400 font-normal">
+              <span className="text-[11px] text-neutral-500 font-normal">
                 {t(lang, "perCase")}
               </span>
             </span>
           ) : (
-            <span className="text-xs text-neutral-400">{t(lang, "callForPrice")}</span>
+            <span className="text-xs text-neutral-500">{t(lang, "callForPrice")}</span>
           )}
           <div className="flex items-center border border-neutral-300 rounded-md text-sm">
             <button
               type="button"
-              className="px-2 py-0.5 text-neutral-500 hover:bg-neutral-100"
+              className="px-2 py-0.5 text-neutral-600 hover:bg-neutral-100"
               onClick={() => setQty(Math.max(1, qty - 1))}
               aria-label="decrease"
             >
               −
             </button>
-            <span className="px-1.5 min-w-6 text-center">{qty}</span>
+            <span className="px-1.5 min-w-6 text-center text-neutral-900">{qty}</span>
             <button
               type="button"
-              className="px-2 py-0.5 text-neutral-500 hover:bg-neutral-100"
+              className="px-2 py-0.5 text-neutral-600 hover:bg-neutral-100"
               onClick={() => setQty(qty + 1)}
               aria-label="increase"
             >

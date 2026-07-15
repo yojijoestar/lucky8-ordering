@@ -7,6 +7,7 @@ import { formatDate, formatMoney, orderNumber } from "@/lib/format";
 import { updateOrderStatus } from "@/app/actions/admin";
 import StatusBadge from "@/components/StatusBadge";
 import PrintButton from "./PrintButton";
+import DeleteOrderButton from "./DeleteOrderButton";
 
 export const dynamic = "force-dynamic";
 
@@ -67,6 +68,11 @@ export default async function AdminOrderDetail({
               </button>
             </form>
           )}
+          <DeleteOrderButton
+            orderId={order.id}
+            label={t(lang, "deleteOrder")}
+            confirmText={t(lang, "deleteOrderConfirm")}
+          />
         </div>
       </div>
 

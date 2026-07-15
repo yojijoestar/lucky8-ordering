@@ -25,6 +25,22 @@ export async function updateOrderStatus(formData: FormData) {
   revalidatePath(`/admin/orders/${id}`);
 }
 
+export async function deleteOrder(formData: FormData) {
+  await requireAdmin();
+  const id = Number(formData.get("orderId"));
+  const order = await prisma.order.findUnique({ where: { id } });
+  if (!order) return;
+  // Invoices are financial records — never delete them implicitly.
+  // Keep them as standalone per-retailer invoices instead.
+  await prisma.$transaction([
+    prisma.invoice.updateMany({ where: { orderId: id }, data: { orderId: null } }),
+    prisma.orderItem.deleteMany({ where: { orderId: id } }),
+    prisma.order.delete({ where: { id } }),
+  ]);
+  revalidatePath("/admin/orders");
+  redirect("/admin/orders");
+}
+
 export async function createInvoice(
   _prev: { error: string } | null,
   formData: FormData

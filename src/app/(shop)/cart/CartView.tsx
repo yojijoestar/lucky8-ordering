@@ -58,59 +58,69 @@ export default function CartView({ lang }: { lang: Lang }) {
         {cart.items.map((i) => {
           const names = productName(lang, i);
           return (
-            <div key={i.productId} className="flex items-center gap-3 py-3">
+            // Narrow screens can't fit name + stepper + total on one line,
+            // so the controls wrap onto a second row instead of truncating
+            // the product name to nothing.
+            <div
+              key={i.productId}
+              className="grid grid-cols-[auto_1fr_auto] items-center gap-x-3 gap-y-2 py-3 sm:flex"
+            >
               <div className="w-12 h-12 shrink-0 rounded-md bg-neutral-50 border border-neutral-100 flex items-center justify-center overflow-hidden">
                 {i.imagePath ? (
                   // eslint-disable-next-line @next/next/no-img-element
                   <img src={i.imagePath} alt="" className="max-h-full max-w-full object-contain" />
                 ) : (
-                  <span className="text-[9px] text-neutral-300">{i.sku}</span>
+                  <span className="text-[9px] text-neutral-400">{i.sku}</span>
                 )}
               </div>
-              <div className="flex-1 min-w-0">
-                <p className="text-sm font-medium leading-snug truncate">
+              <div className="min-w-0 sm:flex-1">
+                <p className="text-sm font-medium leading-snug text-neutral-900">
                   {names.primary}{" "}
-                  <span className="text-[11px] text-neutral-400 font-mono font-normal">
+                  <span className="text-[11px] text-neutral-500 font-mono font-normal">
                     {i.sku}
                   </span>
                 </p>
-                <p className="text-xs text-neutral-500 truncate">
+                <p className="text-xs text-neutral-600">
                   {i.priceCents != null
                     ? `${formatMoney(i.priceCents)}${t(lang, "perCase")}`
                     : t(lang, "priceTbdNote")}
                   {i.packSize ? ` · ${i.packSize}` : ""}
                 </p>
               </div>
-              <div className="flex items-center border border-neutral-300 rounded-md text-sm">
-                <button
-                  type="button"
-                  className="px-2 py-0.5 text-neutral-500 hover:bg-neutral-100"
-                  onClick={() => cart.setQty(i.productId, i.qty - 1)}
-                >
-                  −
-                </button>
-                <span className="px-1.5 min-w-6 text-center">{i.qty}</span>
-                <button
-                  type="button"
-                  className="px-2 py-0.5 text-neutral-500 hover:bg-neutral-100"
-                  onClick={() => cart.setQty(i.productId, i.qty + 1)}
-                >
-                  +
-                </button>
-              </div>
-              <span className="text-sm font-medium w-20 text-right">
-                {i.priceCents != null
-                  ? formatMoney(i.priceCents * i.qty)
-                  : t(lang, "tbd")}
-              </span>
               <button
                 type="button"
                 onClick={() => cart.remove(i.productId)}
-                className="text-neutral-300 hover:text-red-600 text-sm px-1"
+                className="text-neutral-400 hover:text-red-600 text-sm px-1 self-start sm:order-last sm:self-auto"
                 aria-label={t(lang, "remove")}
               >
                 ✕
               </button>
+              <div className="col-start-2 col-span-2 flex items-center justify-between gap-3 sm:contents">
+                <div className="flex items-center border border-neutral-300 rounded-md text-sm">
+                  <button
+                    type="button"
+                    className="px-2.5 py-1 text-neutral-600 hover:bg-neutral-100"
+                    onClick={() => cart.setQty(i.productId, i.qty - 1)}
+                  >
+                    −
+                  </button>
+                  <span className="px-1.5 min-w-6 text-center text-neutral-900">
+                    {i.qty}
+                  </span>
+                  <button
+                    type="button"
+                    className="px-2.5 py-1 text-neutral-600 hover:bg-neutral-100"
+                    onClick={() => cart.setQty(i.productId, i.qty + 1)}
+                  >
+                    +
+                  </button>
+                </div>
+                <span className="text-sm font-medium text-neutral-900 sm:w-20 sm:text-right">
+                  {i.priceCents != null
+                    ? formatMoney(i.priceCents * i.qty)
+                    : t(lang, "tbd")}
+                </span>
+              </div>
             </div>
           );
         })}
