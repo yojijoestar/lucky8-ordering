@@ -42,7 +42,7 @@ export default function DeleteOrderButton({
       <button
         type="button"
         onClick={() => setOpen(true)}
-        className="text-xs border border-neutral-300 rounded-md px-3 py-1.5 hover:bg-neutral-100 whitespace-nowrap"
+        className="text-xs border border-neutral-300 rounded-md px-3 py-1.5 hover:bg-neutral-100 whitespace-nowrap text-red-700"
       >
         {t(lang, "deleteOrder")}
       </button>
