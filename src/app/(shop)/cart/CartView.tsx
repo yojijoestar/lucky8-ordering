@@ -96,25 +96,12 @@ export default function CartView({ lang }: { lang: Lang }) {
                 ✕
               </button>
               <div className="col-start-2 col-span-2 flex items-center justify-between gap-3 sm:contents">
-                <div className="flex items-center border border-neutral-300 rounded-md text-sm">
-                  <button
-                    type="button"
-                    className="px-2.5 py-1 text-neutral-600 hover:bg-neutral-100"
-                    onClick={() => cart.setQty(i.productId, i.qty - 1)}
-                  >
-                    −
-                  </button>
-                  <span className="px-1.5 min-w-6 text-center text-neutral-900">
-                    {i.qty}
-                  </span>
-                  <button
-                    type="button"
-                    className="px-2.5 py-1 text-neutral-600 hover:bg-neutral-100"
-                    onClick={() => cart.setQty(i.productId, i.qty + 1)}
-                  >
-                    +
-                  </button>
-                </div>
+                <QtyStepper
+                  qty={i.qty}
+                  label={t(lang, "qty")}
+                  onChange={(n) => cart.setQty(i.productId, n)}
+                  onStep={(d) => cart.changeQty(i.productId, d)}
+                />
                 <span className="text-sm font-medium text-neutral-900 sm:w-20 sm:text-right">
                   {i.priceCents != null
                     ? formatMoney(i.priceCents * i.qty)
@@ -161,6 +148,65 @@ export default function CartView({ lang }: { lang: Lang }) {
           {t(lang, "noPaymentNote")}
         </p>
       </div>
+    </div>
+  );
+}
+
+// Typing clears the field momentarily, which would otherwise drop the
+// line from the cart (qty 0 removes it), so hold the draft locally and
+// only push valid numbers up to the shared cart state.
+function QtyStepper({
+  qty,
+  label,
+  onChange,
+  onStep,
+}: {
+  qty: number;
+  label: string;
+  onChange: (n: number) => void;
+  onStep: (delta: number) => void;
+}) {
+  const [draft, setDraft] = useState<string | null>(null);
+  const shown = draft ?? String(qty);
+
+  return (
+    <div className="flex items-center border border-neutral-300 rounded-md text-sm focus-within:ring-2 focus-within:ring-neutral-400">
+      <button
+        type="button"
+        className="px-2.5 py-1 text-neutral-600 hover:bg-neutral-100"
+        onClick={() => onStep(-1)}
+        aria-label="decrease"
+      >
+        −
+      </button>
+      <input
+        type="text"
+        inputMode="numeric"
+        value={shown}
+        aria-label={label}
+        onChange={(e) => {
+          const digits = e.target.value.replace(/\D/g, "").slice(0, 4);
+          setDraft(digits);
+          if (digits !== "" && Number(digits) > 0) onChange(Number(digits));
+        }}
+        onFocus={(e) => e.target.select()}
+        onBlur={() => {
+          if (draft === "" || Number(draft) < 1) onChange(1);
+          setDraft(null);
+        }}
+        onKeyDown={(e) => {
+          if (e.key === "Enter") e.currentTarget.blur();
+        }}
+        className="w-10 py-1 text-center text-neutral-900 bg-transparent focus:outline-none"
+      />
+      <button
+        type="button"
+        className="px-2.5 py-1 text-neutral-600 hover:bg-neutral-100"
+        onClick={() => onStep(1)}
+        aria-label="increase"
+      >
+        +
+      </button>
     </div>
   );
 }

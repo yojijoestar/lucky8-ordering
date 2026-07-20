@@ -176,12 +176,18 @@ export default function CatalogBrowser({
 
 function ProductCard({ p, lang }: { p: P; lang: Lang }) {
   const { add } = useCart();
-  const [qty, setQty] = useState(1);
+  // "" is a transient state while the field is being retyped.
+  const [qty, setQty] = useState<number | "">(1);
   const [justAdded, setJustAdded] = useState(false);
   const names = productName(lang, p);
   const price = formatMoney(p.priceCents);
 
   function handleAdd() {
+    const n = Number(qty);
+    if (!Number.isFinite(n) || n < 1) {
+      setQty(1);
+      return;
+    }
     add(
       {
         productId: p.id,
@@ -192,7 +198,7 @@ function ProductCard({ p, lang }: { p: P; lang: Lang }) {
         priceCents: p.priceCents,
         imagePath: p.imagePath,
       },
-      qty
+      n
     );
     setQty(1);
     setJustAdded(true);
@@ -234,20 +240,41 @@ function ProductCard({ p, lang }: { p: P; lang: Lang }) {
           ) : (
             <span className="text-xs text-neutral-500">{t(lang, "callForPrice")}</span>
           )}
-          <div className="flex items-center border border-neutral-300 rounded-md text-sm">
+          <div className="flex items-center border border-neutral-300 rounded-md text-sm focus-within:ring-2 focus-within:ring-neutral-400">
             <button
               type="button"
               className="px-2 py-0.5 text-neutral-600 hover:bg-neutral-100"
-              onClick={() => setQty(Math.max(1, qty - 1))}
+              onClick={() => setQty((q) => Math.max(1, Number(q || 1) - 1))}
               aria-label="decrease"
             >
               −
             </button>
-            <span className="px-1.5 min-w-6 text-center text-neutral-900">{qty}</span>
+            <input
+              type="text"
+              inputMode="numeric"
+              value={qty}
+              aria-label={t(lang, "qty")}
+              onChange={(e) => {
+                const digits = e.target.value.replace(/\D/g, "").slice(0, 4);
+                // Allow an empty field while typing; commit on blur.
+                setQty(digits === "" ? "" : Number(digits));
+              }}
+              onFocus={(e) => e.target.select()}
+              onBlur={() => {
+                if (qty === "" || Number(qty) < 1) setQty(1);
+              }}
+              onKeyDown={(e) => {
+                if (e.key === "Enter") {
+                  e.preventDefault();
+                  handleAdd();
+                }
+              }}
+              className="w-9 py-0.5 text-center text-neutral-900 bg-transparent focus:outline-none"
+            />
             <button
               type="button"
               className="px-2 py-0.5 text-neutral-600 hover:bg-neutral-100"
-              onClick={() => setQty(qty + 1)}
+              onClick={() => setQty((q) => Number(q || 0) + 1)}
               aria-label="increase"
             >
               +

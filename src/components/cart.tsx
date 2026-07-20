@@ -24,6 +24,7 @@ type CartApi = {
   items: CartItem[];
   add: (item: Omit<CartItem, "qty">, qty: number) => void;
   setQty: (productId: number, qty: number) => void;
+  changeQty: (productId: number, delta: number) => void;
   remove: (productId: number) => void;
   clear: () => void;
   totalCases: number;
@@ -67,10 +68,21 @@ export function CartProvider({ children }: { children: ReactNode }) {
           ? prev.filter((i) => i.productId !== productId)
           : prev.map((i) => (i.productId === productId ? { ...i, qty } : i))
       );
+    // Delta-based so rapid +/- clicks that React batches together each
+    // apply against current state rather than a stale render's value.
+    const changeQty: CartApi["changeQty"] = (productId, delta) =>
+      setItems((prev) =>
+        prev
+          .map((i) =>
+            i.productId === productId ? { ...i, qty: i.qty + delta } : i
+          )
+          .filter((i) => i.qty > 0)
+      );
     return {
       items,
       add,
       setQty,
+      changeQty,
       remove: (productId) =>
         setItems((prev) => prev.filter((i) => i.productId !== productId)),
       clear: () => setItems([]),
